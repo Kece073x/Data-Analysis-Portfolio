@@ -1,0 +1,2001 @@
+Patient ID,Patient Name,Visit Date,Race,Department Referral,Admission,Wait Time (minutes),Satisfaction (out of 10),Admin-Flagged Cases,Gender,Age
+100-61-1860,Patient_1,1-Jan-21,Declined to Identify,None,Admitted,54,7.6,No Admin,F,51
+100-24-6191,Patient_2,1-Jan-21,Two or More Races,Gastroenterology,Admitted,37.1,9.8,Admin Required,M,42
+100-70-6734,Patient_3,1-Jan-21,Asian,None,Not Admitted,58.5,9.1,Admin Required,F,22
+100-92-5426,Patient_4,1-Jan-21,White,Neurology,Not Admitted,48.9,9,Admin Required,M,9
+100-84-9322,Patient_5,1-Jan-21,Native American,Physiotherapy,Admitted,45.8,9.5,Admin Required,F,3
+100-31-1769,Patient_6,1-Jan-21,White,None,Not Admitted,49.1,9.3,Admin Required,F,24
+100-97-7949,Patient_7,1-Jan-21,Pacific Islander,General Practice,Admitted,39.1,8.4,No Admin,F,45
+100-11-6311,Patient_8,2-Jan-21,White,Orthopedics,Not Admitted,40.2,8,Admin Required,M,0
+100-69-7420,Patient_9,2-Jan-21,Two or More Races,Gastroenterology,Not Admitted,54,4.9,No Admin,M,47
+100-42-5555,Patient_10,5-Jan-21,Two or More Races,None,Not Admitted,47.2,7.3,Admin Required,F,35
+100-67-7396,Patient_11,5-Jan-21,African American,None,Admitted,55.9,6.7,No Admin,M,29
+100-98-9666,Patient_12,5-Jan-21,Native American,General Practice,Admitted,55.6,9,No Admin,F,38
+100-68-3558,Patient_13,6-Jan-21,African American,Physiotherapy,Not Admitted,59.1,6.4,Admin Required,F,4
+100-51-3047,Patient_14,6-Jan-21,White,None,Not Admitted,48,3.9,Admin Required,M,46
+100-69-1189,Patient_15,6-Jan-21,Asian,None,Not Admitted,40.1,3,No Admin,F,33
+100-71-3734,Patient_16,6-Jan-21,African American,Physiotherapy,Admitted,26.7,7.7,No Admin,M,5
+100-71-5658,Patient_17,6-Jan-21,African American,General Practice,Not Admitted,48.2,6.8,No Admin,M,65
+100-64-2267,Patient_18,6-Jan-21,Two or More Races,Gastroenterology,Not Admitted,31.7,5.3,No Admin,M,17
+100-73-2528,Patient_19,10-Jan-21,Asian,Gastroenterology,Not Admitted,31.3,4.2,Admin Required,M,33
+100-12-4556,Patient_20,11-Jan-21,Pacific Islander,None,Not Admitted,29.5,6.3,No Admin,M,18
+100-60-9838,Patient_21,11-Jan-21,White,Physiotherapy,Admitted,55,3.7,No Admin,F,15
+100-30-6393,Patient_22,12-Jan-21,African American,None,Admitted,54.7,5.4,No Admin,M,54
+100-13-9792,Patient_23,13-Jan-21,Asian,Cardiology,Not Admitted,45.2,5.7,No Admin,F,71
+100-69-9433,Patient_24,13-Jan-21,Native American,Orthopedics,Admitted,38.9,6.3,No Admin,M,8
+100-18-8513,Patient_25,14-Jan-21,Asian,Gastroenterology,Admitted,46.9,6.3,No Admin,F,23
+100-62-8041,Patient_26,14-Jan-21,White,Cardiology,Admitted,44.3,4.8,No Admin,M,43
+100-93-7235,Patient_27,1-Feb-21,Asian,Neurology,Not Admitted,36.6,9,No Admin,M,66
+100-69-1775,Patient_28,1-Feb-21,Asian,Orthopedics,Admitted,35.2,5.5,Admin Required,M,9
+100-56-9226,Patient_29,1-Feb-21,Asian,None,Admitted,35.3,4.6,No Admin,M,59
+100-87-4152,Patient_30,1-Feb-21,Native American,General Practice,Admitted,43.6,4.2,No Admin,M,55
+100-45-2585,Patient_31,1-Feb-21,African American,Gastroenterology,Not Admitted,45.9,5.3,Admin Required,F,63
+100-13-4073,Patient_32,1-Feb-21,White,Neurology,Not Admitted,38.1,3.5,Admin Required,M,35
+100-15-4843,Patient_33,1-Feb-21,Native American,Orthopedics,Admitted,58.7,3.2,No Admin,F,42
+100-63-7873,Patient_34,1-Feb-21,Asian,Gastroenterology,Admitted,23.4,7.2,No Admin,F,56
+100-53-1161,Patient_35,1-Feb-21,Asian,Physiotherapy,Not Admitted,33.9,7.3,Admin Required,M,25
+100-83-1995,Patient_36,1-Feb-21,African American,General Practice,Not Admitted,36.8,6.7,No Admin,M,2
+100-23-8629,Patient_37,1-Feb-21,White,Orthopedics,Admitted,20.7,8.3,No Admin,M,20
+100-96-2016,Patient_38,1-Feb-21,Two or More Races,Physiotherapy,Admitted,34.6,3.3,Admin Required,M,39
+100-71-7439,Patient_39,1-Feb-21,Native American,Cardiology,Not Admitted,30.9,9.6,Admin Required,M,74
+100-94-7863,Patient_40,22-Jan-21,African American,None,Not Admitted,40.2,3.7,No Admin,F,9
+100-91-1878,Patient_41,22-Jan-21,White,Physiotherapy,Admitted,33.5,7.7,No Admin,M,31
+100-62-5887,Patient_42,23-Jan-21,Native American,Orthopedics,Not Admitted,49,3.9,Admin Required,M,46
+100-35-5859,Patient_43,23-Jan-21,Asian,Orthopedics,Admitted,40.4,9.2,Admin Required,M,46
+100-69-9571,Patient_44,24-Jan-21,White,Cardiology,Admitted,25.2,6.6,Admin Required,F,73
+100-50-6276,Patient_45,5-Feb-21,White,None,Admitted,50,3.6,No Admin,F,25
+100-24-1064,Patient_46,5-Feb-21,Pacific Islander,Physiotherapy,Not Admitted,24,7.3,Admin Required,M,20
+100-98-9006,Patient_47,5-Feb-21,White,Physiotherapy,Admitted,53.6,3.1,Admin Required,F,41
+100-18-6463,Patient_48,5-Feb-21,Two or More Races,None,Admitted,57.3,8.4,Admin Required,M,19
+100-10-3027,Patient_49,5-Feb-21,White,Physiotherapy,Not Admitted,32.9,7.6,No Admin,F,45
+100-17-6258,Patient_50,5-Feb-21,Two or More Races,Gastroenterology,Not Admitted,57,4.5,Admin Required,F,61
+100-90-1391,Patient_51,5-Feb-21,Asian,None,Admitted,51.7,5.6,Admin Required,M,11
+100-44-6892,Patient_52,5-Feb-21,Two or More Races,General Practice,Admitted,56.9,3.1,No Admin,F,63
+100-50-4099,Patient_53,5-Feb-21,Native American,Orthopedics,Not Admitted,46.7,7.9,Admin Required,M,33
+100-16-9392,Patient_54,5-Feb-21,Asian,General Practice,Not Admitted,29.4,5.3,Admin Required,F,49
+100-81-4104,Patient_55,5-Feb-21,Asian,Gastroenterology,Not Admitted,55.8,7,No Admin,F,48
+100-57-3454,Patient_56,5-Feb-21,Two or More Races,Cardiology,Admitted,27.4,9.7,Admin Required,F,79
+100-71-9996,Patient_57,5-Feb-21,African American,Gastroenterology,Admitted,28.5,5.1,No Admin,M,76
+100-53-9154,Patient_58,1-Feb-21,Declined to Identify,Neurology,Admitted,30.8,9.9,Admin Required,F,56
+100-44-6056,Patient_59,1-Feb-21,White,Neurology,Not Admitted,32.2,7.4,Admin Required,M,30
+100-56-4840,Patient_60,2-Feb-21,Pacific Islander,Neurology,Admitted,40.6,4.7,No Admin,M,54
+100-14-8385,Patient_61,2-Feb-21,Declined to Identify,None,Not Admitted,48.5,6.1,No Admin,M,32
+100-23-7938,Patient_62,3-Feb-21,White,Physiotherapy,Admitted,57,8.2,No Admin,M,62
+100-18-1206,Patient_63,3-Feb-21,White,Gastroenterology,Not Admitted,23.5,6.1,Admin Required,F,5
+100-24-6977,Patient_64,4-Feb-21,Asian,General Practice,Admitted,58.2,3.5,Admin Required,F,33
+100-51-8035,Patient_65,5-Feb-21,White,Cardiology,Admitted,56.9,4.2,No Admin,M,27
+100-86-8858,Patient_66,5-Feb-21,Pacific Islander,General Practice,Not Admitted,22.2,8.5,Admin Required,F,73
+100-72-1863,Patient_67,6-Feb-21,White,General Practice,Not Admitted,34.4,7.5,Admin Required,M,47
+100-61-6116,Patient_68,6-Feb-21,Two or More Races,General Practice,Admitted,52.5,7,Admin Required,M,73
+100-13-2757,Patient_69,7-Feb-21,Declined to Identify,Cardiology,Not Admitted,44.5,4.2,Admin Required,F,32
+100-32-7374,Patient_70,7-Feb-21,Two or More Races,Neurology,Not Admitted,51.2,8.9,No Admin,M,4
+100-24-4242,Patient_71,8-Feb-21,Pacific Islander,General Practice,Admitted,48.8,9.7,No Admin,M,34
+100-38-2059,Patient_72,8-Feb-21,White,Cardiology,Not Admitted,39.9,3.3,No Admin,F,49
+100-22-4157,Patient_73,9-Feb-21,Native American,Cardiology,Admitted,21.6,3.5,No Admin,M,14
+100-37-3693,Patient_74,9-Feb-21,Pacific Islander,Physiotherapy,Admitted,43.4,9.2,Admin Required,F,30
+100-37-4627,Patient_75,10-Feb-21,Asian,Cardiology,Not Admitted,21.9,8.7,Admin Required,M,27
+100-93-6450,Patient_76,11-Feb-21,Two or More Races,Neurology,Not Admitted,44.1,7.3,No Admin,M,77
+100-98-8392,Patient_77,11-Feb-21,Two or More Races,General Practice,Admitted,52,9.6,Admin Required,M,47
+100-10-2306,Patient_78,12-Feb-21,African American,Cardiology,Admitted,43.4,7.5,Admin Required,M,9
+100-71-7776,Patient_79,12-Feb-21,White,None,Admitted,59.9,4.5,No Admin,M,63
+100-86-6864,Patient_80,13-Feb-21,Asian,Cardiology,Admitted,38.2,8.1,Admin Required,M,68
+100-12-8526,Patient_81,13-Feb-21,Native American,Orthopedics,Admitted,50,7.5,Admin Required,M,49
+100-79-6575,Patient_82,14-Feb-21,Two or More Races,Orthopedics,Admitted,46.7,9.9,No Admin,M,52
+100-36-5413,Patient_83,14-Feb-21,Two or More Races,Orthopedics,Not Admitted,59.7,4.5,No Admin,M,19
+100-46-1663,Patient_84,15-Feb-21,Asian,Cardiology,Not Admitted,48.5,7.2,Admin Required,M,5
+100-88-8994,Patient_85,15-Feb-21,Pacific Islander,Neurology,Not Admitted,26.6,8.5,Admin Required,M,13
+100-41-2495,Patient_86,16-Feb-21,Pacific Islander,General Practice,Admitted,58.2,5.4,No Admin,M,63
+100-61-6232,Patient_87,17-Feb-21,White,Gastroenterology,Not Admitted,46.7,5.7,No Admin,M,16
+100-71-7585,Patient_88,17-Feb-21,African American,Gastroenterology,Admitted,22.4,9.2,No Admin,F,25
+100-61-2291,Patient_89,2-Mar-21,Two or More Races,Gastroenterology,Admitted,46.3,5.8,Admin Required,M,77
+100-48-8554,Patient_90,2-Mar-21,African American,Neurology,Not Admitted,55.3,7.4,Admin Required,M,62
+100-65-1698,Patient_91,2-Mar-21,Pacific Islander,Physiotherapy,Admitted,43.1,9.2,Admin Required,M,37
+100-11-5737,Patient_92,2-Mar-21,Pacific Islander,None,Admitted,34.2,4.5,Admin Required,F,27
+100-63-1854,Patient_93,2-Mar-21,Declined to Identify,None,Admitted,52.8,9.9,Admin Required,M,26
+100-10-6249,Patient_94,2-Mar-21,Native American,Orthopedics,Admitted,51.3,7.9,Admin Required,F,56
+100-62-2707,Patient_95,2-Mar-21,White,Orthopedics,Admitted,41.8,6.5,Admin Required,F,24
+100-41-6535,Patient_96,2-Mar-21,Declined to Identify,Cardiology,Admitted,26.2,6,No Admin,M,1
+100-77-4510,Patient_97,2-Mar-21,Native American,Gastroenterology,Not Admitted,30,9.7,No Admin,M,31
+100-84-5218,Patient_98,2-Mar-21,Declined to Identify,Cardiology,Admitted,49.5,4.4,Admin Required,F,39
+100-26-9958,Patient_99,2-Mar-21,Declined to Identify,Gastroenterology,Admitted,52.2,5.2,Admin Required,M,67
+100-47-3327,Patient_100,2-Mar-21,White,Orthopedics,Admitted,31.2,5.2,Admin Required,F,10
+100-78-3931,Patient_101,24-Feb-21,White,General Practice,Admitted,34.7,5,Admin Required,F,25
+100-79-8125,Patient_102,25-Feb-21,Asian,Physiotherapy,Not Admitted,23.1,6.3,Admin Required,F,27
+100-20-7287,Patient_103,25-Feb-21,African American,Cardiology,Not Admitted,48.5,9.9,Admin Required,M,15
+100-82-5282,Patient_104,26-Feb-21,African American,Physiotherapy,Admitted,20.1,9.2,No Admin,F,60
+100-79-3511,Patient_105,26-Feb-21,Asian,Physiotherapy,Admitted,21.9,5.3,No Admin,F,65
+100-12-1659,Patient_106,27-Feb-21,Asian,Physiotherapy,Admitted,20.2,6,No Admin,M,14
+100-68-7546,Patient_107,28-Feb-21,Pacific Islander,Orthopedics,Not Admitted,45.8,7.7,No Admin,M,58
+100-76-9338,Patient_108,28-Feb-21,Native American,None,Not Admitted,36.7,3.1,No Admin,M,44
+100-29-3911,Patient_109,1-Mar-21,Declined to Identify,Orthopedics,Not Admitted,31.9,8.7,No Admin,M,17
+100-80-2843,Patient_110,1-Mar-21,Asian,Physiotherapy,Not Admitted,56.5,9.2,No Admin,M,39
+100-42-2959,Patient_111,2-Mar-21,Two or More Races,Orthopedics,Admitted,27.7,9,Admin Required,F,77
+100-48-3385,Patient_112,2-Mar-21,African American,Physiotherapy,Not Admitted,35.6,5.6,No Admin,M,5
+100-10-2802,Patient_113,3-Mar-21,Asian,Neurology,Not Admitted,57.6,6.2,Admin Required,M,22
+100-66-7616,Patient_114,3-Mar-21,Two or More Races,Gastroenterology,Admitted,37.1,3.1,No Admin,F,48
+100-59-6534,Patient_115,4-Mar-21,Two or More Races,None,Admitted,42.2,5.8,No Admin,F,14
+100-51-1262,Patient_116,4-Mar-21,Two or More Races,Neurology,Not Admitted,23.2,6.2,No Admin,M,63
+100-25-9815,Patient_117,5-Mar-21,Pacific Islander,General Practice,Not Admitted,51.6,9.3,Admin Required,F,49
+100-69-3049,Patient_118,6-Mar-21,Pacific Islander,Orthopedics,Not Admitted,36.9,9.3,Admin Required,M,3
+100-10-6423,Patient_119,6-Mar-21,Two or More Races,General Practice,Not Admitted,52,9.8,No Admin,M,71
+100-21-5548,Patient_120,7-Mar-21,Native American,Cardiology,Admitted,30.2,9.2,No Admin,F,2
+100-46-8158,Patient_121,7-Mar-21,Pacific Islander,Orthopedics,Admitted,36.9,3.1,Admin Required,F,63
+100-18-8400,Patient_122,8-Mar-21,Declined to Identify,Gastroenterology,Not Admitted,51.5,7.5,No Admin,M,46
+100-28-3255,Patient_123,8-Mar-21,Two or More Races,Neurology,Not Admitted,59,3.5,No Admin,F,42
+100-12-5499,Patient_124,9-Mar-21,Declined to Identify,Gastroenterology,Not Admitted,22.4,4.9,Admin Required,M,57
+100-33-7197,Patient_125,9-Mar-21,Declined to Identify,Cardiology,Not Admitted,52.5,7,No Admin,M,47
+100-42-2648,Patient_126,10-Mar-21,Two or More Races,Physiotherapy,Not Admitted,32,7.9,Admin Required,M,29
+100-81-6539,Patient_127,10-Mar-21,African American,Gastroenterology,Admitted,42,7.6,No Admin,M,80
+100-47-5199,Patient_128,11-Mar-21,Native American,Gastroenterology,Admitted,31.6,3.3,Admin Required,F,71
+100-93-9445,Patient_129,12-Mar-21,Two or More Races,Physiotherapy,Admitted,44.5,3.7,No Admin,F,73
+100-98-1098,Patient_130,12-Mar-21,Two or More Races,Orthopedics,Not Admitted,34.2,3.9,No Admin,M,37
+100-34-3961,Patient_131,13-Mar-21,Pacific Islander,Physiotherapy,Not Admitted,33.3,3.6,Admin Required,M,13
+100-91-3869,Patient_132,13-Mar-21,Two or More Races,Neurology,Admitted,21.5,4.2,No Admin,F,60
+100-44-1956,Patient_133,14-Mar-21,African American,Gastroenterology,Admitted,25.9,7.8,No Admin,M,18
+100-50-9352,Patient_134,14-Mar-21,Pacific Islander,Physiotherapy,Not Admitted,56.7,8.8,No Admin,F,73
+100-77-7944,Patient_135,15-Mar-21,White,Cardiology,Admitted,59.9,5.9,Admin Required,M,15
+100-23-5911,Patient_136,4-Sep-21,White,Cardiology,Not Admitted,51.2,7.8,Admin Required,M,41
+100-29-7015,Patient_137,4-Sep-21,Declined to Identify,Gastroenterology,Not Admitted,31.5,4.4,Admin Required,F,60
+100-17-2218,Patient_138,4-Sep-21,Native American,Neurology,Admitted,36.1,9.8,No Admin,F,47
+100-26-5735,Patient_139,4-Sep-21,Declined to Identify,General Practice,Admitted,49.6,5.4,Admin Required,F,51
+100-42-5555,Patient_140,4-Sep-21,African American,Neurology,Admitted,58.7,8.9,No Admin,M,43
+100-68-9050,Patient_141,4-Sep-21,Asian,None,Not Admitted,38.2,9.6,No Admin,F,52
+100-95-4446,Patient_142,4-Sep-21,Native American,None,Not Admitted,53.2,9.1,No Admin,F,51
+100-31-7893,Patient_143,4-Sep-21,White,None,Admitted,59,3.5,No Admin,M,27
+100-39-4436,Patient_144,4-Sep-21,Declined to Identify,Gastroenterology,Not Admitted,54.9,7.6,No Admin,M,22
+100-60-6895,Patient_145,4-Sep-21,White,Cardiology,Not Admitted,29.1,3.8,No Admin,M,28
+100-36-1225,Patient_146,4-Sep-21,African American,Orthopedics,Not Admitted,20.3,3,Admin Required,F,79
+100-30-5893,Patient_147,4-Sep-21,African American,Cardiology,Admitted,39.7,3.4,No Admin,F,24
+100-37-8022,Patient_148,22-Mar-21,Asian,Orthopedics,Not Admitted,41.3,9.4,No Admin,F,8
+100-73-6600,Patient_149,22-Mar-21,Asian,Orthopedics,Admitted,28.1,9.4,No Admin,M,22
+100-78-8996,Patient_150,3-Apr-21,Pacific Islander,Cardiology,Admitted,31.4,4.6,No Admin,M,24
+100-57-8683,Patient_151,3-Apr-21,Native American,Gastroenterology,Not Admitted,50.6,6.8,Admin Required,M,29
+100-44-8679,Patient_152,3-Apr-21,African American,Neurology,Admitted,38.8,9.7,Admin Required,M,55
+100-26-8339,Patient_153,3-Apr-21,Declined to Identify,Orthopedics,Not Admitted,32.7,6.5,No Admin,F,13
+100-39-2069,Patient_154,3-Apr-21,White,General Practice,Admitted,44.9,5.8,Admin Required,M,67
+100-15-2060,Patient_155,3-Apr-21,Two or More Races,Cardiology,Admitted,46.1,6.4,No Admin,F,14
+100-33-4420,Patient_156,3-Apr-21,Asian,Cardiology,Not Admitted,50.8,8.5,Admin Required,F,14
+100-55-1606,Patient_157,3-Apr-21,Two or More Races,None,Admitted,26.3,6.3,Admin Required,F,34
+100-69-6088,Patient_158,3-Apr-21,Declined to Identify,Neurology,Admitted,49.7,8.5,Admin Required,M,4
+100-72-1980,Patient_159,3-Apr-21,Asian,None,Admitted,44,6,No Admin,M,54
+100-41-7102,Patient_160,3-Apr-21,Two or More Races,Cardiology,Not Admitted,22.3,4.8,No Admin,F,43
+100-42-4327,Patient_161,29-Mar-21,Native American,Cardiology,Not Admitted,51.1,5.3,Admin Required,F,57
+100-76-9319,Patient_162,30-Mar-21,Declined to Identify,Orthopedics,Admitted,35.3,3.5,No Admin,M,24
+100-27-2816,Patient_163,30-Mar-21,White,Neurology,Admitted,33.2,6.5,Admin Required,M,13
+100-63-1569,Patient_164,31-Mar-21,Native American,Physiotherapy,Admitted,37.9,4,Admin Required,F,59
+100-76-2895,Patient_165,31-Mar-21,Declined to Identify,General Practice,Not Admitted,33.8,8.7,No Admin,M,4
+100-55-4863,Patient_166,1-Apr-21,Pacific Islander,Orthopedics,Not Admitted,33.5,5.9,No Admin,F,20
+100-41-5014,Patient_167,1-Apr-21,Asian,Cardiology,Admitted,52.3,8.4,Admin Required,F,33
+100-95-2686,Patient_168,2-Apr-21,African American,Orthopedics,Not Admitted,25,9.7,No Admin,F,40
+100-75-8806,Patient_169,2-Apr-21,White,General Practice,Not Admitted,58.8,8.9,No Admin,F,25
+100-36-2409,Patient_170,3-Apr-21,Native American,Cardiology,Not Admitted,42.2,9.7,Admin Required,F,65
+100-26-9096,Patient_171,4-Apr-21,Native American,General Practice,Not Admitted,27.3,7,Admin Required,M,40
+100-18-8343,Patient_172,4-Apr-21,Two or More Races,Physiotherapy,Admitted,25.2,4.2,No Admin,F,57
+100-48-6596,Patient_173,5-Apr-21,Asian,Orthopedics,Not Admitted,43.7,9.5,Admin Required,F,23
+100-51-3806,Patient_174,5-Apr-21,African American,Gastroenterology,Not Admitted,45.3,9.1,Admin Required,F,31
+100-35-6986,Patient_175,6-Apr-21,Declined to Identify,Orthopedics,Admitted,22.1,9.1,No Admin,M,50
+100-59-9716,Patient_176,6-Apr-21,African American,None,Admitted,29.7,7.9,Admin Required,M,10
+100-69-6625,Patient_177,7-Apr-21,Asian,Neurology,Not Admitted,51.8,7.4,Admin Required,F,42
+100-16-8992,Patient_178,7-Apr-21,Asian,Neurology,Not Admitted,22,3.1,Admin Required,M,46
+100-45-5780,Patient_179,8-Apr-21,Pacific Islander,None,Admitted,54.2,8.2,No Admin,F,9
+100-29-3368,Patient_180,8-Apr-21,Pacific Islander,Cardiology,Admitted,46.3,3.6,No Admin,M,80
+100-17-7655,Patient_181,9-Apr-21,African American,Neurology,Admitted,37.4,4.8,Admin Required,F,79
+100-25-7002,Patient_182,10-Apr-21,Declined to Identify,General Practice,Not Admitted,33.9,6.9,Admin Required,M,67
+100-96-6919,Patient_183,10-Apr-21,African American,Neurology,Not Admitted,20.8,6.2,No Admin,M,74
+100-96-1853,Patient_184,11-Apr-21,Asian,Neurology,Admitted,53,3.1,No Admin,M,46
+100-60-4769,Patient_185,11-Apr-21,Asian,None,Not Admitted,25.7,8.8,No Admin,F,71
+100-72-2148,Patient_186,12-Apr-21,Two or More Races,Cardiology,Admitted,32.4,9.2,Admin Required,F,53
+100-31-7457,Patient_187,12-Apr-21,Pacific Islander,Physiotherapy,Not Admitted,42.8,7.8,No Admin,M,18
+100-67-8509,Patient_188,13-Apr-21,Two or More Races,Neurology,Admitted,29.8,6.8,No Admin,M,64
+100-58-5777,Patient_189,13-Apr-21,White,Gastroenterology,Admitted,39.9,9.7,No Admin,F,5
+100-79-4854,Patient_190,14-Apr-21,Asian,Neurology,Not Admitted,52.4,3.8,No Admin,M,31
+100-63-3491,Patient_191,14-Apr-21,Two or More Races,Physiotherapy,Not Admitted,38.8,8.2,Admin Required,M,66
+100-17-4124,Patient_192,15-Apr-21,African American,None,Not Admitted,58,3.9,No Admin,F,27
+100-69-4051,Patient_193,16-Apr-21,Pacific Islander,Physiotherapy,Not Admitted,53.9,5.7,Admin Required,F,80
+100-14-6222,Patient_194,16-Apr-21,Pacific Islander,None,Not Admitted,33.3,7.1,Admin Required,M,28
+100-77-5869,Patient_195,17-Apr-21,Declined to Identify,General Practice,Not Admitted,36,8.2,No Admin,F,5
+100-56-7966,Patient_196,17-Apr-21,African American,None,Admitted,36.9,3,No Admin,M,76
+100-49-8987,Patient_197,18-Apr-21,Declined to Identify,General Practice,Not Admitted,45,4.8,Admin Required,F,17
+100-25-5465,Patient_198,5-May-21,Two or More Races,General Practice,Admitted,31.5,6.8,No Admin,F,50
+100-39-5752,Patient_199,5-May-21,Native American,None,Admitted,58.8,6.7,Admin Required,M,38
+100-72-6177,Patient_200,6-May-21,White,Gastroenterology,Not Admitted,44.3,7.5,No Admin,F,25
+100-64-9932,Patient_201,6-May-21,African American,Orthopedics,Admitted,36,5.1,No Admin,F,23
+100-71-3838,Patient_202,7-May-21,African American,None,Admitted,45.8,6.8,Admin Required,F,59
+100-18-2931,Patient_203,7-May-21,African American,Neurology,Not Admitted,35.8,4.3,Admin Required,M,13
+100-10-2081,Patient_204,8-May-21,Declined to Identify,Gastroenterology,Not Admitted,52.7,4.3,Admin Required,M,40
+100-10-8805,Patient_205,9-May-21,Two or More Races,Gastroenterology,Not Admitted,42.7,7,Admin Required,F,61
+100-57-4672,Patient_206,9-May-21,African American,Neurology,Admitted,21.7,7.8,Admin Required,F,2
+100-10-4343,Patient_207,23-Apr-21,Native American,Orthopedics,Not Admitted,27.1,3.8,No Admin,M,13
+100-70-5070,Patient_208,24-Apr-21,African American,Gastroenterology,Not Admitted,54.6,3.9,Admin Required,F,14
+100-73-1580,Patient_209,24-Apr-21,Pacific Islander,General Practice,Not Admitted,42.5,7,No Admin,F,14
+100-31-8004,Patient_210,25-Apr-21,White,Orthopedics,Not Admitted,58,4.9,Admin Required,F,19
+100-76-4147,Patient_211,25-Apr-21,Pacific Islander,Cardiology,Admitted,22.9,5.7,No Admin,M,49
+100-35-2679,Patient_212,26-Apr-21,Pacific Islander,Neurology,Not Admitted,31.8,5.8,Admin Required,F,55
+100-60-8253,Patient_213,27-Apr-21,White,Orthopedics,Admitted,27.7,4.2,Admin Required,M,38
+100-66-6188,Patient_214,27-Apr-21,Native American,None,Not Admitted,42.2,3,No Admin,M,64
+100-56-3141,Patient_215,28-Apr-21,Two or More Races,Orthopedics,Admitted,35.3,9,Admin Required,M,13
+100-71-7617,Patient_216,28-Apr-21,Pacific Islander,General Practice,Admitted,26.3,8,No Admin,M,69
+100-57-7484,Patient_217,29-Apr-21,Two or More Races,None,Admitted,45.7,7.8,No Admin,F,18
+100-48-8421,Patient_218,29-Apr-21,Pacific Islander,Physiotherapy,Not Admitted,41.5,6.8,No Admin,M,8
+100-32-6881,Patient_219,30-Apr-21,Asian,Neurology,Admitted,31,7.9,Admin Required,M,21
+100-19-3849,Patient_220,30-Apr-21,White,Neurology,Not Admitted,39.2,9.5,Admin Required,M,48
+100-61-8390,Patient_221,1-May-21,Pacific Islander,Orthopedics,Not Admitted,49.8,7.7,Admin Required,F,15
+100-19-7905,Patient_222,1-May-21,Asian,Gastroenterology,Not Admitted,28.2,4.9,No Admin,F,80
+100-28-3489,Patient_223,2-May-21,Declined to Identify,None,Not Admitted,31.7,7,Admin Required,M,32
+100-10-5611,Patient_224,3-May-21,Asian,Physiotherapy,Not Admitted,33.8,6.1,Admin Required,F,38
+100-25-3839,Patient_225,3-May-21,African American,None,Admitted,49.9,6.9,Admin Required,F,36
+100-89-6878,Patient_226,4-May-21,Pacific Islander,Neurology,Not Admitted,53.9,6.6,Admin Required,M,80
+100-11-7303,Patient_227,4-May-21,Asian,None,Admitted,35.1,9,Admin Required,M,7
+100-93-2687,Patient_228,5-May-21,Two or More Races,Physiotherapy,Admitted,31.9,7.6,Admin Required,F,36
+100-21-7833,Patient_229,5-May-21,Declined to Identify,Gastroenterology,Admitted,55.6,4.3,Admin Required,M,58
+100-44-3427,Patient_230,4-Aug-21,Native American,Orthopedics,Admitted,60,3.4,Admin Required,M,7
+100-42-5000,Patient_231,5-Aug-21,Pacific Islander,General Practice,Admitted,46.8,6,Admin Required,M,43
+100-70-3738,Patient_232,5-Aug-21,African American,None,Admitted,59.6,3.1,No Admin,M,31
+100-52-6732,Patient_233,6-Aug-21,Native American,General Practice,Admitted,46.4,5.2,Admin Required,M,24
+100-21-9002,Patient_234,6-Aug-21,Asian,Neurology,Not Admitted,49.3,5.6,Admin Required,M,14
+100-74-6536,Patient_235,7-Aug-21,Native American,Orthopedics,Admitted,35.5,5.6,Admin Required,M,43
+100-49-4913,Patient_236,9-May-21,Native American,Cardiology,Not Admitted,37.3,9.9,Admin Required,M,51
+100-52-8723,Patient_237,10-May-21,Declined to Identify,Orthopedics,Admitted,25.8,5.1,Admin Required,F,24
+100-38-5107,Patient_238,10-May-21,Native American,None,Admitted,52.9,4.9,No Admin,F,45
+100-55-9945,Patient_239,11-May-21,Native American,Gastroenterology,Admitted,57.2,3.9,No Admin,F,50
+100-44-9967,Patient_240,11-May-21,Pacific Islander,Orthopedics,Admitted,44.9,6.6,Admin Required,M,37
+100-35-1417,Patient_241,12-May-21,Declined to Identify,None,Not Admitted,33.7,4.1,No Admin,M,41
+100-16-4267,Patient_242,12-May-21,African American,None,Not Admitted,26.2,7.3,Admin Required,F,44
+100-67-8668,Patient_243,13-May-21,Asian,General Practice,Not Admitted,30.6,4.1,Admin Required,F,47
+100-84-1412,Patient_244,13-May-21,Declined to Identify,Orthopedics,Admitted,30.2,7,No Admin,F,4
+100-45-1728,Patient_245,14-May-21,Declined to Identify,None,Admitted,44.5,8.8,No Admin,M,72
+100-30-8164,Patient_246,15-May-21,White,General Practice,Admitted,57.8,3.3,No Admin,F,25
+100-45-6988,Patient_247,15-May-21,Declined to Identify,Physiotherapy,Not Admitted,21.9,5.9,Admin Required,F,60
+100-82-3967,Patient_248,16-May-21,White,Cardiology,Admitted,20,6.2,Admin Required,M,50
+100-73-3786,Patient_249,16-May-21,Asian,General Practice,Not Admitted,44,8.5,Admin Required,F,77
+100-58-2122,Patient_250,2-Jun-21,Native American,General Practice,Not Admitted,31.4,6.3,No Admin,M,36
+100-45-6073,Patient_251,2-Jun-21,Pacific Islander,None,Admitted,55.2,7,Admin Required,M,14
+100-33-7806,Patient_252,3-Jun-21,Pacific Islander,Neurology,Admitted,33.1,8.5,No Admin,M,39
+100-71-4440,Patient_253,3-Jun-21,Asian,Neurology,Not Admitted,31.6,6.9,Admin Required,F,32
+100-64-6644,Patient_254,4-Jun-21,Asian,Gastroenterology,Not Admitted,30.8,5.5,Admin Required,M,7
+100-32-3914,Patient_255,4-Jun-21,Two or More Races,Neurology,Not Admitted,25.8,3.6,No Admin,M,10
+100-39-9787,Patient_256,20-May-21,Native American,General Practice,Admitted,43.3,8.1,No Admin,F,47
+100-98-2365,Patient_257,21-May-21,Asian,Gastroenterology,Admitted,26.7,9.1,Admin Required,F,70
+100-22-1698,Patient_258,21-May-21,Declined to Identify,None,Admitted,37,9.8,No Admin,F,39
+100-28-1395,Patient_259,22-May-21,Pacific Islander,Orthopedics,Admitted,38.4,9.5,Admin Required,M,26
+100-70-8400,Patient_260,2-Jun-21,African American,Cardiology,Admitted,20.8,8.6,Admin Required,M,1
+100-28-5171,Patient_261,2-Jun-21,Pacific Islander,Cardiology,Admitted,20.7,7.5,No Admin,F,51
+100-18-3502,Patient_262,3-Jun-21,White,General Practice,Not Admitted,40.8,8.5,No Admin,F,71
+100-37-1717,Patient_263,3-Jun-21,Pacific Islander,General Practice,Not Admitted,47.8,6,No Admin,M,12
+100-61-5946,Patient_264,4-Jun-21,Two or More Races,Gastroenterology,Not Admitted,57.7,7.2,No Admin,M,24
+100-25-5980,Patient_265,4-Jun-21,Native American,None,Admitted,27.2,5.4,No Admin,M,6
+100-78-8266,Patient_266,26-May-21,Asian,Physiotherapy,Not Admitted,24.1,5.3,No Admin,M,63
+100-21-8192,Patient_267,26-May-21,Native American,General Practice,Admitted,22.1,8.3,Admin Required,M,23
+100-61-6588,Patient_268,27-May-21,Asian,Physiotherapy,Admitted,37.4,6.2,No Admin,M,78
+100-62-2167,Patient_269,27-May-21,Pacific Islander,Physiotherapy,Not Admitted,44.9,4.5,No Admin,F,69
+100-66-2062,Patient_270,28-May-21,African American,Neurology,Admitted,53.6,4.4,Admin Required,F,68
+100-62-6161,Patient_271,28-May-21,African American,None,Not Admitted,47.3,9,No Admin,M,19
+100-67-7541,Patient_272,29-May-21,Two or More Races,Cardiology,Not Admitted,28.3,7.7,Admin Required,F,29
+100-14-8330,Patient_273,29-May-21,White,Cardiology,Admitted,38.5,6.8,No Admin,F,19
+100-96-9924,Patient_274,30-May-21,Pacific Islander,Physiotherapy,Not Admitted,56.4,5.8,Admin Required,M,53
+100-84-7801,Patient_275,30-May-21,Asian,Cardiology,Not Admitted,33.1,6,No Admin,M,47
+100-85-8241,Patient_276,31-May-21,Pacific Islander,None,Not Admitted,39.9,3.4,Admin Required,M,49
+100-67-3539,Patient_277,1-Jun-21,Two or More Races,Neurology,Not Admitted,58.3,6.2,Admin Required,M,72
+100-26-2542,Patient_278,1-Jun-21,Declined to Identify,None,Admitted,49.4,8.6,No Admin,M,72
+100-55-2191,Patient_279,2-Jun-21,Declined to Identify,General Practice,Not Admitted,49.9,5.7,No Admin,F,76
+100-51-7938,Patient_280,2-Jun-21,Two or More Races,Physiotherapy,Not Admitted,30.1,5.7,Admin Required,M,68
+100-75-2540,Patient_281,3-Jun-21,Asian,None,Not Admitted,36.6,3.1,Admin Required,F,12
+100-38-6541,Patient_282,3-Jun-21,Native American,Cardiology,Admitted,23.3,6.2,No Admin,F,23
+100-92-2365,Patient_283,4-Jun-21,Two or More Races,Orthopedics,Not Admitted,44.3,3.2,No Admin,F,3
+100-26-9702,Patient_284,4-Jun-21,Asian,None,Admitted,24.1,7,No Admin,M,20
+100-80-5312,Patient_285,5-Jun-21,African American,Physiotherapy,Not Admitted,53.4,6.5,No Admin,F,70
+100-54-4141,Patient_286,5-Jun-21,Two or More Races,Neurology,Not Admitted,52.6,8.9,Admin Required,M,12
+100-40-2810,Patient_287,6-Jun-21,Asian,Cardiology,Not Admitted,41.3,7.1,Admin Required,F,42
+100-70-3923,Patient_288,7-Jun-21,Two or More Races,Neurology,Admitted,25.6,5.3,Admin Required,F,56
+100-63-5186,Patient_289,7-Jun-21,Two or More Races,Physiotherapy,Admitted,21,6.6,Admin Required,M,48
+100-83-6977,Patient_290,8-Jun-21,Native American,Cardiology,Admitted,51.9,7.9,Admin Required,M,3
+100-28-5268,Patient_291,8-Jun-21,Native American,General Practice,Admitted,44,3.7,Admin Required,F,21
+100-22-5849,Patient_292,9-Jun-21,Asian,Cardiology,Admitted,48.4,7.3,No Admin,M,35
+100-67-7619,Patient_293,9-Jun-21,Asian,General Practice,Admitted,32.2,9.4,Admin Required,M,55
+100-81-4072,Patient_294,4-Jul-21,White,Neurology,Not Admitted,40.4,5.1,No Admin,M,28
+100-12-1504,Patient_295,4-Jul-21,Two or More Races,Neurology,Admitted,49.9,7.4,No Admin,M,3
+100-72-2531,Patient_296,4-Jul-21,Declined to Identify,Physiotherapy,Not Admitted,38.5,8.7,No Admin,F,27
+100-34-1823,Patient_297,4-Jul-21,Two or More Races,General Practice,Admitted,44.1,6.6,No Admin,M,72
+100-42-6029,Patient_298,4-Jul-21,Two or More Races,Neurology,Admitted,51.6,8,No Admin,F,14
+100-15-3105,Patient_299,4-Jul-21,Asian,General Practice,Admitted,28.6,5.2,Admin Required,M,28
+100-53-7316,Patient_300,4-Jul-21,Two or More Races,Neurology,Not Admitted,22.6,5.1,Admin Required,M,45
+100-70-5910,Patient_301,4-Jul-21,Pacific Islander,Cardiology,Admitted,41.3,7.7,Admin Required,M,67
+100-30-5175,Patient_302,4-Jul-21,Two or More Races,None,Admitted,22.5,7.9,Admin Required,F,49
+100-94-6348,Patient_303,4-Jul-21,Pacific Islander,Orthopedics,Not Admitted,50.7,9.6,No Admin,M,13
+100-45-7190,Patient_304,15-Jun-21,Native American,Cardiology,Not Admitted,48.8,4.6,No Admin,M,50
+100-58-6645,Patient_305,16-Jun-21,Declined to Identify,Gastroenterology,Not Admitted,55.3,6.3,No Admin,M,20
+100-24-4486,Patient_306,16-Jun-21,Asian,None,Not Admitted,45.6,4.8,Admin Required,M,54
+100-10-9053,Patient_307,17-Jun-21,Two or More Races,Gastroenterology,Admitted,22.7,3.6,No Admin,F,38
+100-12-3703,Patient_308,18-Jun-21,Pacific Islander,Neurology,Not Admitted,30.1,5.8,Admin Required,M,26
+100-96-9120,Patient_309,18-Jun-21,Pacific Islander,Orthopedics,Admitted,52.3,5.6,No Admin,M,46
+100-84-2353,Patient_310,19-Jun-21,Native American,Orthopedics,Admitted,26.7,4.9,Admin Required,F,61
+100-25-6063,Patient_311,19-Jun-21,Pacific Islander,Neurology,Not Admitted,47.9,5.1,Admin Required,M,42
+100-85-8575,Patient_312,20-Jun-21,African American,Neurology,Admitted,51.2,5.5,Admin Required,M,53
+100-37-5468,Patient_313,20-Jun-21,White,General Practice,Not Admitted,33.2,9.9,No Admin,M,1
+100-17-7819,Patient_314,21-Jun-21,Declined to Identify,Neurology,Admitted,32.9,8.5,Admin Required,F,49
+100-17-3745,Patient_315,21-Jun-21,Native American,Physiotherapy,Not Admitted,42.3,3.5,Admin Required,M,8
+100-69-1539,Patient_316,22-Jun-21,Native American,Neurology,Not Admitted,54.5,9.1,No Admin,F,44
+100-50-5835,Patient_317,3-May-21,Two or More Races,Physiotherapy,Not Admitted,29,7.4,No Admin,M,76
+100-73-7042,Patient_318,3-May-21,African American,Neurology,Not Admitted,57.7,9.2,Admin Required,F,48
+100-72-8312,Patient_319,3-May-21,Two or More Races,General Practice,Not Admitted,44,5.4,No Admin,F,64
+100-82-7132,Patient_320,3-May-21,Two or More Races,Physiotherapy,Not Admitted,59.7,6.3,Admin Required,F,35
+100-93-3779,Patient_321,3-May-21,Asian,None,Admitted,23.6,9.3,Admin Required,F,3
+100-38-2581,Patient_322,3-May-21,Asian,Physiotherapy,Admitted,25.1,4.9,Admin Required,F,7
+100-44-4324,Patient_323,26-Jun-21,Asian,Cardiology,Admitted,53.1,9.4,Admin Required,M,40
+100-15-6713,Patient_324,26-Jun-21,African American,General Practice,Not Admitted,54.6,8.8,Admin Required,M,70
+100-78-2838,Patient_325,27-Jun-21,Two or More Races,Gastroenterology,Admitted,37.8,9.9,No Admin,M,4
+100-34-1009,Patient_326,27-Jun-21,White,Physiotherapy,Not Admitted,48.6,5.3,Admin Required,M,49
+100-65-9989,Patient_327,28-Jun-21,Declined to Identify,Cardiology,Admitted,54.7,4.7,No Admin,M,48
+100-14-2015,Patient_328,28-Jun-21,Asian,Cardiology,Admitted,21.7,5.3,No Admin,M,51
+100-42-3193,Patient_329,29-Jun-21,Asian,Cardiology,Not Admitted,43,9.7,Admin Required,F,22
+100-58-8449,Patient_330,30-Jun-21,Native American,Neurology,Admitted,54.1,5.3,Admin Required,M,7
+100-72-4925,Patient_331,30-Jun-21,Two or More Races,Cardiology,Admitted,35.9,7,No Admin,M,64
+100-68-7938,Patient_332,1-Jul-21,Two or More Races,Neurology,Admitted,32.1,5.8,No Admin,M,15
+100-58-5000,Patient_333,1-Jul-21,African American,Gastroenterology,Not Admitted,51.8,5.8,No Admin,M,55
+100-10-1404,Patient_334,2-Jul-21,African American,General Practice,Admitted,33.4,4.4,No Admin,F,5
+100-64-3000,Patient_335,2-Jul-21,Asian,Orthopedics,Not Admitted,20.1,6.8,Admin Required,M,64
+100-78-6989,Patient_336,3-Jul-21,Two or More Races,Neurology,Admitted,58.4,8.9,No Admin,M,74
+100-12-2460,Patient_337,3-Jul-21,White,Cardiology,Admitted,43.7,3.3,Admin Required,F,5
+100-32-8140,Patient_338,3-May-21,Declined to Identify,Cardiology,Admitted,52.8,9.2,No Admin,F,31
+100-62-5809,Patient_339,3-May-21,Two or More Races,None,Admitted,53,7.7,No Admin,M,18
+100-83-5178,Patient_340,3-May-21,Native American,Cardiology,Not Admitted,22.7,7.3,Admin Required,F,14
+100-26-8245,Patient_341,3-May-21,Two or More Races,General Practice,Admitted,26.8,7.4,Admin Required,F,62
+100-82-6997,Patient_342,3-May-21,Pacific Islander,Physiotherapy,Not Admitted,32.4,5.1,No Admin,M,31
+100-10-5780,Patient_343,7-Jul-21,African American,Physiotherapy,Not Admitted,32.8,5.9,Admin Required,F,30
+100-86-8939,Patient_344,7-Jul-21,Native American,Cardiology,Admitted,46.4,8.6,Admin Required,M,11
+100-71-5544,Patient_345,8-Jul-21,Declined to Identify,None,Admitted,44.9,5.1,No Admin,M,20
+100-41-4419,Patient_346,8-Jul-21,Asian,Neurology,Not Admitted,39.8,6.3,No Admin,M,68
+100-81-1249,Patient_347,9-Jul-21,Native American,General Practice,Not Admitted,28.5,3.1,Admin Required,F,33
+100-43-1770,Patient_348,9-Jul-21,Two or More Races,None,Admitted,35.3,8.1,No Admin,M,17
+100-59-5363,Patient_349,10-Jul-21,Asian,Neurology,Admitted,41.7,5.9,No Admin,F,69
+100-74-2077,Patient_350,10-Jul-21,Two or More Races,General Practice,Admitted,38.7,6.7,No Admin,F,18
+100-14-8901,Patient_351,11-Jul-21,Asian,Cardiology,Admitted,25.1,3.8,No Admin,M,6
+100-66-7544,Patient_352,12-Jul-21,Declined to Identify,Physiotherapy,Admitted,46,9.9,No Admin,M,61
+100-56-2252,Patient_353,12-Jul-21,African American,General Practice,Not Admitted,22.9,5.1,No Admin,M,29
+100-94-5673,Patient_354,13-Jul-21,Declined to Identify,Cardiology,Admitted,35.1,7.4,Admin Required,F,48
+100-84-5530,Patient_355,13-Jul-21,Pacific Islander,Gastroenterology,Admitted,48.4,7.1,No Admin,F,63
+100-47-7881,Patient_356,14-Jul-21,White,Orthopedics,Not Admitted,20.8,8.5,Admin Required,F,39
+100-47-7241,Patient_357,14-Jul-21,African American,General Practice,Admitted,42.8,5.1,Admin Required,M,39
+100-91-7941,Patient_358,15-Jul-21,Declined to Identify,Orthopedics,Admitted,33.4,8.3,Admin Required,F,12
+100-88-8002,Patient_359,15-Jul-21,Pacific Islander,General Practice,Not Admitted,20.4,5.7,No Admin,M,50
+100-60-2331,Patient_360,16-Jul-21,White,Orthopedics,Admitted,27.6,5.9,No Admin,F,57
+100-47-8648,Patient_361,17-Jul-21,Pacific Islander,Gastroenterology,Not Admitted,57.6,7.7,No Admin,F,23
+100-97-6115,Patient_362,17-Jul-21,Two or More Races,Physiotherapy,Admitted,40.8,8.5,Admin Required,M,19
+100-39-5854,Patient_363,18-Jul-21,Two or More Races,Neurology,Admitted,59.9,7.7,Admin Required,F,15
+100-60-3180,Patient_364,18-Jul-21,Asian,Orthopedics,Admitted,41,9.3,Admin Required,M,48
+100-38-8043,Patient_365,19-Jul-21,African American,Gastroenterology,Not Admitted,41.8,5,No Admin,M,19
+100-19-7327,Patient_366,19-Jul-21,Two or More Races,Orthopedics,Not Admitted,35.7,9.3,Admin Required,F,54
+100-26-6449,Patient_367,20-Jul-21,Native American,Physiotherapy,Not Admitted,32.4,3.9,Admin Required,F,54
+100-26-4579,Patient_368,20-Jul-21,Pacific Islander,Orthopedics,Not Admitted,30.1,7.6,Admin Required,M,72
+100-93-5164,Patient_369,21-Jul-21,African American,Gastroenterology,Admitted,33.7,6.8,No Admin,M,38
+100-43-8941,Patient_370,21-Jul-21,Native American,Cardiology,Not Admitted,38.4,6.5,No Admin,M,42
+100-62-6569,Patient_371,22-Jul-21,Two or More Races,Gastroenterology,Not Admitted,27.7,5.2,No Admin,F,21
+100-86-7269,Patient_372,23-Jul-21,Asian,None,Not Admitted,29,6.5,Admin Required,F,48
+100-52-2906,Patient_373,23-Jul-21,Declined to Identify,Physiotherapy,Admitted,30.9,4.1,Admin Required,F,68
+100-32-8350,Patient_374,4-Aug-21,Asian,Cardiology,Admitted,38,5.6,Admin Required,F,29
+100-89-7238,Patient_375,5-Aug-21,Native American,None,Not Admitted,46.1,3.7,Admin Required,M,53
+100-84-7031,Patient_376,5-Aug-21,White,Physiotherapy,Not Admitted,54.2,7,Admin Required,F,16
+100-17-9472,Patient_377,3-May-21,Two or More Races,Cardiology,Admitted,31.5,3.7,Admin Required,M,12
+100-76-2887,Patient_378,3-May-21,Native American,Orthopedics,Not Admitted,27.3,4.1,Admin Required,F,49
+100-76-1666,Patient_379,3-May-21,White,Cardiology,Not Admitted,35.2,3.6,Admin Required,M,45
+100-41-7777,Patient_380,3-May-21,White,Gastroenterology,Not Admitted,55.8,5.7,Admin Required,F,38
+100-60-8570,Patient_381,3-May-21,Pacific Islander,None,Not Admitted,20.4,8.9,No Admin,F,77
+100-30-6124,Patient_382,28-Jul-21,African American,Orthopedics,Admitted,47.1,9.3,No Admin,M,79
+100-91-5777,Patient_383,29-Jul-21,Pacific Islander,Gastroenterology,Admitted,39.1,3.5,No Admin,F,72
+100-70-7677,Patient_384,29-Jul-21,Two or More Races,Physiotherapy,Admitted,26.4,7.4,Admin Required,M,35
+100-30-7981,Patient_385,30-Jul-21,White,Cardiology,Not Admitted,32.8,7.8,Admin Required,M,56
+100-10-7376,Patient_386,30-Jul-21,Native American,Gastroenterology,Not Admitted,29,6.7,No Admin,M,25
+100-21-3393,Patient_387,31-Jul-21,Declined to Identify,Orthopedics,Admitted,55.1,7.7,Admin Required,M,72
+100-55-3593,Patient_388,31-Jul-21,White,None,Admitted,39.3,4.6,No Admin,M,12
+100-58-8240,Patient_389,1-Aug-21,Native American,None,Admitted,42.5,6.4,No Admin,M,68
+100-35-7190,Patient_390,1-Aug-21,Declined to Identify,Cardiology,Not Admitted,43.7,5.7,No Admin,M,33
+100-95-7493,Patient_391,2-Aug-21,Pacific Islander,Gastroenterology,Admitted,45.6,3.6,No Admin,M,31
+100-72-5143,Patient_392,2-Aug-21,Pacific Islander,Orthopedics,Not Admitted,39.8,7.4,No Admin,M,13
+100-70-5432,Patient_393,4-Sep-21,African American,General Practice,Not Admitted,20.7,6.5,No Admin,M,15
+100-35-2276,Patient_394,4-Sep-21,Native American,Physiotherapy,Admitted,33.4,4.9,Admin Required,F,55
+100-61-1302,Patient_395,4-Sep-21,White,Physiotherapy,Admitted,27.4,6.3,Admin Required,M,74
+100-65-9717,Patient_396,4-Sep-21,Asian,Orthopedics,Not Admitted,47.2,8.4,Admin Required,M,51
+100-37-9150,Patient_397,5-Aug-21,Pacific Islander,General Practice,Admitted,22.3,8.6,Admin Required,F,30
+100-87-1364,Patient_398,6-Aug-21,Pacific Islander,None,Admitted,42.6,7.5,Admin Required,F,28
+100-35-5621,Patient_399,6-Aug-21,African American,Cardiology,Not Admitted,28.4,6.3,Admin Required,F,62
+100-68-6126,Patient_400,7-Aug-21,Declined to Identify,Neurology,Not Admitted,58,7,No Admin,F,76
+100-12-2646,Patient_401,7-Aug-21,African American,Neurology,Not Admitted,33.4,5.7,Admin Required,F,8
+100-32-3797,Patient_402,8-Aug-21,White,Cardiology,Not Admitted,33,3.9,Admin Required,F,38
+100-27-8673,Patient_403,9-Aug-21,Native American,Orthopedics,Not Admitted,56.9,5.7,Admin Required,F,29
+100-47-7882,Patient_404,9-Aug-21,Two or More Races,General Practice,Admitted,36.7,6.7,Admin Required,M,25
+100-24-9152,Patient_405,10-Aug-21,Two or More Races,General Practice,Not Admitted,58.5,7.2,Admin Required,F,77
+100-37-9905,Patient_406,10-Aug-21,Native American,Physiotherapy,Not Admitted,21,9.6,No Admin,F,38
+100-48-2976,Patient_407,4-Jul-21,Declined to Identify,None,Not Admitted,32.3,8.4,No Admin,M,72
+100-26-7229,Patient_408,4-Jul-21,Pacific Islander,Gastroenterology,Admitted,46.6,4.1,Admin Required,M,25
+100-53-5632,Patient_409,4-Jul-21,Declined to Identify,General Practice,Not Admitted,55.6,4.2,Admin Required,M,44
+100-26-4596,Patient_410,4-Jul-21,Pacific Islander,Cardiology,Not Admitted,30.3,3.7,Admin Required,F,76
+100-93-7168,Patient_411,4-Jul-21,Pacific Islander,Gastroenterology,Not Admitted,57.2,8.2,No Admin,M,26
+100-77-8561,Patient_412,4-Jul-21,Two or More Races,Neurology,Admitted,43.8,7.9,Admin Required,F,38
+100-76-1232,Patient_413,4-Jul-21,Declined to Identify,Gastroenterology,Not Admitted,52,9.9,Admin Required,F,20
+100-27-7371,Patient_414,4-Jul-21,African American,None,Not Admitted,35.9,6.7,Admin Required,F,75
+100-95-8943,Patient_415,4-Jul-21,Pacific Islander,Cardiology,Not Admitted,28.5,8.8,No Admin,M,64
+100-49-7891,Patient_416,4-Jul-21,Asian,None,Admitted,56.4,7,Admin Required,M,33
+100-92-3472,Patient_417,4-Jul-21,Asian,Gastroenterology,Admitted,57.3,9.1,No Admin,M,14
+100-15-3739,Patient_418,17-Aug-21,African American,Orthopedics,Admitted,39.9,8,Admin Required,F,30
+100-35-2761,Patient_419,17-Aug-21,Asian,General Practice,Admitted,20.3,7.5,No Admin,M,23
+100-68-1876,Patient_420,18-Aug-21,White,Cardiology,Not Admitted,24.4,7,No Admin,F,39
+100-79-4812,Patient_421,18-Aug-21,Pacific Islander,Orthopedics,Not Admitted,42.9,8.1,Admin Required,F,10
+100-42-2460,Patient_422,19-Aug-21,African American,Gastroenterology,Admitted,21,5.9,Admin Required,F,36
+100-31-2733,Patient_423,19-Aug-21,Declined to Identify,General Practice,Admitted,35.9,3.7,Admin Required,M,33
+100-79-6622,Patient_424,20-Aug-21,Pacific Islander,Physiotherapy,Not Admitted,32.1,3.3,Admin Required,F,70
+100-13-7986,Patient_425,21-Aug-21,African American,Orthopedics,Not Admitted,48.6,6.4,No Admin,M,9
+100-71-4735,Patient_426,21-Aug-21,Two or More Races,Orthopedics,Admitted,22.2,7.2,Admin Required,M,0
+100-64-9434,Patient_427,22-Aug-21,Declined to Identify,Gastroenterology,Admitted,39.5,3.6,No Admin,F,0
+100-40-2063,Patient_428,22-Aug-21,Two or More Races,Neurology,Admitted,43.2,5,Admin Required,M,59
+100-45-6342,Patient_429,23-Aug-21,Pacific Islander,Gastroenterology,Admitted,44.7,5.3,Admin Required,F,44
+100-15-8489,Patient_430,23-Aug-21,Declined to Identify,Orthopedics,Not Admitted,36.2,6.9,No Admin,F,56
+100-93-9195,Patient_431,24-Aug-21,Asian,General Practice,Admitted,32.2,4.9,No Admin,F,38
+100-88-9837,Patient_432,24-Aug-21,African American,Neurology,Admitted,47.3,3.7,Admin Required,M,57
+100-60-6560,Patient_433,3-May-21,Pacific Islander,Gastroenterology,Not Admitted,53.9,4.2,Admin Required,F,71
+100-75-1846,Patient_434,3-May-21,White,Cardiology,Not Admitted,47.7,4.2,Admin Required,M,58
+100-84-7316,Patient_435,3-May-21,Declined to Identify,Gastroenterology,Not Admitted,57.3,8.9,No Admin,F,3
+100-53-7469,Patient_436,3-May-21,Declined to Identify,Orthopedics,Not Admitted,48.7,5,Admin Required,M,11
+100-35-9915,Patient_437,27-Aug-21,Native American,Orthopedics,Not Admitted,50.6,8,Admin Required,M,14
+100-29-5208,Patient_438,28-Aug-21,Pacific Islander,Physiotherapy,Admitted,26.7,7,No Admin,M,54
+100-21-3048,Patient_439,28-Aug-21,Pacific Islander,Gastroenterology,Admitted,36.8,9.8,Admin Required,M,44
+100-23-2828,Patient_440,29-Aug-21,Two or More Races,Orthopedics,Admitted,39.4,4.9,Admin Required,F,73
+100-20-7988,Patient_441,29-Aug-21,Native American,Cardiology,Not Admitted,30.3,4.1,Admin Required,M,75
+100-12-4744,Patient_442,30-Aug-21,Asian,None,Admitted,41.1,3.4,No Admin,M,70
+100-15-1009,Patient_443,30-Aug-21,Two or More Races,Neurology,Not Admitted,31.6,4.7,No Admin,M,31
+100-14-7038,Patient_444,31-Aug-21,Native American,None,Admitted,47.5,7.8,No Admin,M,63
+100-19-3219,Patient_445,31-Aug-21,Two or More Races,Neurology,Admitted,38.8,3.6,Admin Required,F,73
+100-11-3060,Patient_446,1-Sep-21,Asian,Cardiology,Not Admitted,38.4,4.7,No Admin,F,67
+100-49-2619,Patient_447,2-Sep-21,Native American,Gastroenterology,Not Admitted,59.3,9,Admin Required,F,28
+100-74-2342,Patient_448,2-Sep-21,Native American,Physiotherapy,Admitted,35.7,7.1,Admin Required,M,43
+100-82-3832,Patient_449,3-Sep-21,White,Orthopedics,Admitted,34.5,3.5,No Admin,M,45
+100-18-2994,Patient_450,3-Sep-21,Two or More Races,Orthopedics,Admitted,32.7,3.3,Admin Required,M,16
+100-24-4490,Patient_451,4-Sep-21,Two or More Races,Orthopedics,Admitted,55.8,3.4,Admin Required,M,33
+100-58-2604,Patient_452,4-Sep-21,Declined to Identify,Gastroenterology,Admitted,39.9,9.6,No Admin,M,38
+100-71-1235,Patient_453,5-Sep-21,Asian,Neurology,Not Admitted,44,8.9,No Admin,M,3
+100-59-2908,Patient_454,5-Sep-21,African American,Cardiology,Not Admitted,27.2,8.9,Admin Required,F,12
+100-84-6256,Patient_455,6-Sep-21,White,Orthopedics,Not Admitted,41.6,9.5,Admin Required,M,45
+100-43-3635,Patient_456,7-Sep-21,Native American,None,Not Admitted,31,6.5,Admin Required,M,18
+100-44-3560,Patient_457,7-Sep-21,Native American,Orthopedics,Admitted,49.2,4.7,Admin Required,M,38
+100-49-4391,Patient_458,8-Sep-21,Native American,Gastroenterology,Admitted,53.3,5.8,Admin Required,F,15
+100-31-6951,Patient_459,8-Sep-21,White,Cardiology,Not Admitted,48.6,8,Admin Required,M,26
+100-81-7413,Patient_460,9-Sep-21,Native American,Physiotherapy,Admitted,49.2,9.1,No Admin,M,66
+100-69-7941,Patient_461,9-Sep-21,Native American,Cardiology,Not Admitted,40.5,6,Admin Required,M,30
+100-44-5820,Patient_462,10-Sep-21,Asian,None,Admitted,48.5,6.7,Admin Required,M,10
+100-46-3898,Patient_463,10-Sep-21,Pacific Islander,Orthopedics,Admitted,36.9,9.5,Admin Required,M,41
+100-87-8577,Patient_464,11-Sep-21,Pacific Islander,Orthopedics,Admitted,46.1,3.8,Admin Required,M,17
+100-71-5227,Patient_465,11-Sep-21,Declined to Identify,General Practice,Not Admitted,30.4,9,Admin Required,F,67
+100-98-2065,Patient_466,12-Sep-21,Declined to Identify,Neurology,Not Admitted,22.8,4.1,No Admin,M,65
+100-98-7943,Patient_467,13-Sep-21,Native American,None,Not Admitted,36.5,6.4,No Admin,M,76
+100-60-8804,Patient_468,13-Sep-21,Asian,General Practice,Not Admitted,38.5,4.5,Admin Required,M,62
+100-47-6984,Patient_469,14-Sep-21,Native American,Cardiology,Admitted,30.3,7.2,No Admin,M,5
+100-32-5670,Patient_470,14-Sep-21,Declined to Identify,Physiotherapy,Admitted,49.1,6.9,Admin Required,M,48
+100-24-3712,Patient_471,15-Sep-21,White,Neurology,Admitted,22.9,5.7,No Admin,M,2
+100-26-2248,Patient_472,15-Sep-21,White,None,Admitted,28.9,9,Admin Required,M,35
+100-75-2997,Patient_473,16-Sep-21,African American,Orthopedics,Not Admitted,49.9,7.6,No Admin,M,19
+100-62-4687,Patient_474,16-Sep-21,Pacific Islander,Cardiology,Admitted,37.5,8,Admin Required,M,24
+100-60-2970,Patient_475,17-Sep-21,Asian,None,Admitted,48.2,4.1,No Admin,M,79
+100-79-6765,Patient_476,17-Sep-21,Two or More Races,Orthopedics,Admitted,42.7,9.2,No Admin,M,57
+100-76-2202,Patient_477,18-Sep-21,Pacific Islander,Neurology,Not Admitted,58,4.2,Admin Required,F,77
+100-81-6567,Patient_478,19-Sep-21,Two or More Races,Orthopedics,Not Admitted,43.9,4.6,Admin Required,M,65
+100-24-6742,Patient_479,19-Sep-21,African American,Physiotherapy,Not Admitted,20.6,3.9,Admin Required,M,6
+100-38-6408,Patient_480,20-Sep-21,African American,Cardiology,Admitted,34.1,6.1,No Admin,M,52
+100-36-1419,Patient_481,20-Sep-21,Native American,Gastroenterology,Not Admitted,25.7,9.2,Admin Required,M,17
+100-38-2120,Patient_482,21-Sep-21,Declined to Identify,Orthopedics,Admitted,57,4.8,No Admin,F,36
+100-36-1950,Patient_483,21-Sep-21,African American,Physiotherapy,Admitted,24.2,5.6,No Admin,F,76
+100-42-6373,Patient_484,22-Sep-21,African American,Gastroenterology,Admitted,35.5,8.9,Admin Required,M,3
+100-77-3645,Patient_485,22-Sep-21,Two or More Races,Cardiology,Not Admitted,29,7.3,Admin Required,M,39
+100-75-5612,Patient_486,23-Sep-21,Declined to Identify,Neurology,Not Admitted,53.9,8.3,No Admin,M,23
+100-83-7028,Patient_487,23-Sep-21,African American,Neurology,Admitted,32.3,4.5,No Admin,F,62
+100-40-7371,Patient_488,24-Sep-21,Pacific Islander,Cardiology,Admitted,59.7,8,No Admin,M,29
+100-97-8863,Patient_489,25-Sep-21,African American,Cardiology,Not Admitted,21.5,4.6,Admin Required,M,66
+100-24-4228,Patient_490,25-Sep-21,Declined to Identify,None,Not Admitted,25.1,9.9,Admin Required,F,44
+100-17-3371,Patient_491,26-Sep-21,Native American,Physiotherapy,Not Admitted,29,6.9,No Admin,F,42
+100-85-4756,Patient_492,26-Sep-21,Asian,Physiotherapy,Admitted,52.4,7.9,No Admin,F,45
+100-11-1094,Patient_493,27-Sep-21,Declined to Identify,Cardiology,Admitted,55.1,3.8,No Admin,F,35
+100-45-1793,Patient_494,27-Sep-21,Two or More Races,General Practice,Admitted,22.9,4.8,Admin Required,F,45
+100-52-3116,Patient_495,28-Sep-21,Asian,General Practice,Not Admitted,21.3,4,Admin Required,F,14
+100-29-7166,Patient_496,28-Sep-21,Pacific Islander,Gastroenterology,Not Admitted,49.8,5.7,Admin Required,M,59
+100-56-1345,Patient_497,29-Sep-21,White,Gastroenterology,Not Admitted,25.3,5,No Admin,F,56
+100-55-9554,Patient_498,29-Sep-21,Declined to Identify,General Practice,Admitted,25.3,8.1,Admin Required,F,36
+100-21-8783,Patient_499,30-Sep-21,Native American,Cardiology,Admitted,20.9,3.8,No Admin,F,39
+100-71-1984,Patient_500,1-Oct-21,Two or More Races,Cardiology,Not Admitted,22,8.3,No Admin,M,43
+100-69-4531,Patient_501,1-Oct-21,Pacific Islander,Gastroenterology,Admitted,30.5,3.3,Admin Required,M,65
+100-77-4876,Patient_502,2-Oct-21,Asian,Orthopedics,Not Admitted,22.6,4.4,Admin Required,F,53
+100-81-1126,Patient_503,2-Oct-21,Pacific Islander,Cardiology,Admitted,34.8,8.5,No Admin,M,73
+100-40-7024,Patient_504,3-Oct-21,Declined to Identify,General Practice,Not Admitted,53.3,8.2,Admin Required,M,55
+100-60-8196,Patient_505,3-Oct-21,African American,Physiotherapy,Admitted,33.1,6.3,Admin Required,F,48
+100-87-4368,Patient_506,4-Oct-21,Native American,Cardiology,Admitted,49.1,3.3,Admin Required,M,36
+100-95-2792,Patient_507,4-Oct-21,Declined to Identify,Cardiology,Not Admitted,23.8,7.3,No Admin,M,21
+100-55-6732,Patient_508,5-Oct-21,White,Orthopedics,Not Admitted,46.4,5.8,No Admin,F,65
+100-30-4417,Patient_509,6-Oct-21,Declined to Identify,Gastroenterology,Not Admitted,32.7,5.2,No Admin,M,74
+100-45-4030,Patient_510,6-Oct-21,Asian,Cardiology,Not Admitted,50,7.5,No Admin,M,25
+100-66-4072,Patient_511,7-Oct-21,Asian,Neurology,Not Admitted,25.5,6.1,Admin Required,M,47
+100-72-5021,Patient_512,7-Oct-21,Declined to Identify,None,Admitted,55.9,3.6,No Admin,F,27
+100-64-7514,Patient_513,8-Oct-21,Asian,General Practice,Not Admitted,29.7,9.4,No Admin,M,19
+100-49-3708,Patient_514,8-Oct-21,African American,Neurology,Not Admitted,34.1,8.4,Admin Required,M,15
+100-56-8112,Patient_515,9-Oct-21,Pacific Islander,Gastroenterology,Not Admitted,58,3.4,Admin Required,F,13
+100-62-9393,Patient_516,9-Oct-21,Declined to Identify,Physiotherapy,Admitted,43.1,6.7,No Admin,F,35
+100-61-7456,Patient_517,10-Oct-21,Native American,None,Not Admitted,34.6,3.6,No Admin,M,36
+100-35-8970,Patient_518,10-Oct-21,African American,Neurology,Not Admitted,58,8.9,Admin Required,M,38
+100-72-1536,Patient_519,11-Oct-21,Pacific Islander,None,Not Admitted,33.2,7.3,No Admin,F,36
+100-84-8973,Patient_520,12-Oct-21,Native American,General Practice,Admitted,23.8,4.2,Admin Required,F,39
+100-11-9070,Patient_521,12-Oct-21,Native American,Gastroenterology,Admitted,59.9,3.1,Admin Required,M,48
+100-91-9666,Patient_522,13-Oct-21,Native American,Cardiology,Not Admitted,30.7,3.2,No Admin,M,70
+100-43-7490,Patient_523,13-Oct-21,Pacific Islander,Physiotherapy,Admitted,54.1,6.6,Admin Required,F,20
+100-26-7783,Patient_524,14-Oct-21,African American,Gastroenterology,Not Admitted,26.6,8.1,No Admin,M,42
+100-52-5971,Patient_525,14-Oct-21,Native American,None,Admitted,49.3,3.8,Admin Required,M,78
+100-60-2205,Patient_526,15-Oct-21,Native American,Neurology,Not Admitted,41,4.5,Admin Required,M,20
+100-33-2990,Patient_527,15-Oct-21,Two or More Races,General Practice,Admitted,59.2,5.3,Admin Required,M,40
+100-61-4572,Patient_528,16-Oct-21,Declined to Identify,General Practice,Not Admitted,42.1,4.5,No Admin,F,17
+100-97-7320,Patient_529,16-Oct-21,Pacific Islander,Gastroenterology,Not Admitted,21,5.7,Admin Required,M,7
+100-38-5757,Patient_530,17-Oct-21,Pacific Islander,Cardiology,Admitted,44.2,6.9,No Admin,M,31
+100-35-6588,Patient_531,18-Oct-21,Asian,Neurology,Not Admitted,25.8,7.8,No Admin,F,3
+100-58-1966,Patient_532,18-Oct-21,Pacific Islander,Cardiology,Not Admitted,51.9,9.7,Admin Required,M,5
+100-90-4432,Patient_533,19-Oct-21,African American,Cardiology,Not Admitted,54.3,9.5,Admin Required,F,19
+100-58-5243,Patient_534,19-Oct-21,Pacific Islander,Neurology,Not Admitted,39.3,7,No Admin,F,0
+100-95-6182,Patient_535,20-Oct-21,Two or More Races,None,Admitted,51.3,8.1,Admin Required,M,3
+100-70-7704,Patient_536,20-Oct-21,Declined to Identify,Gastroenterology,Not Admitted,25.8,9.7,Admin Required,F,16
+100-80-2759,Patient_537,21-Oct-21,Declined to Identify,Gastroenterology,Admitted,39.7,3.6,Admin Required,M,78
+100-22-3482,Patient_538,21-Oct-21,Pacific Islander,Orthopedics,Admitted,35.8,3,Admin Required,M,28
+100-65-9914,Patient_539,22-Oct-21,Native American,Gastroenterology,Admitted,44.5,3.2,Admin Required,M,45
+100-71-3079,Patient_540,22-Aug-21,White,General Practice,Admitted,21.8,6.9,No Admin,F,57
+100-39-5524,Patient_541,22-Aug-21,White,None,Not Admitted,50.1,8.3,No Admin,F,11
+100-39-8311,Patient_542,22-Aug-21,Native American,Neurology,Not Admitted,23.2,5.6,Admin Required,F,79
+100-49-8186,Patient_543,22-Aug-21,Native American,Gastroenterology,Admitted,46.3,6.8,No Admin,M,33
+100-27-1768,Patient_544,22-Aug-21,Native American,None,Not Admitted,20.7,6.6,No Admin,M,14
+100-87-6490,Patient_545,22-Aug-21,African American,Gastroenterology,Admitted,53.3,3.7,No Admin,F,67
+100-56-7645,Patient_546,22-Aug-21,White,Neurology,Not Admitted,27,5.3,No Admin,M,62
+100-47-5926,Patient_547,22-Aug-21,Native American,Physiotherapy,Not Admitted,40.6,3.1,No Admin,M,1
+100-13-7016,Patient_548,22-Aug-21,African American,Neurology,Not Admitted,30.5,3.8,No Admin,M,55
+100-17-9038,Patient_549,22-Aug-21,Asian,Neurology,Admitted,48.9,8.7,Admin Required,F,24
+100-12-5873,Patient_550,22-Aug-21,African American,Neurology,Admitted,32.9,8.8,Admin Required,F,77
+100-83-7305,Patient_551,29-Oct-21,White,Gastroenterology,Not Admitted,49,8.6,No Admin,M,20
+100-96-1054,Patient_552,29-Oct-21,Pacific Islander,Orthopedics,Admitted,31.4,8.1,Admin Required,M,59
+100-41-4462,Patient_553,30-Oct-21,Asian,Neurology,Admitted,50.1,8.6,Admin Required,F,32
+100-17-1832,Patient_554,30-Oct-21,White,General Practice,Not Admitted,21.2,7.7,Admin Required,F,6
+100-66-6954,Patient_555,31-Oct-21,African American,General Practice,Admitted,31.3,7.7,No Admin,M,39
+100-97-9519,Patient_556,31-Oct-21,Two or More Races,None,Not Admitted,39.9,7.7,No Admin,F,23
+100-63-4310,Patient_557,1-Nov-21,Declined to Identify,Orthopedics,Not Admitted,21.8,6.6,Admin Required,M,69
+100-76-8218,Patient_558,1-Nov-21,White,None,Not Admitted,27.4,5.5,Admin Required,M,24
+100-17-8970,Patient_559,2-Nov-21,Native American,General Practice,Admitted,57.4,8.1,No Admin,M,47
+100-97-3538,Patient_560,2-Nov-21,African American,Cardiology,Not Admitted,59.1,5.1,Admin Required,M,20
+100-25-5547,Patient_561,3-Nov-21,Native American,General Practice,Not Admitted,49.6,6.8,No Admin,M,13
+100-46-7612,Patient_562,4-Nov-21,Native American,Physiotherapy,Admitted,30.1,6,Admin Required,F,46
+100-23-1822,Patient_563,4-Nov-21,Native American,Neurology,Admitted,30.4,4.9,No Admin,M,38
+100-57-7150,Patient_564,5-Nov-21,Native American,Cardiology,Admitted,45.8,9.8,Admin Required,F,23
+100-83-9966,Patient_565,5-Nov-21,Native American,General Practice,Admitted,24.7,4.8,No Admin,M,57
+100-42-3198,Patient_566,6-Nov-21,Asian,Gastroenterology,Not Admitted,57.9,5.2,No Admin,M,14
+100-94-5242,Patient_567,6-Nov-21,White,Gastroenterology,Admitted,29,4.1,Admin Required,M,46
+100-28-2308,Patient_568,7-Nov-21,White,None,Admitted,60,8.8,Admin Required,F,18
+100-69-5177,Patient_569,7-Nov-21,Declined to Identify,Cardiology,Admitted,39.8,7.1,Admin Required,F,41
+100-11-7852,Patient_570,8-Nov-21,African American,None,Admitted,50.9,7.3,No Admin,M,44
+100-29-4594,Patient_571,8-Nov-21,Two or More Races,Neurology,Not Admitted,20.1,8.7,Admin Required,F,48
+100-11-5566,Patient_572,9-Nov-21,Asian,Neurology,Admitted,55.5,5.4,No Admin,M,78
+100-21-2555,Patient_573,10-Nov-21,African American,Physiotherapy,Not Admitted,30.8,4.4,No Admin,M,72
+100-14-1804,Patient_574,10-Nov-21,Asian,Orthopedics,Admitted,46.7,4.4,No Admin,F,52
+100-47-2279,Patient_575,11-Nov-21,White,None,Not Admitted,52.3,8.1,No Admin,F,31
+100-18-8083,Patient_576,11-Nov-21,Native American,Neurology,Not Admitted,26.6,7.3,No Admin,F,46
+100-95-2387,Patient_577,12-Nov-21,Declined to Identify,None,Admitted,37.7,4.4,No Admin,M,45
+100-33-3679,Patient_578,12-Nov-21,Declined to Identify,Neurology,Not Admitted,39.8,4,No Admin,F,74
+100-68-9173,Patient_579,13-Nov-21,Pacific Islander,General Practice,Admitted,32.5,3.8,No Admin,F,19
+100-96-5223,Patient_580,13-Nov-21,Two or More Races,None,Not Admitted,39.3,7.4,No Admin,M,43
+100-90-4186,Patient_581,14-Nov-21,Declined to Identify,General Practice,Not Admitted,32.7,3,Admin Required,F,34
+100-90-3573,Patient_582,14-Nov-21,Native American,None,Not Admitted,34.4,3.1,Admin Required,F,68
+100-18-3599,Patient_583,15-Nov-21,White,Orthopedics,Admitted,46.8,5.7,Admin Required,F,58
+100-75-9428,Patient_584,16-Nov-21,Two or More Races,Physiotherapy,Not Admitted,45.3,7.8,No Admin,M,53
+100-34-8368,Patient_585,16-Nov-21,African American,Gastroenterology,Admitted,29.3,7.9,No Admin,F,18
+100-31-3541,Patient_586,17-Nov-21,Native American,Gastroenterology,Not Admitted,55.9,6,Admin Required,M,61
+100-13-7809,Patient_587,17-Nov-21,Native American,Gastroenterology,Not Admitted,54.5,7.8,Admin Required,M,42
+100-67-9996,Patient_588,18-Nov-21,Declined to Identify,General Practice,Not Admitted,40.4,6.6,Admin Required,M,13
+100-84-7981,Patient_589,18-Nov-21,Two or More Races,Cardiology,Not Admitted,37.3,9.8,Admin Required,M,75
+100-27-6475,Patient_590,19-Nov-21,White,Neurology,Not Admitted,35.1,4.1,No Admin,F,57
+100-50-8184,Patient_591,19-Nov-21,Pacific Islander,Gastroenterology,Not Admitted,48.3,7.2,Admin Required,M,34
+100-46-8141,Patient_592,20-Nov-21,Asian,Orthopedics,Admitted,46.9,6.4,Admin Required,F,14
+100-85-2622,Patient_593,20-Nov-21,Asian,Gastroenterology,Admitted,27.8,4.4,No Admin,M,36
+100-95-3074,Patient_594,21-Nov-21,White,None,Admitted,46.9,8.2,Admin Required,F,75
+100-66-1645,Patient_595,22-Nov-21,White,General Practice,Not Admitted,30.1,4.9,No Admin,F,80
+100-49-9801,Patient_596,22-Nov-21,Asian,Cardiology,Admitted,20.7,5.7,Admin Required,F,61
+100-21-7136,Patient_597,23-Nov-21,Pacific Islander,None,Not Admitted,48,5.6,No Admin,F,65
+100-62-9646,Patient_598,23-Nov-21,Two or More Races,Cardiology,Admitted,45.8,4.7,Admin Required,M,27
+100-19-3969,Patient_599,24-Nov-21,Asian,None,Admitted,36.4,6,Admin Required,M,40
+100-94-8643,Patient_600,24-Nov-21,White,None,Not Admitted,41,6.3,No Admin,F,33
+100-71-3681,Patient_601,25-Nov-21,Declined to Identify,Physiotherapy,Not Admitted,57.9,8.2,No Admin,M,40
+100-55-5225,Patient_602,25-Nov-21,African American,Physiotherapy,Admitted,43.8,8.4,No Admin,M,61
+100-63-2386,Patient_603,26-Sep-21,Pacific Islander,Neurology,Admitted,46.3,4.1,Admin Required,M,30
+100-74-3866,Patient_604,26-Sep-21,Native American,General Practice,Admitted,22.6,7.1,Admin Required,M,5
+100-62-6490,Patient_605,26-Sep-21,Pacific Islander,Orthopedics,Admitted,26.6,9.3,No Admin,F,65
+100-35-5124,Patient_606,26-Sep-21,Declined to Identify,Orthopedics,Not Admitted,32,3.8,Admin Required,F,0
+100-30-4850,Patient_607,26-Sep-21,Declined to Identify,Orthopedics,Admitted,41.6,6.3,Admin Required,M,3
+100-49-8679,Patient_608,26-Sep-21,Native American,None,Not Admitted,51.1,8.3,No Admin,M,63
+100-45-9378,Patient_609,26-Sep-21,White,Physiotherapy,Not Admitted,32.8,7.3,Admin Required,M,37
+100-48-2333,Patient_610,26-Sep-21,Asian,General Practice,Admitted,34.3,3.7,Admin Required,M,55
+100-64-7766,Patient_611,26-Sep-21,Two or More Races,None,Not Admitted,30.2,5.8,Admin Required,M,51
+100-33-5853,Patient_612,1-Dec-21,Pacific Islander,Cardiology,Admitted,30.2,6.6,No Admin,M,44
+100-31-7212,Patient_613,1-Dec-21,Native American,Physiotherapy,Not Admitted,58,10,Admin Required,M,3
+100-65-6408,Patient_614,2-Dec-21,Pacific Islander,Physiotherapy,Not Admitted,45.4,4.3,No Admin,F,49
+100-45-9942,Patient_615,3-Dec-21,Declined to Identify,Gastroenterology,Admitted,26.2,9.9,Admin Required,M,33
+100-29-2762,Patient_616,3-Dec-21,Asian,Gastroenterology,Not Admitted,48.9,5.6,No Admin,M,47
+100-90-8101,Patient_617,4-Dec-21,Pacific Islander,General Practice,Not Admitted,48.9,4.4,Admin Required,M,44
+100-82-1153,Patient_618,4-Dec-21,Two or More Races,Cardiology,Admitted,46.7,5.9,Admin Required,F,2
+100-75-2524,Patient_619,5-Dec-21,Declined to Identify,General Practice,Not Admitted,25.4,7.3,No Admin,F,69
+100-82-3343,Patient_620,5-Dec-21,Two or More Races,General Practice,Not Admitted,36.3,4.5,No Admin,M,53
+100-26-6760,Patient_621,6-Dec-21,Asian,None,Admitted,24.3,5,No Admin,M,13
+100-98-1060,Patient_622,6-Dec-21,Pacific Islander,Neurology,Admitted,52.7,9,No Admin,M,25
+100-52-2639,Patient_623,7-Dec-21,African American,General Practice,Not Admitted,46.2,10,Admin Required,M,39
+100-51-8970,Patient_624,7-Dec-21,Pacific Islander,Gastroenterology,Not Admitted,40.3,5.2,Admin Required,F,33
+100-12-2252,Patient_625,8-Dec-21,Asian,Neurology,Not Admitted,33.7,4,Admin Required,F,35
+100-53-4549,Patient_626,9-Dec-21,Pacific Islander,None,Admitted,27.4,8.6,No Admin,M,21
+100-21-3322,Patient_627,9-Dec-21,Native American,Neurology,Not Admitted,24.3,7.2,Admin Required,F,17
+100-53-5090,Patient_628,10-Dec-21,Pacific Islander,Orthopedics,Not Admitted,58.8,3.7,No Admin,M,58
+100-58-4004,Patient_629,10-Dec-21,White,Cardiology,Not Admitted,28,9.6,Admin Required,F,47
+100-26-1329,Patient_630,11-Dec-21,Pacific Islander,Neurology,Not Admitted,22.4,3.5,No Admin,M,52
+100-66-8982,Patient_631,11-Dec-21,Pacific Islander,General Practice,Not Admitted,58.5,7.4,Admin Required,M,70
+100-21-2341,Patient_632,12-Dec-21,Two or More Races,None,Not Admitted,42,6,Admin Required,M,39
+100-89-9407,Patient_633,12-Dec-21,African American,Cardiology,Admitted,51.9,6.9,No Admin,F,42
+100-92-6895,Patient_634,13-Dec-21,Two or More Races,General Practice,Admitted,21.8,4.5,Admin Required,M,7
+100-30-2750,Patient_635,13-Dec-21,Two or More Races,Cardiology,Not Admitted,42.7,7.8,No Admin,F,52
+100-89-9901,Patient_636,14-Dec-21,Declined to Identify,Gastroenterology,Not Admitted,35.9,9.7,No Admin,F,4
+100-81-7609,Patient_637,15-Dec-21,White,Orthopedics,Admitted,50.9,6.2,No Admin,F,1
+100-98-6387,Patient_638,15-Dec-21,Two or More Races,Gastroenterology,Admitted,21.5,6.7,No Admin,M,60
+100-24-4993,Patient_639,16-Dec-21,Native American,General Practice,Admitted,36.1,4.7,No Admin,F,59
+100-35-9238,Patient_640,16-Dec-21,Asian,General Practice,Not Admitted,52,9.2,No Admin,M,34
+100-41-5873,Patient_641,17-Dec-21,Native American,General Practice,Not Admitted,40.9,9.8,Admin Required,F,24
+100-25-5806,Patient_642,17-Dec-21,Asian,Physiotherapy,Not Admitted,42,8.5,Admin Required,F,35
+100-26-6913,Patient_643,18-Dec-21,Pacific Islander,Orthopedics,Not Admitted,23.9,6.8,No Admin,F,1
+100-94-4157,Patient_644,18-Dec-21,Declined to Identify,Cardiology,Admitted,25.3,9.7,No Admin,M,8
+100-16-5430,Patient_645,19-Dec-21,White,General Practice,Admitted,47.1,4.1,Admin Required,F,31
+100-16-5232,Patient_646,19-Dec-21,Native American,General Practice,Admitted,47,6.3,Admin Required,M,21
+100-57-9007,Patient_647,20-Dec-21,White,Cardiology,Admitted,59.2,6.8,No Admin,M,24
+100-68-2500,Patient_648,21-Dec-21,Native American,Gastroenterology,Not Admitted,48.5,6.4,Admin Required,M,68
+100-91-4294,Patient_649,21-Dec-21,Pacific Islander,Gastroenterology,Not Admitted,39.7,8.6,No Admin,F,43
+100-48-4042,Patient_650,22-Dec-21,Asian,General Practice,Admitted,54.3,7.7,No Admin,M,18
+100-27-2466,Patient_651,22-Dec-21,African American,None,Admitted,24.2,3.9,Admin Required,M,1
+100-26-8693,Patient_652,23-Dec-21,Declined to Identify,Physiotherapy,Admitted,38,5.4,No Admin,M,73
+100-40-4223,Patient_653,23-Dec-21,Native American,Gastroenterology,Admitted,31.5,5.4,Admin Required,M,28
+100-69-8980,Patient_654,24-Dec-21,Native American,None,Admitted,24.2,7,No Admin,M,51
+100-12-3983,Patient_655,24-Dec-21,Pacific Islander,Physiotherapy,Not Admitted,50.5,5,Admin Required,F,60
+100-64-8126,Patient_656,25-Dec-21,Declined to Identify,General Practice,Not Admitted,40.4,3.8,Admin Required,M,3
+100-48-8694,Patient_657,26-Dec-21,Asian,Orthopedics,Admitted,42.3,7.6,No Admin,F,19
+100-13-6468,Patient_658,26-Dec-21,Asian,Neurology,Admitted,36.5,9,Admin Required,F,53
+100-95-1920,Patient_659,27-Dec-21,Native American,Neurology,Admitted,38.4,9.5,Admin Required,F,0
+100-22-9684,Patient_660,27-Dec-21,African American,General Practice,Not Admitted,24.6,9.8,Admin Required,M,63
+100-51-9502,Patient_661,28-Dec-21,African American,Gastroenterology,Not Admitted,46.9,8.5,Admin Required,M,62
+100-51-1545,Patient_662,28-Dec-21,White,None,Not Admitted,37.3,4,Admin Required,F,21
+100-39-5346,Patient_663,29-Dec-21,Declined to Identify,Orthopedics,Admitted,52.7,9,Admin Required,M,49
+100-22-4810,Patient_664,29-Dec-21,Declined to Identify,Cardiology,Not Admitted,27.9,5.8,No Admin,M,33
+100-48-3032,Patient_665,30-Dec-21,Asian,Physiotherapy,Admitted,28.2,8.1,No Admin,M,77
+100-71-9436,Patient_666,30-Dec-21,White,General Practice,Not Admitted,45.8,6.7,Admin Required,F,66
+100-66-1271,Patient_667,31-Dec-21,Pacific Islander,Orthopedics,Not Admitted,53.8,8.8,No Admin,M,58
+100-65-2771,Patient_668,1-Jan-22,Declined to Identify,Orthopedics,Not Admitted,38.9,6,Admin Required,F,37
+100-19-8069,Patient_669,1-Jan-22,White,Gastroenterology,Admitted,49.1,3.4,Admin Required,F,20
+100-34-9190,Patient_670,2-Jan-22,White,Physiotherapy,Admitted,60,6.9,Admin Required,M,71
+100-93-4760,Patient_671,2-Jan-22,Native American,Orthopedics,Not Admitted,59.6,4.2,Admin Required,M,21
+100-12-2165,Patient_672,3-Jan-22,Asian,Gastroenterology,Admitted,49.8,9.8,No Admin,M,77
+100-39-3033,Patient_673,3-Jan-22,White,None,Admitted,49.6,6.7,Admin Required,M,73
+100-77-1145,Patient_674,4-Jan-22,African American,Gastroenterology,Admitted,29.9,6.9,No Admin,M,58
+100-71-5388,Patient_675,4-Jan-22,African American,None,Admitted,53.3,9.4,Admin Required,F,14
+100-34-9623,Patient_676,5-Jan-22,Two or More Races,None,Admitted,36.2,7.4,Admin Required,F,73
+100-74-9173,Patient_677,5-Jan-22,Asian,Cardiology,Admitted,58.5,5.1,No Admin,M,60
+100-88-3632,Patient_678,6-Jan-22,Native American,Cardiology,Admitted,23.3,5.1,No Admin,M,52
+100-24-9056,Patient_679,7-Jan-22,Pacific Islander,Orthopedics,Not Admitted,37.4,6.5,Admin Required,M,5
+100-97-2828,Patient_680,7-Jan-22,Two or More Races,Gastroenterology,Admitted,42.2,9.1,Admin Required,M,13
+100-70-5805,Patient_681,8-Jan-22,African American,Cardiology,Admitted,36.2,8.6,Admin Required,M,80
+100-48-8486,Patient_682,8-Jan-22,Native American,None,Not Admitted,28.4,9.7,No Admin,M,30
+100-55-9202,Patient_683,9-Jan-22,Two or More Races,Cardiology,Not Admitted,43.7,3.5,Admin Required,F,4
+100-71-2868,Patient_684,9-Jan-22,Asian,Physiotherapy,Not Admitted,50.2,4.9,Admin Required,F,16
+100-34-8878,Patient_685,10-Jan-22,Native American,Orthopedics,Not Admitted,45.8,3.6,No Admin,M,31
+100-61-6690,Patient_686,10-Jan-22,Asian,Gastroenterology,Admitted,29.4,8.3,Admin Required,M,6
+100-81-8827,Patient_687,11-Jan-22,White,Gastroenterology,Not Admitted,49.3,4,Admin Required,M,43
+100-72-6429,Patient_688,11-Jan-22,Declined to Identify,Neurology,Not Admitted,30.3,3.7,Admin Required,F,64
+100-83-8274,Patient_689,12-Jan-22,White,Gastroenterology,Admitted,27,6.9,No Admin,M,57
+100-66-3265,Patient_690,13-Jan-22,Asian,Orthopedics,Admitted,47.6,5.9,Admin Required,M,51
+100-50-7402,Patient_691,13-Jan-22,Native American,Physiotherapy,Admitted,53.7,8,Admin Required,M,52
+100-15-2796,Patient_692,14-Jan-22,African American,Gastroenterology,Not Admitted,39.3,6.4,No Admin,F,80
+100-63-8214,Patient_693,14-Jan-22,Pacific Islander,Neurology,Admitted,41.3,6,Admin Required,M,44
+100-96-3736,Patient_694,15-Jan-22,African American,Orthopedics,Not Admitted,32.1,6,Admin Required,M,69
+100-18-2913,Patient_695,15-Jan-22,Native American,None,Admitted,39.8,9.1,Admin Required,M,16
+100-70-8657,Patient_696,16-Jan-22,White,General Practice,Admitted,25.3,5.8,No Admin,M,64
+100-44-8312,Patient_697,16-Jan-22,Pacific Islander,General Practice,Not Admitted,58.2,5.3,No Admin,M,22
+100-97-9194,Patient_698,17-Jan-22,Native American,None,Admitted,52,5.4,Admin Required,F,12
+100-41-8906,Patient_699,17-Jan-22,Asian,Cardiology,Admitted,46.7,4.4,Admin Required,F,16
+100-22-8287,Patient_700,18-Jan-22,African American,Gastroenterology,Admitted,41.5,9,Admin Required,M,28
+100-98-5675,Patient_701,19-Jan-22,Asian,General Practice,Admitted,51.7,4,Admin Required,F,57
+100-23-2380,Patient_702,19-Jan-22,Pacific Islander,Cardiology,Admitted,39.8,9.4,No Admin,M,55
+100-20-2640,Patient_703,20-Jan-22,Pacific Islander,General Practice,Not Admitted,32,5,Admin Required,F,50
+100-65-8490,Patient_704,20-Jan-22,African American,None,Not Admitted,26.4,9.3,Admin Required,M,23
+100-38-2218,Patient_705,21-Jan-22,Asian,Gastroenterology,Admitted,45.9,8.5,No Admin,M,6
+100-34-7881,Patient_706,21-Jan-22,Two or More Races,Gastroenterology,Not Admitted,57.2,7.1,Admin Required,F,9
+100-85-1954,Patient_707,22-Jan-22,Asian,Cardiology,Not Admitted,26.1,7.7,No Admin,M,24
+100-97-8291,Patient_708,22-Jan-22,Pacific Islander,None,Not Admitted,27.2,5.3,Admin Required,M,33
+100-88-5133,Patient_709,23-Jan-22,Asian,Cardiology,Admitted,37.3,7,No Admin,F,58
+100-81-6370,Patient_710,24-Jan-22,Native American,Gastroenterology,Admitted,52.3,5,Admin Required,M,19
+100-14-6295,Patient_711,24-Jan-22,White,Gastroenterology,Admitted,31.8,5.8,No Admin,F,2
+100-27-9228,Patient_712,25-Jan-22,Two or More Races,Orthopedics,Not Admitted,30.2,8.4,Admin Required,M,65
+100-69-4020,Patient_713,25-Jan-22,Declined to Identify,Cardiology,Not Admitted,44.8,4.7,No Admin,F,23
+100-37-5036,Patient_714,26-Jan-22,Native American,Orthopedics,Admitted,41.4,8.9,Admin Required,F,76
+100-86-6233,Patient_715,26-Jan-22,White,None,Admitted,22.4,5.6,No Admin,M,30
+100-49-1317,Patient_716,27-Jan-22,Declined to Identify,Physiotherapy,Not Admitted,23.3,6.7,Admin Required,M,40
+100-67-2591,Patient_717,27-Jan-22,African American,General Practice,Not Admitted,45.7,9.6,Admin Required,F,75
+100-49-7183,Patient_718,28-Jan-22,Declined to Identify,Orthopedics,Admitted,38.6,7.8,No Admin,M,79
+100-86-2312,Patient_719,28-Jan-22,Native American,General Practice,Not Admitted,58.8,7.5,No Admin,M,26
+100-15-5311,Patient_720,29-Jan-22,Asian,Neurology,Not Admitted,47.1,8,No Admin,M,68
+100-28-3383,Patient_721,30-Jan-22,Native American,None,Not Admitted,20.4,9.4,Admin Required,M,36
+100-49-3139,Patient_722,30-Jan-22,Declined to Identify,Physiotherapy,Not Admitted,39.2,4.7,Admin Required,M,48
+100-68-2704,Patient_723,31-Jan-22,Pacific Islander,Neurology,Not Admitted,36.6,7.3,No Admin,M,39
+100-22-1362,Patient_724,31-Jan-22,White,Neurology,Not Admitted,24.3,5.8,Admin Required,M,8
+100-54-5286,Patient_725,1-Feb-22,White,Gastroenterology,Not Admitted,56.9,3.1,Admin Required,M,77
+100-36-3469,Patient_726,1-Feb-22,Declined to Identify,Neurology,Admitted,52.2,3.9,Admin Required,F,26
+100-69-7150,Patient_727,2-Feb-22,White,None,Admitted,29.2,5.3,Admin Required,F,62
+100-14-1556,Patient_728,2-Feb-22,Pacific Islander,Orthopedics,Not Admitted,30.2,7,Admin Required,F,42
+100-67-3808,Patient_729,3-Feb-22,Native American,None,Not Admitted,21.3,9.2,No Admin,F,34
+100-40-8561,Patient_730,3-Feb-22,White,Orthopedics,Not Admitted,31.9,8.5,No Admin,F,76
+100-41-7506,Patient_731,4-Feb-22,Declined to Identify,Neurology,Admitted,43.4,6.9,Admin Required,M,49
+100-62-4741,Patient_732,5-Feb-22,Two or More Races,Neurology,Admitted,36.8,3.5,No Admin,M,76
+100-48-4998,Patient_733,5-Feb-22,Two or More Races,Physiotherapy,Not Admitted,58.8,5,No Admin,F,13
+100-91-3403,Patient_734,6-Feb-22,African American,Orthopedics,Admitted,22.2,5.6,No Admin,F,67
+100-11-9780,Patient_735,6-Feb-22,White,Neurology,Not Admitted,43.7,7.4,No Admin,F,20
+100-21-1294,Patient_736,7-Feb-22,Native American,Gastroenterology,Not Admitted,54.3,3.5,No Admin,M,12
+100-75-6343,Patient_737,7-Feb-22,Declined to Identify,General Practice,Not Admitted,39.2,6.7,Admin Required,M,80
+100-22-2136,Patient_738,8-Feb-22,White,Physiotherapy,Not Admitted,20.1,9.3,Admin Required,F,43
+100-26-8009,Patient_739,8-Feb-22,Asian,None,Not Admitted,29.7,7.9,Admin Required,M,51
+100-69-5543,Patient_740,9-Feb-22,Pacific Islander,Physiotherapy,Not Admitted,33,8.6,No Admin,M,34
+100-97-2007,Patient_741,9-Feb-22,White,General Practice,Not Admitted,58.6,7.8,No Admin,M,55
+100-79-6352,Patient_742,10-Feb-22,White,Orthopedics,Admitted,56.5,4.4,No Admin,F,43
+100-72-2435,Patient_743,11-Feb-22,Two or More Races,None,Not Admitted,58,3.8,No Admin,M,63
+100-69-3382,Patient_744,11-Feb-22,Pacific Islander,None,Admitted,53,8.8,No Admin,M,56
+100-46-6084,Patient_745,12-Feb-22,Declined to Identify,Orthopedics,Not Admitted,34.1,7.9,Admin Required,M,33
+100-31-8059,Patient_746,12-Feb-22,White,Cardiology,Not Admitted,56.2,7,No Admin,M,41
+100-77-2040,Patient_747,13-Feb-22,Two or More Races,Cardiology,Admitted,59.3,4.3,Admin Required,M,3
+100-21-9073,Patient_748,13-Feb-22,African American,Physiotherapy,Admitted,34,7.2,Admin Required,M,6
+100-74-9213,Patient_749,14-Feb-22,Pacific Islander,Neurology,Not Admitted,30.4,3.2,Admin Required,M,20
+100-91-3353,Patient_750,14-Feb-22,Two or More Races,Cardiology,Admitted,41.9,3.8,Admin Required,M,3
+100-23-5799,Patient_751,15-Feb-22,Two or More Races,Physiotherapy,Not Admitted,27.5,5.2,No Admin,M,45
+100-56-9476,Patient_752,16-Feb-22,Native American,Cardiology,Not Admitted,21.3,6.1,Admin Required,M,67
+100-85-9954,Patient_753,16-Feb-22,Two or More Races,General Practice,Admitted,57.8,3.8,No Admin,F,47
+100-61-3428,Patient_754,17-Feb-22,Native American,Gastroenterology,Admitted,57,3.8,Admin Required,M,12
+100-85-6126,Patient_755,17-Feb-22,White,Neurology,Admitted,26.5,8.1,Admin Required,M,13
+100-38-8813,Patient_756,18-Feb-22,White,Physiotherapy,Admitted,36.3,7,No Admin,M,44
+100-88-4356,Patient_757,18-Feb-22,African American,Gastroenterology,Not Admitted,53.2,6.7,No Admin,F,21
+100-13-8266,Patient_758,19-Feb-22,Asian,Gastroenterology,Admitted,46.4,6.2,Admin Required,M,15
+100-22-1038,Patient_759,19-Feb-22,Asian,Cardiology,Admitted,35.8,9.8,Admin Required,M,1
+100-24-3844,Patient_760,20-Feb-22,Asian,Orthopedics,Admitted,49.8,3.3,Admin Required,M,68
+100-38-2098,Patient_761,20-Feb-22,Native American,General Practice,Admitted,55.9,4.3,No Admin,M,35
+100-41-4155,Patient_762,21-Feb-22,Pacific Islander,General Practice,Admitted,57,7.5,No Admin,F,40
+100-31-6658,Patient_763,22-Feb-22,Pacific Islander,General Practice,Not Admitted,35.2,4,Admin Required,F,32
+100-76-3896,Patient_764,22-Feb-22,African American,Neurology,Not Admitted,26.9,7.1,Admin Required,M,56
+100-65-1988,Patient_765,23-Feb-22,Pacific Islander,None,Admitted,56.5,7,No Admin,F,26
+100-30-7446,Patient_766,23-Feb-22,Asian,Neurology,Admitted,23.7,9.8,No Admin,M,17
+100-89-5179,Patient_767,24-Feb-22,Asian,Physiotherapy,Not Admitted,48.9,9.2,No Admin,M,72
+100-15-2682,Patient_768,24-Feb-22,Two or More Races,Gastroenterology,Admitted,25.6,9.6,Admin Required,M,36
+100-66-6626,Patient_769,25-Feb-22,Pacific Islander,Gastroenterology,Not Admitted,35.6,3.8,No Admin,F,74
+100-10-1933,Patient_770,25-Feb-22,White,None,Not Admitted,36.5,9.1,No Admin,F,25
+100-24-2980,Patient_771,26-Feb-22,White,Physiotherapy,Admitted,26.4,3.9,No Admin,M,32
+100-44-4056,Patient_772,26-Feb-22,Two or More Races,None,Not Admitted,56.9,7.4,Admin Required,M,35
+100-34-1791,Patient_773,27-Feb-22,Two or More Races,Gastroenterology,Admitted,20.1,8,No Admin,F,26
+100-21-6390,Patient_774,28-Feb-22,Two or More Races,Cardiology,Admitted,55.8,4.1,No Admin,M,77
+100-89-4610,Patient_775,28-Feb-22,White,Neurology,Not Admitted,55.4,7.4,No Admin,M,41
+100-81-6179,Patient_776,1-Mar-22,Asian,General Practice,Not Admitted,32.7,3.4,Admin Required,F,31
+100-55-1984,Patient_777,1-Mar-22,Two or More Races,Gastroenterology,Admitted,48.2,5.1,Admin Required,F,25
+100-26-4676,Patient_778,2-Mar-22,African American,Orthopedics,Not Admitted,30.1,9.4,Admin Required,M,37
+100-62-9711,Patient_779,2-Mar-22,Native American,General Practice,Admitted,50.4,4.2,Admin Required,F,64
+100-88-2050,Patient_780,3-Mar-22,Two or More Races,Gastroenterology,Not Admitted,42.4,3.5,Admin Required,F,70
+100-55-4633,Patient_781,3-Mar-22,Native American,Neurology,Not Admitted,32,6.1,Admin Required,F,40
+100-80-1959,Patient_782,4-Mar-22,Declined to Identify,None,Admitted,36,9,No Admin,M,69
+100-53-9884,Patient_783,4-Mar-22,Two or More Races,Cardiology,Admitted,47.6,3.5,No Admin,M,68
+100-33-5473,Patient_784,5-Mar-22,White,Cardiology,Admitted,56.2,5.5,Admin Required,F,23
+100-12-8725,Patient_785,6-Mar-22,Pacific Islander,General Practice,Not Admitted,25.2,9.3,Admin Required,F,69
+100-24-4224,Patient_786,6-Mar-22,Two or More Races,Neurology,Admitted,42.9,3.8,No Admin,F,30
+100-87-2875,Patient_787,7-Mar-22,Pacific Islander,Cardiology,Admitted,30.1,5.2,No Admin,M,80
+100-18-6797,Patient_788,7-Mar-22,Declined to Identify,Cardiology,Not Admitted,52.1,8.4,No Admin,F,7
+100-57-8099,Patient_789,8-Mar-22,African American,Physiotherapy,Not Admitted,22.8,6.8,Admin Required,M,41
+100-72-6109,Patient_790,8-Mar-22,Pacific Islander,Orthopedics,Admitted,47.6,8.8,No Admin,F,31
+100-11-6463,Patient_791,9-Mar-22,Native American,General Practice,Admitted,27,3.8,Admin Required,F,13
+100-81-9586,Patient_792,9-Mar-22,Asian,None,Admitted,43.9,9.4,No Admin,F,20
+100-73-4788,Patient_793,10-Mar-22,Two or More Races,Cardiology,Admitted,53.4,9.5,No Admin,M,38
+100-90-5167,Patient_794,10-Mar-22,Declined to Identify,Physiotherapy,Not Admitted,50.2,4.1,No Admin,M,40
+100-30-9465,Patient_795,11-Mar-22,Declined to Identify,Neurology,Not Admitted,50.1,3.2,Admin Required,M,65
+100-73-2389,Patient_796,12-Mar-22,Pacific Islander,Cardiology,Admitted,40.7,9.9,No Admin,F,46
+100-47-7154,Patient_797,12-Mar-22,African American,Orthopedics,Admitted,55.6,6.4,Admin Required,F,16
+100-54-9920,Patient_798,13-Mar-22,White,None,Admitted,43.5,7,Admin Required,M,64
+100-42-3043,Patient_799,13-Mar-22,Two or More Races,Neurology,Not Admitted,56.7,7.3,No Admin,M,16
+100-50-1778,Patient_800,14-Mar-22,Declined to Identify,Neurology,Admitted,41.9,8.5,Admin Required,M,53
+100-95-4762,Patient_801,14-Mar-22,African American,General Practice,Admitted,40.2,8.7,No Admin,F,59
+100-97-7731,Patient_802,15-Mar-22,Asian,Cardiology,Not Admitted,28.9,4.4,Admin Required,F,30
+100-55-6791,Patient_803,15-Mar-22,Declined to Identify,General Practice,Not Admitted,41.8,4.7,No Admin,F,5
+100-88-9783,Patient_804,16-Mar-22,African American,None,Admitted,25.6,9.1,No Admin,M,69
+100-63-3720,Patient_805,17-Mar-22,White,Cardiology,Admitted,54.8,8.7,Admin Required,M,79
+100-83-7047,Patient_806,17-Mar-22,White,Gastroenterology,Not Admitted,47,7.3,No Admin,M,46
+100-11-7368,Patient_807,18-Mar-22,Declined to Identify,Cardiology,Admitted,59.7,10,No Admin,F,76
+100-42-2949,Patient_808,18-Mar-22,Native American,Gastroenterology,Admitted,23.7,8.1,No Admin,M,7
+100-42-7732,Patient_809,19-Mar-22,Declined to Identify,Neurology,Not Admitted,29.6,4.5,No Admin,M,66
+100-35-1917,Patient_810,19-Mar-22,Pacific Islander,General Practice,Not Admitted,55.1,8.9,No Admin,F,65
+100-75-8014,Patient_811,20-Mar-22,Two or More Races,Orthopedics,Not Admitted,35.8,5.9,Admin Required,M,67
+100-55-4041,Patient_812,20-Mar-22,African American,Cardiology,Admitted,38.7,3.3,Admin Required,M,62
+100-53-2895,Patient_813,21-Mar-22,Declined to Identify,Orthopedics,Not Admitted,54.4,5.2,Admin Required,M,8
+100-84-9508,Patient_814,21-Mar-22,Two or More Races,Cardiology,Not Admitted,40.9,8.3,No Admin,M,32
+100-76-1634,Patient_815,22-Mar-22,Pacific Islander,Neurology,Admitted,27.7,9.7,No Admin,F,23
+100-15-3056,Patient_816,23-Mar-22,Two or More Races,General Practice,Admitted,55.7,4.9,No Admin,M,29
+100-15-4144,Patient_817,23-Mar-22,Declined to Identify,None,Not Admitted,21.2,4.7,No Admin,M,25
+100-41-1552,Patient_818,24-Mar-22,White,None,Not Admitted,55.8,6.9,No Admin,F,16
+100-85-6383,Patient_819,24-Mar-22,African American,None,Admitted,22,8.7,Admin Required,M,67
+100-81-4389,Patient_820,25-Mar-22,African American,Cardiology,Admitted,46.6,8.2,Admin Required,M,62
+100-93-9442,Patient_821,25-Mar-22,White,Cardiology,Not Admitted,22.9,6.9,No Admin,F,49
+100-16-1458,Patient_822,26-Mar-22,Native American,Orthopedics,Not Admitted,48.2,7.4,Admin Required,F,18
+100-93-1207,Patient_823,26-Mar-22,Declined to Identify,General Practice,Admitted,21.4,4.7,No Admin,F,44
+100-13-1021,Patient_824,27-Mar-22,African American,Cardiology,Not Admitted,53.7,6,Admin Required,M,74
+100-35-1894,Patient_825,27-Mar-22,Declined to Identify,General Practice,Admitted,38.6,4.8,Admin Required,M,54
+100-12-8294,Patient_826,28-Mar-22,Pacific Islander,Orthopedics,Not Admitted,23.7,9.2,No Admin,M,48
+100-50-8867,Patient_827,29-Mar-22,Declined to Identify,Cardiology,Admitted,48.3,3.8,Admin Required,F,46
+100-23-8179,Patient_828,29-Mar-22,Two or More Races,None,Admitted,39.6,7.8,No Admin,M,78
+100-96-2560,Patient_829,30-Mar-22,White,None,Not Admitted,27.6,4.8,Admin Required,M,38
+100-54-2266,Patient_830,30-Mar-22,Native American,Neurology,Not Admitted,20.6,6.3,No Admin,F,25
+100-28-4638,Patient_831,31-Mar-22,Declined to Identify,Gastroenterology,Admitted,36.7,5.1,No Admin,M,65
+100-54-2927,Patient_832,31-Mar-22,Native American,Physiotherapy,Not Admitted,23.4,5.3,No Admin,M,16
+100-62-5790,Patient_833,1-Apr-22,Native American,Gastroenterology,Not Admitted,23.8,4.8,No Admin,F,57
+100-41-1306,Patient_834,1-Apr-22,Pacific Islander,Cardiology,Not Admitted,30.7,8.3,Admin Required,F,71
+100-53-4665,Patient_835,2-Apr-22,Asian,General Practice,Admitted,45.2,5.6,Admin Required,M,17
+100-79-8057,Patient_836,2-Apr-22,White,Cardiology,Not Admitted,41.2,8.1,Admin Required,M,60
+100-92-1661,Patient_837,3-Apr-22,Native American,General Practice,Not Admitted,22.8,6.2,No Admin,M,39
+100-46-9503,Patient_838,4-Apr-22,African American,General Practice,Admitted,58.7,6.8,No Admin,M,41
+100-68-9946,Patient_839,4-Apr-22,Two or More Races,Gastroenterology,Not Admitted,55.5,6.8,Admin Required,F,70
+100-44-7236,Patient_840,5-Apr-22,African American,Physiotherapy,Not Admitted,30.4,9.8,No Admin,F,55
+100-63-7078,Patient_841,5-Apr-22,Pacific Islander,Neurology,Admitted,24.9,5.6,Admin Required,M,21
+100-88-1352,Patient_842,6-Apr-22,Pacific Islander,Gastroenterology,Admitted,57.7,4.5,Admin Required,F,63
+100-16-8005,Patient_843,6-Apr-22,African American,Physiotherapy,Not Admitted,38.4,9.4,No Admin,M,12
+100-94-1158,Patient_844,7-Apr-22,White,None,Not Admitted,32.4,4.2,Admin Required,F,4
+100-67-1956,Patient_845,7-Apr-22,African American,None,Admitted,39.6,8.8,Admin Required,F,36
+100-33-9595,Patient_846,8-Apr-22,Declined to Identify,General Practice,Admitted,50.9,4.1,No Admin,F,29
+100-46-4453,Patient_847,8-Apr-22,African American,Orthopedics,Not Admitted,26.7,7.6,No Admin,F,0
+100-29-1955,Patient_848,9-Apr-22,Two or More Races,Cardiology,Not Admitted,50.7,4.1,Admin Required,M,11
+100-33-2712,Patient_849,10-Apr-22,Two or More Races,Cardiology,Not Admitted,50,9.5,No Admin,F,80
+100-60-5703,Patient_850,10-Apr-22,Asian,General Practice,Admitted,41.6,7,Admin Required,M,74
+100-45-6631,Patient_851,11-Apr-22,Two or More Races,Orthopedics,Not Admitted,54.6,5.3,Admin Required,M,63
+100-75-2394,Patient_852,11-Apr-22,African American,Physiotherapy,Admitted,25.3,4,No Admin,M,56
+100-67-5732,Patient_853,12-Apr-22,Two or More Races,None,Admitted,43.8,5.6,Admin Required,M,59
+100-21-4714,Patient_854,12-Apr-22,White,Cardiology,Admitted,38,7.9,Admin Required,M,66
+100-27-3958,Patient_855,13-Apr-22,Native American,Gastroenterology,Not Admitted,36.9,5.7,Admin Required,F,16
+100-35-4591,Patient_856,13-Apr-22,Two or More Races,Orthopedics,Not Admitted,30.1,4.7,No Admin,M,63
+100-96-1525,Patient_857,14-Apr-22,Declined to Identify,Physiotherapy,Not Admitted,34.9,7,Admin Required,M,29
+100-87-1001,Patient_858,15-Apr-22,White,None,Admitted,24.3,5.9,Admin Required,F,4
+100-46-5648,Patient_859,15-Apr-22,Asian,Gastroenterology,Not Admitted,30.1,4.2,Admin Required,M,54
+100-71-2525,Patient_860,16-Apr-22,Declined to Identify,Orthopedics,Admitted,30.9,4.1,Admin Required,M,62
+100-69-2646,Patient_861,16-Apr-22,African American,General Practice,Admitted,48.8,8,No Admin,F,54
+100-23-5599,Patient_862,17-Apr-22,Native American,General Practice,Admitted,21.9,9.8,Admin Required,M,54
+100-98-4155,Patient_863,17-Apr-22,African American,General Practice,Admitted,46,4.6,No Admin,F,77
+100-11-4814,Patient_864,18-Apr-22,Native American,Cardiology,Admitted,28.9,8.4,No Admin,M,19
+100-79-4216,Patient_865,18-Apr-22,Native American,Physiotherapy,Admitted,23.3,3.6,No Admin,M,27
+100-98-9219,Patient_866,19-Apr-22,African American,General Practice,Not Admitted,32,5.7,Admin Required,F,44
+100-75-5356,Patient_867,19-Apr-22,Declined to Identify,Cardiology,Admitted,29,6.5,Admin Required,F,51
+100-74-6543,Patient_868,20-Apr-22,Declined to Identify,Neurology,Not Admitted,42.1,4.9,Admin Required,F,27
+100-85-8062,Patient_869,21-Apr-22,Native American,Cardiology,Admitted,34.3,6.7,Admin Required,F,38
+100-56-7430,Patient_870,21-Apr-22,Declined to Identify,None,Not Admitted,58.6,9.2,Admin Required,F,14
+100-20-4081,Patient_871,22-Apr-22,Native American,Cardiology,Not Admitted,58.5,9.6,No Admin,M,40
+100-76-1629,Patient_872,22-Apr-22,Native American,Physiotherapy,Not Admitted,37.7,3.7,Admin Required,M,55
+100-23-6724,Patient_873,23-Apr-22,White,Gastroenterology,Not Admitted,51.8,4.9,Admin Required,M,62
+100-19-4432,Patient_874,23-Apr-22,Pacific Islander,Cardiology,Admitted,20.5,9.9,Admin Required,F,50
+100-10-7276,Patient_875,24-Apr-22,White,General Practice,Admitted,41.9,4.9,Admin Required,M,17
+100-29-6895,Patient_876,24-Apr-22,African American,None,Admitted,49.7,7.8,No Admin,M,75
+100-52-8115,Patient_877,25-Apr-22,Pacific Islander,Orthopedics,Admitted,28.7,4.8,Admin Required,F,16
+100-10-1575,Patient_878,25-Apr-22,Two or More Races,General Practice,Not Admitted,22.4,5.5,No Admin,M,7
+100-93-4192,Patient_879,26-Apr-22,African American,None,Not Admitted,26.2,4.3,No Admin,F,58
+100-46-3734,Patient_880,27-Apr-22,Asian,Neurology,Not Admitted,37.7,9,No Admin,M,75
+100-85-4568,Patient_881,27-Apr-22,White,Orthopedics,Admitted,40.3,9.2,Admin Required,M,25
+100-53-3203,Patient_882,28-Apr-22,Declined to Identify,Neurology,Not Admitted,35.2,5.1,No Admin,M,13
+100-88-2925,Patient_883,28-Apr-22,White,Gastroenterology,Admitted,37.6,8.8,Admin Required,M,17
+100-70-2939,Patient_884,29-Apr-22,Declined to Identify,None,Not Admitted,38.8,5.5,No Admin,M,32
+100-87-1968,Patient_885,29-Apr-22,Pacific Islander,Neurology,Not Admitted,50.8,3.7,Admin Required,F,36
+100-46-1281,Patient_886,30-Apr-22,Asian,Gastroenterology,Not Admitted,24.2,8.3,Admin Required,M,38
+100-38-7262,Patient_887,30-Apr-22,Pacific Islander,None,Not Admitted,50.8,7.2,No Admin,M,17
+100-44-5293,Patient_888,1-May-22,Asian,None,Not Admitted,47.5,4.9,No Admin,F,45
+100-68-7980,Patient_889,1-May-22,White,Neurology,Admitted,49.7,4.8,Admin Required,M,74
+100-42-2229,Patient_890,2-May-22,Declined to Identify,None,Not Admitted,49.4,9.8,Admin Required,M,26
+100-21-5585,Patient_891,3-May-22,Pacific Islander,General Practice,Admitted,38.8,9,No Admin,F,15
+100-29-3740,Patient_892,3-May-22,Asian,None,Admitted,28.5,8.7,Admin Required,M,68
+100-97-6370,Patient_893,4-May-22,Native American,Physiotherapy,Admitted,41.5,3.9,Admin Required,M,64
+100-52-1125,Patient_894,4-May-22,African American,Gastroenterology,Admitted,58.3,8.3,No Admin,M,4
+100-98-8473,Patient_895,5-May-22,African American,None,Admitted,43.5,4.5,No Admin,M,69
+100-38-6342,Patient_896,5-May-22,Pacific Islander,Physiotherapy,Admitted,20.4,9.8,No Admin,M,73
+100-65-7638,Patient_897,6-May-22,Declined to Identify,None,Admitted,22.4,3.4,No Admin,M,74
+100-52-4249,Patient_898,6-May-22,Native American,None,Admitted,59.7,5.5,Admin Required,F,56
+100-32-8595,Patient_899,7-May-22,Pacific Islander,Neurology,Not Admitted,22.9,6,No Admin,F,42
+100-47-7294,Patient_900,7-May-22,White,General Practice,Not Admitted,21.8,8.8,Admin Required,F,43
+100-54-2969,Patient_901,8-May-22,Asian,Gastroenterology,Admitted,34.1,8.4,Admin Required,F,28
+100-17-9320,Patient_902,9-May-22,White,General Practice,Admitted,58.8,5.6,No Admin,F,41
+100-17-7812,Patient_903,9-May-22,African American,Orthopedics,Admitted,32.7,7,Admin Required,M,27
+100-14-2198,Patient_904,10-May-22,Asian,Neurology,Not Admitted,36.4,8.8,Admin Required,M,68
+100-43-6238,Patient_905,10-May-22,Pacific Islander,Neurology,Not Admitted,45.4,3.1,Admin Required,F,44
+100-52-7089,Patient_906,11-May-22,White,General Practice,Admitted,21,8.6,Admin Required,F,56
+100-39-7257,Patient_907,11-May-22,Two or More Races,Cardiology,Admitted,55.9,9.6,No Admin,F,25
+100-91-8705,Patient_908,12-May-22,Declined to Identify,Neurology,Not Admitted,40.8,3.2,Admin Required,F,30
+100-17-1302,Patient_909,12-May-22,Native American,General Practice,Not Admitted,38.7,3.3,Admin Required,F,37
+100-85-1986,Patient_910,13-May-22,Native American,Neurology,Admitted,54.4,5.4,Admin Required,M,48
+100-81-5440,Patient_911,14-May-22,Declined to Identify,None,Admitted,58.1,3.6,Admin Required,F,49
+100-55-4072,Patient_912,14-May-22,Two or More Races,General Practice,Admitted,36.9,6.4,Admin Required,M,60
+100-28-4124,Patient_913,15-May-22,African American,General Practice,Admitted,26.9,8.1,No Admin,M,27
+100-57-9125,Patient_914,15-May-22,Asian,Physiotherapy,Not Admitted,52.6,7,Admin Required,F,72
+100-75-6105,Patient_915,16-May-22,Declined to Identify,Neurology,Not Admitted,36.1,4.4,No Admin,F,65
+100-73-9133,Patient_916,16-May-22,Two or More Races,Neurology,Admitted,57.4,7.6,Admin Required,F,79
+100-72-6704,Patient_917,17-May-22,Pacific Islander,General Practice,Admitted,58,7.8,Admin Required,F,27
+100-42-8848,Patient_918,17-May-22,Native American,None,Admitted,24.6,9.5,Admin Required,F,54
+100-98-7924,Patient_919,18-May-22,Two or More Races,None,Not Admitted,58.3,4,Admin Required,M,19
+100-82-4828,Patient_920,18-May-22,African American,Gastroenterology,Admitted,34.7,7.8,Admin Required,F,36
+100-86-4230,Patient_921,19-May-22,African American,None,Admitted,45.9,9.4,Admin Required,M,19
+100-84-4173,Patient_922,20-May-22,White,Neurology,Admitted,21.4,6.5,Admin Required,F,13
+100-13-5114,Patient_923,20-May-22,Declined to Identify,Cardiology,Not Admitted,55.6,5.5,Admin Required,M,5
+100-79-4553,Patient_924,21-May-22,White,Physiotherapy,Admitted,45.7,4.2,No Admin,M,25
+100-91-2000,Patient_925,21-May-22,Native American,General Practice,Not Admitted,45.7,9.1,No Admin,F,10
+100-32-2388,Patient_926,22-May-22,Two or More Races,Orthopedics,Admitted,56.1,5.8,Admin Required,F,78
+100-84-4712,Patient_927,22-May-22,Asian,Physiotherapy,Admitted,40.3,9.5,No Admin,M,5
+100-97-9189,Patient_928,23-May-22,Asian,Cardiology,Admitted,36.4,8.9,No Admin,M,76
+100-63-1454,Patient_929,23-May-22,African American,Orthopedics,Not Admitted,54.6,5.6,Admin Required,F,19
+100-98-3772,Patient_930,24-May-22,Asian,Physiotherapy,Admitted,49.7,7,No Admin,F,6
+100-24-8232,Patient_931,24-May-22,Asian,None,Admitted,58,3.2,No Admin,F,51
+100-85-5806,Patient_932,25-May-22,Native American,Neurology,Not Admitted,57.6,4.8,Admin Required,F,27
+100-24-3875,Patient_933,26-May-22,Asian,Cardiology,Not Admitted,35.3,8,No Admin,M,16
+100-98-2440,Patient_934,26-May-22,Two or More Races,Orthopedics,Not Admitted,37.9,7.7,No Admin,M,25
+100-58-9927,Patient_935,27-May-22,Asian,Cardiology,Admitted,30.2,5.5,Admin Required,F,53
+100-44-7059,Patient_936,27-May-22,Pacific Islander,Physiotherapy,Not Admitted,46.4,8.7,Admin Required,F,46
+100-20-8010,Patient_937,28-May-22,Asian,Neurology,Admitted,34.6,4.7,No Admin,F,7
+100-81-8117,Patient_938,28-May-22,Asian,Cardiology,Not Admitted,51.4,6.2,No Admin,M,13
+100-83-3989,Patient_939,29-May-22,White,Orthopedics,Not Admitted,24.9,6.3,Admin Required,M,79
+100-18-7228,Patient_940,29-May-22,Two or More Races,General Practice,Not Admitted,24.7,5.4,Admin Required,F,33
+100-35-7471,Patient_941,30-May-22,African American,Physiotherapy,Admitted,28.2,9.7,No Admin,M,23
+100-57-2177,Patient_942,30-May-22,White,General Practice,Admitted,23.4,7.9,Admin Required,M,69
+100-34-1011,Patient_943,31-May-22,Declined to Identify,None,Admitted,44.8,6.8,No Admin,F,58
+100-14-5399,Patient_944,1-Jun-22,Two or More Races,General Practice,Admitted,25.9,6.6,Admin Required,F,12
+100-46-9234,Patient_945,1-Jun-22,Pacific Islander,General Practice,Admitted,26.4,4.1,Admin Required,F,25
+100-57-6445,Patient_946,2-Jun-22,Two or More Races,Gastroenterology,Admitted,20.6,5.6,Admin Required,F,53
+100-55-7570,Patient_947,2-Jun-22,Declined to Identify,Physiotherapy,Admitted,51.3,7.7,Admin Required,F,20
+100-30-1406,Patient_948,3-Jun-22,Declined to Identify,None,Admitted,52.5,9.5,Admin Required,M,47
+100-89-6243,Patient_949,3-Jun-22,Declined to Identify,General Practice,Admitted,26.5,8.7,No Admin,M,68
+100-24-7936,Patient_950,4-Jun-22,Native American,Neurology,Not Admitted,49.6,5.1,No Admin,F,54
+100-45-9906,Patient_951,4-Jun-22,African American,Orthopedics,Not Admitted,37.3,6,Admin Required,F,24
+100-60-1140,Patient_952,5-Jun-22,Asian,General Practice,Admitted,29.6,3.6,No Admin,M,79
+100-95-5882,Patient_953,6-Jun-22,Two or More Races,None,Admitted,44.9,3.7,Admin Required,F,67
+100-43-7012,Patient_954,6-Jun-22,Native American,General Practice,Admitted,27.1,6.3,Admin Required,F,47
+100-77-8151,Patient_955,7-Jun-22,Asian,Orthopedics,Admitted,50.3,6.7,Admin Required,F,44
+100-61-4610,Patient_956,7-Jun-22,Asian,None,Not Admitted,21.9,4.8,Admin Required,M,43
+100-38-7894,Patient_957,8-Jun-22,Pacific Islander,Physiotherapy,Not Admitted,58.4,7.5,No Admin,F,5
+100-37-8311,Patient_958,8-Jun-22,Declined to Identify,None,Admitted,22.9,7.9,No Admin,F,59
+100-45-7787,Patient_959,9-Jun-22,African American,Physiotherapy,Not Admitted,43.2,5.1,Admin Required,M,24
+100-98-5445,Patient_960,9-Jun-22,Pacific Islander,None,Not Admitted,56.1,8.3,No Admin,F,27
+100-84-2286,Patient_961,10-Jun-22,White,Cardiology,Admitted,20.5,4.4,Admin Required,M,68
+100-83-8052,Patient_962,10-Jun-22,Native American,Orthopedics,Admitted,39.9,6.8,Admin Required,M,60
+100-40-4654,Patient_963,11-Jun-22,Native American,Orthopedics,Admitted,34,8.6,Admin Required,F,58
+100-72-3359,Patient_964,12-Jun-22,African American,None,Admitted,43.2,6.8,No Admin,F,48
+100-51-9636,Patient_965,12-Jun-22,Asian,Cardiology,Not Admitted,29,9.4,Admin Required,M,25
+100-51-6047,Patient_966,13-Jun-22,Native American,General Practice,Admitted,22.6,3.4,No Admin,F,29
+100-45-6203,Patient_967,13-Jun-22,African American,Orthopedics,Not Admitted,45,7.1,Admin Required,M,44
+100-77-2798,Patient_968,14-Jun-22,Native American,Physiotherapy,Admitted,36.7,6.9,Admin Required,M,36
+100-63-6291,Patient_969,14-Jun-22,Native American,Physiotherapy,Not Admitted,44.9,7.6,No Admin,M,37
+100-54-7284,Patient_970,15-Jun-22,Declined to Identify,Neurology,Admitted,28.4,8.8,Admin Required,M,48
+100-31-8285,Patient_971,15-Jun-22,White,Gastroenterology,Admitted,33.5,8.1,No Admin,F,68
+100-30-7869,Patient_972,16-Jun-22,Declined to Identify,Cardiology,Not Admitted,42.5,8.5,No Admin,F,9
+100-18-4097,Patient_973,16-Jun-22,White,Gastroenterology,Not Admitted,43.7,5,No Admin,M,62
+100-18-1009,Patient_974,17-Jun-22,Native American,Gastroenterology,Not Admitted,34.9,5.7,Admin Required,M,67
+100-97-6752,Patient_975,18-Jun-22,Pacific Islander,Physiotherapy,Admitted,31.2,7.4,Admin Required,M,70
+100-51-7295,Patient_976,18-Jun-22,Asian,Neurology,Not Admitted,30.9,6.9,No Admin,M,76
+100-89-2072,Patient_977,19-Jun-22,Native American,Gastroenterology,Not Admitted,27,9.7,No Admin,F,24
+100-35-2316,Patient_978,19-Jun-22,White,Gastroenterology,Not Admitted,33,4.3,No Admin,M,61
+100-77-7807,Patient_979,20-Jun-22,White,None,Not Admitted,28,5.5,Admin Required,F,21
+100-28-4683,Patient_980,20-Jun-22,White,None,Not Admitted,45.4,7,Admin Required,M,37
+100-69-4273,Patient_981,21-Jun-22,Native American,None,Not Admitted,42.8,9.1,Admin Required,F,64
+100-98-1145,Patient_982,21-Jun-22,African American,General Practice,Not Admitted,35.3,9.5,Admin Required,F,42
+100-28-4040,Patient_983,22-Jun-22,Pacific Islander,Gastroenterology,Not Admitted,33,5.4,Admin Required,M,50
+100-64-1482,Patient_984,22-Jun-22,African American,General Practice,Not Admitted,29.5,3.5,Admin Required,F,56
+100-42-1630,Patient_985,23-Jun-22,Asian,Neurology,Admitted,41.4,6,Admin Required,F,62
+100-30-9853,Patient_986,24-Jun-22,Native American,Cardiology,Admitted,56.8,5.8,No Admin,F,6
+100-57-3852,Patient_987,24-Mar-22,White,Physiotherapy,Not Admitted,47.4,9.9,No Admin,F,61
+100-24-1987,Patient_988,25-Jun-22,Pacific Islander,Gastroenterology,Admitted,49.8,6,Admin Required,M,43
+100-80-8327,Patient_989,24-Mar-22,Pacific Islander,Physiotherapy,Admitted,53.4,5.1,Admin Required,F,31
+100-20-9841,Patient_990,24-Mar-22,Two or More Races,Cardiology,Not Admitted,34.1,5.6,No Admin,F,33
+100-82-2100,Patient_991,24-Mar-22,Asian,None,Not Admitted,22.5,5.8,Admin Required,F,64
+100-66-8421,Patient_992,24-Mar-22,Pacific Islander,Gastroenterology,Not Admitted,44.9,8.8,No Admin,F,77
+100-34-1769,Patient_993,24-Mar-22,Native American,Orthopedics,Not Admitted,27.5,3.6,No Admin,F,21
+100-73-5358,Patient_994,24-Mar-22,White,General Practice,Not Admitted,42.8,5.2,No Admin,F,14
+100-94-7780,Patient_995,24-Mar-22,White,General Practice,Not Admitted,49.6,9.8,No Admin,F,2
+100-48-7602,Patient_996,24-Mar-22,Pacific Islander,Gastroenterology,Admitted,51.3,4.1,Admin Required,F,9
+100-33-3349,Patient_997,24-Mar-22,African American,Cardiology,Not Admitted,32.1,8.2,No Admin,M,16
+100-28-6699,Patient_998,30-Jun-22,Asian,None,Admitted,40.5,5.5,Admin Required,M,54
+100-51-7764,Patient_999,1-Jul-22,White,General Practice,Not Admitted,44.8,7.1,Admin Required,F,58
+100-45-8843,Patient_1000,1-Jul-22,Pacific Islander,None,Not Admitted,52.8,3.7,Admin Required,F,59
+100-12-1072,Patient_1001,2-Jul-22,White,Neurology,Admitted,50.5,5.1,Admin Required,M,34
+100-17-6472,Patient_1002,2-Jul-22,Pacific Islander,Physiotherapy,Not Admitted,59.5,6.5,Admin Required,M,48
+100-79-3472,Patient_1003,3-Jul-22,Asian,Cardiology,Not Admitted,20.3,4.6,Admin Required,M,3
+100-77-2804,Patient_1004,3-Jul-22,Pacific Islander,Orthopedics,Admitted,37.5,6.8,No Admin,F,14
+100-58-4713,Patient_1005,4-Jul-22,Two or More Races,Physiotherapy,Not Admitted,30.2,4.5,No Admin,M,24
+100-69-3475,Patient_1006,5-Jul-22,Pacific Islander,Physiotherapy,Admitted,24.8,7.6,Admin Required,M,68
+100-36-5255,Patient_1007,5-Jul-22,Pacific Islander,Neurology,Not Admitted,56.5,9.3,No Admin,M,23
+100-30-8397,Patient_1008,6-Jul-22,Native American,General Practice,Not Admitted,59.9,3.6,Admin Required,F,64
+100-81-9258,Patient_1009,6-Jul-22,Asian,Orthopedics,Admitted,27.2,4.5,No Admin,F,34
+100-53-3428,Patient_1010,7-Jul-22,Native American,General Practice,Not Admitted,21.5,8.9,Admin Required,F,3
+100-67-8426,Patient_1011,7-Jul-22,Pacific Islander,Gastroenterology,Admitted,31,7.4,No Admin,F,43
+100-95-6249,Patient_1012,8-Jul-22,Asian,Physiotherapy,Admitted,53.4,3.6,Admin Required,M,10
+100-96-6291,Patient_1013,8-Jul-22,Two or More Races,Gastroenterology,Admitted,31.8,6.4,No Admin,F,64
+100-11-4874,Patient_1014,9-Jul-22,Asian,None,Not Admitted,22.3,4.5,Admin Required,F,55
+100-96-5211,Patient_1015,9-Jul-22,White,Physiotherapy,Not Admitted,22.1,4.4,Admin Required,M,26
+100-17-1661,Patient_1016,10-Jul-22,Native American,General Practice,Admitted,37.1,9.6,Admin Required,M,5
+100-53-4374,Patient_1017,11-Jul-22,Asian,Physiotherapy,Not Admitted,57.3,8.3,Admin Required,F,20
+100-64-1207,Patient_1018,11-Jul-22,Two or More Races,None,Not Admitted,31.4,7.9,No Admin,F,19
+100-71-7813,Patient_1019,12-Jul-22,Declined to Identify,Neurology,Not Admitted,37.1,4.7,No Admin,F,14
+100-64-4083,Patient_1020,12-Jul-22,Pacific Islander,Gastroenterology,Admitted,24.1,3.8,Admin Required,F,26
+100-26-4719,Patient_1021,13-Jul-22,Asian,Gastroenterology,Not Admitted,39.7,9.1,No Admin,M,42
+100-93-2679,Patient_1022,13-Jul-22,Pacific Islander,General Practice,Admitted,47.9,3,Admin Required,F,79
+100-39-1236,Patient_1023,14-Jul-22,African American,Physiotherapy,Not Admitted,30.8,5.7,No Admin,M,41
+100-32-5443,Patient_1024,14-Jul-22,White,General Practice,Not Admitted,31.9,4.9,Admin Required,F,75
+100-14-7099,Patient_1025,15-Jul-22,Native American,Neurology,Admitted,53.7,7,No Admin,M,10
+100-74-1285,Patient_1026,15-Jul-22,White,Physiotherapy,Not Admitted,20.4,4.8,Admin Required,M,23
+100-30-5037,Patient_1027,16-Jul-22,African American,Physiotherapy,Admitted,45.5,5.2,No Admin,M,34
+100-31-8121,Patient_1028,17-Jul-22,African American,General Practice,Not Admitted,35.8,9,Admin Required,F,45
+100-81-5895,Patient_1029,17-Jul-22,Native American,General Practice,Admitted,31.9,7.2,Admin Required,M,62
+100-42-2012,Patient_1030,18-Jul-22,Asian,None,Not Admitted,46.3,4,No Admin,M,40
+100-25-3785,Patient_1031,18-Jul-22,African American,Cardiology,Not Admitted,53.4,8.1,Admin Required,M,52
+100-23-5576,Patient_1032,19-Jul-22,Declined to Identify,Cardiology,Not Admitted,42.3,4.5,No Admin,F,15
+100-32-7257,Patient_1033,19-Jul-22,Pacific Islander,Neurology,Admitted,21.2,6,No Admin,F,45
+100-75-3408,Patient_1034,20-Jul-22,Pacific Islander,Cardiology,Admitted,38.5,7.5,No Admin,F,63
+100-94-3817,Patient_1035,20-Jul-22,Two or More Races,None,Admitted,38.5,4.9,No Admin,F,46
+100-82-3496,Patient_1036,21-Jul-22,African American,Gastroenterology,Not Admitted,41.8,5.7,No Admin,M,61
+100-84-6299,Patient_1037,21-Jul-22,African American,Physiotherapy,Admitted,46.8,8.1,No Admin,M,73
+100-71-8574,Patient_1038,22-Jul-22,Declined to Identify,General Practice,Admitted,20.8,9.6,No Admin,M,57
+100-35-4267,Patient_1039,23-Jul-22,White,Physiotherapy,Admitted,40.1,6.7,Admin Required,F,80
+100-91-5406,Patient_1040,23-Jul-22,White,Physiotherapy,Admitted,43.5,3.1,No Admin,F,65
+100-15-2442,Patient_1041,24-Jul-22,Pacific Islander,Orthopedics,Admitted,33.7,5.4,No Admin,F,49
+100-31-5437,Patient_1042,24-Jul-22,Pacific Islander,Gastroenterology,Admitted,46.7,5.8,No Admin,F,52
+100-69-9435,Patient_1043,25-Jul-22,Asian,Orthopedics,Admitted,29.1,5.4,Admin Required,M,29
+100-21-1560,Patient_1044,25-Jul-22,Native American,Cardiology,Admitted,32.7,6.1,Admin Required,F,21
+100-51-9785,Patient_1045,26-Jul-22,Declined to Identify,Physiotherapy,Admitted,58.5,7.4,No Admin,M,19
+100-54-2826,Patient_1046,26-Jul-22,Native American,General Practice,Admitted,33.9,3.8,No Admin,M,2
+100-39-8629,Patient_1047,27-Jul-22,Native American,Physiotherapy,Not Admitted,33.9,4.9,Admin Required,M,50
+100-15-4138,Patient_1048,27-Jul-22,Two or More Races,Gastroenterology,Not Admitted,43.8,6.6,Admin Required,F,40
+100-89-8693,Patient_1049,28-Jul-22,Native American,Orthopedics,Admitted,58.8,5.2,Admin Required,M,1
+100-82-8842,Patient_1050,29-Jul-22,Two or More Races,General Practice,Not Admitted,59.3,9.9,No Admin,F,22
+100-75-8002,Patient_1051,29-Jul-22,Native American,Physiotherapy,Not Admitted,43.2,6,Admin Required,F,48
+100-11-3978,Patient_1052,30-Jul-22,Declined to Identify,Neurology,Admitted,20,9.1,No Admin,M,7
+100-91-8373,Patient_1053,30-Jul-22,Two or More Races,Gastroenterology,Admitted,56,9.3,No Admin,M,58
+100-29-7097,Patient_1054,31-Jul-22,White,Gastroenterology,Admitted,42.8,8.9,No Admin,F,56
+100-19-6656,Patient_1055,31-Jul-22,Two or More Races,Neurology,Not Admitted,34.6,3.3,Admin Required,F,6
+100-75-9984,Patient_1056,1-Aug-22,Two or More Races,Physiotherapy,Admitted,53.2,9.6,No Admin,M,64
+100-63-5259,Patient_1057,1-Aug-22,Declined to Identify,Gastroenterology,Not Admitted,36,3.9,No Admin,F,56
+100-23-5917,Patient_1058,2-Aug-22,Declined to Identify,General Practice,Admitted,21.4,3.2,Admin Required,M,33
+100-61-3530,Patient_1059,3-Aug-22,Two or More Races,Physiotherapy,Not Admitted,52.8,5.9,Admin Required,M,24
+100-50-8045,Patient_1060,3-Aug-22,African American,Physiotherapy,Not Admitted,41.8,4.4,No Admin,M,16
+100-34-6772,Patient_1061,4-Aug-22,Declined to Identify,Orthopedics,Admitted,33.5,4.3,No Admin,M,13
+100-17-3964,Patient_1062,4-Aug-22,Asian,Gastroenterology,Admitted,30,5,No Admin,M,33
+100-77-1536,Patient_1063,5-Aug-22,Asian,Gastroenterology,Not Admitted,43.8,4.7,Admin Required,M,2
+100-88-8340,Patient_1064,5-Aug-22,White,Neurology,Not Admitted,28.3,7.8,Admin Required,M,51
+100-69-8179,Patient_1065,6-Aug-22,Native American,Orthopedics,Admitted,33,4.3,Admin Required,F,31
+100-41-9734,Patient_1066,6-Aug-22,Two or More Races,Cardiology,Admitted,45.5,6.8,No Admin,F,37
+100-87-6777,Patient_1067,7-Aug-22,African American,Orthopedics,Not Admitted,55.3,9.9,No Admin,M,50
+100-69-3494,Patient_1068,7-Aug-22,White,Gastroenterology,Admitted,41.3,6,Admin Required,F,27
+100-15-3719,Patient_1069,8-Aug-22,Two or More Races,Physiotherapy,Not Admitted,50.4,7.5,Admin Required,M,58
+100-52-5349,Patient_1070,9-Aug-22,Declined to Identify,Orthopedics,Admitted,50.5,9.8,No Admin,M,75
+100-11-6179,Patient_1071,9-Aug-22,Asian,Neurology,Admitted,46.6,4,No Admin,M,50
+100-32-7610,Patient_1072,10-Aug-22,Pacific Islander,Orthopedics,Admitted,29.8,5.9,Admin Required,F,69
+100-40-8154,Patient_1073,10-Aug-22,African American,Neurology,Not Admitted,54.7,9,No Admin,F,46
+100-14-7488,Patient_1074,11-Aug-22,Pacific Islander,Cardiology,Admitted,37.5,9.5,No Admin,F,4
+100-11-7525,Patient_1075,11-Aug-22,Asian,Orthopedics,Not Admitted,21.8,7.2,Admin Required,F,19
+100-20-1689,Patient_1076,12-Aug-22,Native American,Neurology,Admitted,29.8,4,Admin Required,M,13
+100-40-6175,Patient_1077,12-Aug-22,Native American,Orthopedics,Not Admitted,50.6,9.3,Admin Required,M,36
+100-88-9648,Patient_1078,13-Aug-22,Pacific Islander,Cardiology,Not Admitted,22.8,4.2,Admin Required,M,64
+100-96-6448,Patient_1079,13-Aug-22,Declined to Identify,Orthopedics,Admitted,25.9,5.5,No Admin,M,31
+100-37-7406,Patient_1080,14-Aug-22,Two or More Races,General Practice,Not Admitted,47.8,5.6,Admin Required,F,33
+100-89-9591,Patient_1081,15-Aug-22,Declined to Identify,Neurology,Not Admitted,55.7,6.1,Admin Required,F,1
+100-13-2638,Patient_1082,15-Aug-22,Pacific Islander,Cardiology,Not Admitted,45.3,8.5,Admin Required,F,38
+100-49-7928,Patient_1083,16-Aug-22,Declined to Identify,Neurology,Not Admitted,28.9,8.6,Admin Required,M,31
+100-61-4292,Patient_1084,16-Aug-22,Asian,Neurology,Admitted,22.1,8,No Admin,M,41
+100-61-1419,Patient_1085,17-Aug-22,African American,None,Admitted,44.6,3.2,Admin Required,M,1
+100-47-4302,Patient_1086,17-Aug-22,Declined to Identify,Cardiology,Admitted,21.9,7,Admin Required,M,20
+100-59-8870,Patient_1087,18-Aug-22,Asian,Orthopedics,Not Admitted,44.5,8.2,No Admin,M,68
+100-71-1767,Patient_1088,18-Aug-22,African American,Neurology,Not Admitted,29,6.1,Admin Required,F,27
+100-16-2549,Patient_1089,19-Aug-22,Native American,Gastroenterology,Admitted,56.2,9.6,No Admin,M,51
+100-80-7140,Patient_1090,19-Aug-22,Two or More Races,None,Admitted,39,8.8,Admin Required,F,41
+100-95-4716,Patient_1091,20-Aug-22,Pacific Islander,General Practice,Not Admitted,29,7.5,No Admin,M,17
+100-64-5481,Patient_1092,21-Aug-22,Native American,Neurology,Admitted,54.1,3.4,No Admin,F,53
+100-71-8898,Patient_1093,21-Aug-22,Two or More Races,Neurology,Admitted,30.2,7.6,Admin Required,M,21
+100-30-3293,Patient_1094,22-Aug-22,Native American,None,Not Admitted,32.3,9.4,No Admin,F,7
+100-88-7793,Patient_1095,22-Aug-22,White,Orthopedics,Admitted,53.4,5.7,Admin Required,F,17
+100-96-8993,Patient_1096,23-Aug-22,Native American,Gastroenterology,Not Admitted,32.4,8.9,No Admin,M,73
+100-48-7356,Patient_1097,23-Aug-22,Asian,General Practice,Admitted,36.4,5.2,Admin Required,F,33
+100-94-3385,Patient_1098,24-Aug-22,African American,Neurology,Not Admitted,33.9,7,No Admin,F,8
+100-54-1671,Patient_1099,24-Aug-22,Native American,Orthopedics,Not Admitted,24.7,7.5,Admin Required,M,16
+100-45-9656,Patient_1100,25-Aug-22,Declined to Identify,Cardiology,Not Admitted,21.6,7.7,No Admin,M,29
+100-69-5798,Patient_1101,26-Aug-22,Two or More Races,Gastroenterology,Not Admitted,49,9.2,No Admin,M,58
+100-30-3355,Patient_1102,26-Aug-22,Native American,Cardiology,Not Admitted,45.8,4.6,No Admin,M,32
+100-64-8961,Patient_1103,27-Aug-22,African American,Gastroenterology,Admitted,31.3,4.8,Admin Required,F,31
+100-77-9737,Patient_1104,27-Aug-22,Asian,General Practice,Admitted,31.8,7.9,No Admin,F,67
+100-61-5719,Patient_1105,28-Aug-22,White,Physiotherapy,Admitted,57.8,4.2,Admin Required,M,11
+100-91-5839,Patient_1106,28-Aug-22,Two or More Races,Gastroenterology,Not Admitted,59.5,6.2,Admin Required,F,52
+100-61-4493,Patient_1107,29-Aug-22,Pacific Islander,Physiotherapy,Admitted,38.9,3.1,Admin Required,M,31
+100-51-7164,Patient_1108,29-Aug-22,African American,Cardiology,Not Admitted,52.1,4,Admin Required,F,17
+100-51-3672,Patient_1109,30-Aug-22,Pacific Islander,Gastroenterology,Not Admitted,49.5,7.8,No Admin,M,67
+100-73-1016,Patient_1110,30-Aug-22,African American,General Practice,Admitted,31.9,8.2,Admin Required,M,67
+100-18-9616,Patient_1111,31-Aug-22,African American,None,Not Admitted,22.3,3.8,Admin Required,M,44
+100-10-1571,Patient_1112,1-Sep-22,Asian,General Practice,Admitted,25.7,4.6,Admin Required,F,28
+100-57-7172,Patient_1113,1-Sep-22,Asian,General Practice,Not Admitted,53.5,3.7,Admin Required,M,10
+100-19-9433,Patient_1114,2-Sep-22,Asian,None,Not Admitted,49.2,6,No Admin,M,55
+100-67-9123,Patient_1115,2-Sep-22,Native American,None,Admitted,46.6,3.9,Admin Required,M,74
+100-30-8451,Patient_1116,3-Sep-22,Declined to Identify,Orthopedics,Not Admitted,25.2,6.1,Admin Required,F,72
+100-84-1775,Patient_1117,3-Sep-22,African American,Gastroenterology,Admitted,45.6,8.1,Admin Required,M,46
+100-68-7869,Patient_1118,4-Sep-22,Two or More Races,Cardiology,Not Admitted,50.9,7.8,Admin Required,F,78
+100-81-8088,Patient_1119,4-Sep-22,Pacific Islander,Orthopedics,Admitted,54.4,5,No Admin,F,43
+100-88-9080,Patient_1120,5-Sep-22,Asian,None,Not Admitted,20.5,7.7,Admin Required,M,10
+100-69-4926,Patient_1121,5-Sep-22,Native American,Physiotherapy,Admitted,47.4,9.5,Admin Required,F,19
+100-97-8340,Patient_1122,6-Sep-22,Asian,Cardiology,Admitted,20.8,5.4,No Admin,M,52
+100-92-8083,Patient_1123,7-Sep-22,Pacific Islander,Physiotherapy,Not Admitted,48.3,5.3,No Admin,M,21
+100-74-7230,Patient_1124,7-Sep-22,Pacific Islander,General Practice,Admitted,45.4,7,Admin Required,M,12
+100-17-5940,Patient_1125,8-Sep-22,African American,Neurology,Not Admitted,25.9,4.7,No Admin,M,50
+100-81-4456,Patient_1126,8-Sep-22,Asian,General Practice,Not Admitted,50.6,7.6,Admin Required,M,45
+100-60-9599,Patient_1127,9-Sep-22,Pacific Islander,General Practice,Admitted,22.7,8.8,Admin Required,F,44
+100-33-2668,Patient_1128,9-Sep-22,Declined to Identify,Neurology,Admitted,53.1,6.2,Admin Required,M,1
+100-29-7420,Patient_1129,10-Sep-22,Declined to Identify,Gastroenterology,Admitted,30.5,7.8,No Admin,F,52
+100-67-1365,Patient_1130,10-Sep-22,Asian,None,Admitted,47.6,7.6,Admin Required,F,48
+100-20-5531,Patient_1131,11-Sep-22,Native American,Physiotherapy,Admitted,56.9,3.3,No Admin,M,2
+100-24-6330,Patient_1132,11-Sep-22,Pacific Islander,General Practice,Not Admitted,33.6,4.3,Admin Required,F,66
+100-16-9754,Patient_1133,12-Sep-22,African American,Neurology,Admitted,40.1,9.3,Admin Required,F,0
+100-67-9964,Patient_1134,13-Sep-22,African American,Orthopedics,Not Admitted,38.5,9.6,No Admin,M,26
+100-17-6439,Patient_1135,13-Sep-22,Native American,General Practice,Admitted,26.3,8.5,Admin Required,F,8
+100-19-7511,Patient_1136,14-Sep-22,African American,Physiotherapy,Admitted,43.6,9.4,Admin Required,F,67
+100-90-2246,Patient_1137,14-Sep-22,White,None,Admitted,49.7,5.1,Admin Required,F,56
+100-17-4839,Patient_1138,15-Sep-22,Asian,General Practice,Not Admitted,56.7,4.7,Admin Required,M,59
+100-34-3376,Patient_1139,15-Sep-22,African American,General Practice,Admitted,54,5.7,Admin Required,M,77
+100-75-2827,Patient_1140,16-Sep-22,Declined to Identify,Gastroenterology,Not Admitted,40.4,3.4,Admin Required,M,43
+100-77-9569,Patient_1141,16-Sep-22,Pacific Islander,Neurology,Not Admitted,48.8,8.7,Admin Required,F,71
+100-71-7910,Patient_1142,17-Sep-22,Two or More Races,Orthopedics,Not Admitted,52,9.9,Admin Required,M,38
+100-19-3196,Patient_1143,17-Sep-22,Native American,Orthopedics,Admitted,39.7,8.8,No Admin,M,22
+100-45-9843,Patient_1144,18-Sep-22,Two or More Races,Cardiology,Not Admitted,24.6,6.9,Admin Required,F,53
+100-11-1780,Patient_1145,19-Sep-22,African American,None,Admitted,37.5,5.1,Admin Required,M,46
+100-62-7303,Patient_1146,19-Sep-22,Two or More Races,Cardiology,Not Admitted,53.7,4.4,No Admin,M,41
+100-25-9714,Patient_1147,20-Sep-22,Two or More Races,Physiotherapy,Admitted,43.9,5.5,No Admin,M,27
+100-19-8569,Patient_1148,20-Sep-22,White,None,Not Admitted,49,7.7,Admin Required,M,79
+100-64-6784,Patient_1149,21-Sep-22,Declined to Identify,General Practice,Admitted,27.4,6.1,Admin Required,F,27
+100-68-5941,Patient_1150,21-Sep-22,Native American,General Practice,Admitted,58.6,9.5,No Admin,M,74
+100-98-3461,Patient_1151,22-Sep-22,Declined to Identify,Orthopedics,Admitted,36.2,9,Admin Required,M,48
+100-93-1685,Patient_1152,22-Sep-22,White,Physiotherapy,Not Admitted,46.1,3.7,No Admin,M,67
+100-30-6341,Patient_1153,23-Sep-22,White,Neurology,Not Admitted,20.8,3.9,No Admin,M,30
+100-48-5875,Patient_1154,24-Sep-22,Two or More Races,Physiotherapy,Admitted,25.1,7.7,Admin Required,M,68
+100-56-8697,Patient_1155,24-Sep-22,Asian,General Practice,Not Admitted,51.3,4.6,Admin Required,M,17
+100-30-8165,Patient_1156,25-Sep-22,Pacific Islander,Neurology,Not Admitted,58.7,8.5,No Admin,M,64
+100-30-1301,Patient_1157,25-Sep-22,Pacific Islander,Physiotherapy,Not Admitted,32.8,7.1,Admin Required,M,48
+100-16-9789,Patient_1158,26-Sep-22,Two or More Races,Physiotherapy,Not Admitted,21.5,4.6,Admin Required,F,28
+100-31-5330,Patient_1159,26-Sep-22,Pacific Islander,Neurology,Not Admitted,34.4,6.4,Admin Required,M,9
+100-98-8003,Patient_1160,27-Sep-22,White,General Practice,Not Admitted,20.7,5.8,No Admin,M,9
+100-38-4537,Patient_1161,27-Sep-22,Declined to Identify,Physiotherapy,Not Admitted,27.7,9.1,No Admin,F,22
+100-11-5558,Patient_1162,28-Sep-22,Pacific Islander,Neurology,Admitted,50.1,3.2,No Admin,F,67
+100-61-9474,Patient_1163,28-Sep-22,Native American,Gastroenterology,Admitted,57.5,9.3,No Admin,F,26
+100-59-5082,Patient_1164,29-Sep-22,Two or More Races,Gastroenterology,Not Admitted,23.5,7.6,Admin Required,F,19
+100-32-5183,Patient_1165,30-Sep-22,Asian,General Practice,Admitted,42.3,8.2,No Admin,F,56
+100-53-9652,Patient_1166,30-Sep-22,Two or More Races,Neurology,Admitted,30.2,3,Admin Required,F,79
+100-31-4754,Patient_1167,1-Oct-22,African American,Gastroenterology,Admitted,25.6,7.4,No Admin,M,21
+100-46-2724,Patient_1168,1-Oct-22,Two or More Races,Neurology,Not Admitted,28.8,7.1,Admin Required,F,71
+100-65-9706,Patient_1169,2-Oct-22,White,Physiotherapy,Not Admitted,43.1,6.8,Admin Required,F,71
+100-72-2653,Patient_1170,2-Oct-22,Declined to Identify,General Practice,Not Admitted,22.6,8.5,No Admin,M,12
+100-28-1022,Patient_1171,3-Oct-22,Declined to Identify,Gastroenterology,Not Admitted,37.4,6.9,Admin Required,F,31
+100-38-6926,Patient_1172,3-Oct-22,Native American,Cardiology,Not Admitted,25.4,9,No Admin,M,23
+100-34-8295,Patient_1173,4-Oct-22,Pacific Islander,Physiotherapy,Admitted,30.9,4.6,No Admin,M,19
+100-17-9553,Patient_1174,4-Oct-22,White,Cardiology,Not Admitted,27.6,8.6,Admin Required,F,71
+100-67-4727,Patient_1175,5-Oct-22,African American,Cardiology,Admitted,55.3,4.3,Admin Required,F,34
+100-81-7272,Patient_1176,6-Oct-22,White,None,Not Admitted,48.3,8.7,No Admin,F,18
+100-14-1514,Patient_1177,6-Oct-22,Two or More Races,None,Admitted,54.7,9.6,Admin Required,F,36
+100-74-7019,Patient_1178,7-Oct-22,White,General Practice,Not Admitted,35.3,5.3,No Admin,F,28
+100-73-9033,Patient_1179,7-Oct-22,White,Gastroenterology,Not Admitted,32.5,6.7,No Admin,F,77
+100-98-4081,Patient_1180,8-Oct-22,Native American,Gastroenterology,Not Admitted,35.2,7.6,No Admin,F,8
+100-30-4967,Patient_1181,8-Oct-22,African American,Gastroenterology,Not Admitted,20.7,3.6,No Admin,M,36
+100-55-3159,Patient_1182,9-Oct-22,Two or More Races,Neurology,Not Admitted,49,6.5,No Admin,F,42
+100-22-3547,Patient_1183,9-Oct-22,Asian,Physiotherapy,Not Admitted,34,5.5,No Admin,M,50
+100-45-3649,Patient_1184,10-Oct-22,Native American,Gastroenterology,Admitted,32.5,9.1,No Admin,F,14
+100-67-4083,Patient_1185,10-Oct-22,Asian,Physiotherapy,Not Admitted,43.9,9.1,No Admin,M,36
+100-90-2037,Patient_1186,11-Oct-22,Native American,General Practice,Admitted,37.4,7.9,Admin Required,F,80
+100-43-8604,Patient_1187,12-Oct-22,Declined to Identify,Cardiology,Not Admitted,59.2,7.6,Admin Required,M,18
+100-29-3634,Patient_1188,12-Oct-22,Native American,Gastroenterology,Admitted,34.3,8.1,No Admin,F,1
+100-25-2778,Patient_1189,13-Oct-22,Pacific Islander,General Practice,Admitted,44.6,5.6,Admin Required,M,13
+100-79-8378,Patient_1190,13-Oct-22,White,Gastroenterology,Admitted,32.5,5.8,Admin Required,F,16
+100-67-3179,Patient_1191,14-Oct-22,Declined to Identify,None,Admitted,59.6,6.9,Admin Required,M,49
+100-13-2929,Patient_1192,14-Oct-22,African American,Orthopedics,Admitted,37.8,9.6,No Admin,F,16
+100-33-2013,Patient_1193,15-Oct-22,Asian,General Practice,Admitted,45.4,8.1,Admin Required,M,33
+100-35-2828,Patient_1194,15-Oct-22,Native American,Gastroenterology,Not Admitted,25.1,6.9,Admin Required,F,75
+100-94-3023,Patient_1195,16-Oct-22,White,Orthopedics,Admitted,49.3,8.4,Admin Required,M,15
+100-30-6891,Patient_1196,16-Oct-22,African American,General Practice,Not Admitted,30.8,5.6,No Admin,F,74
+100-69-2080,Patient_1197,17-Oct-22,Pacific Islander,Neurology,Not Admitted,37.9,8.1,Admin Required,F,28
+100-54-3563,Patient_1198,18-Oct-22,African American,Gastroenterology,Admitted,55.3,5.9,Admin Required,M,13
+100-23-4586,Patient_1199,18-Oct-22,White,Neurology,Admitted,58.8,5,Admin Required,M,29
+100-97-5431,Patient_1200,19-Oct-22,Pacific Islander,None,Not Admitted,37,7.3,Admin Required,M,56
+100-67-7643,Patient_1201,19-Oct-22,African American,Gastroenterology,Admitted,53.4,7.8,No Admin,M,13
+100-13-4959,Patient_1202,20-Oct-22,Pacific Islander,Cardiology,Admitted,22.1,6.2,No Admin,M,62
+100-33-1161,Patient_1203,20-Oct-22,Native American,None,Admitted,53.9,7,Admin Required,M,58
+100-39-1593,Patient_1204,21-Oct-22,Native American,Orthopedics,Admitted,45.2,7.9,Admin Required,F,71
+100-28-4390,Patient_1205,21-Oct-22,White,General Practice,Admitted,39.5,8.4,No Admin,F,68
+100-92-1663,Patient_1206,22-Oct-22,White,Physiotherapy,Admitted,55.6,9.3,Admin Required,M,17
+100-85-1541,Patient_1207,23-Oct-22,Pacific Islander,None,Admitted,53.8,5.5,Admin Required,F,35
+100-67-6093,Patient_1208,23-Oct-22,Two or More Races,Physiotherapy,Not Admitted,31.9,9.7,Admin Required,M,63
+100-40-1867,Patient_1209,24-Oct-22,Declined to Identify,Physiotherapy,Admitted,51.7,7.5,Admin Required,M,21
+100-73-9623,Patient_1210,24-Oct-22,African American,General Practice,Not Admitted,24,8.5,Admin Required,F,79
+100-54-6469,Patient_1211,25-Oct-22,African American,Orthopedics,Not Admitted,52.9,7.9,No Admin,F,52
+100-64-7256,Patient_1212,25-Oct-22,Two or More Races,General Practice,Not Admitted,47,4.4,Admin Required,M,54
+100-64-2169,Patient_1213,26-Oct-22,Two or More Races,Gastroenterology,Not Admitted,23.5,3.5,Admin Required,F,28
+100-72-2651,Patient_1214,26-Oct-22,Two or More Races,None,Admitted,47.3,8.1,Admin Required,F,46
+100-56-2019,Patient_1215,27-Oct-22,Asian,Physiotherapy,Not Admitted,43.2,6.6,Admin Required,M,15
+100-54-2283,Patient_1216,27-Oct-22,Asian,General Practice,Not Admitted,43.8,7.9,Admin Required,M,16
+100-29-3010,Patient_1217,28-Oct-22,Pacific Islander,General Practice,Not Admitted,31.6,6.3,Admin Required,F,32
+100-24-2733,Patient_1218,29-Oct-22,Asian,General Practice,Not Admitted,30.7,5.2,Admin Required,M,43
+100-56-3125,Patient_1219,29-Oct-22,Native American,None,Not Admitted,50.5,5,No Admin,F,41
+100-84-4471,Patient_1220,30-Oct-22,Native American,Orthopedics,Admitted,30.3,8.1,No Admin,F,67
+100-78-6624,Patient_1221,30-Oct-22,White,Cardiology,Admitted,37.9,4.9,Admin Required,M,75
+100-70-9329,Patient_1222,31-Oct-22,Pacific Islander,General Practice,Not Admitted,47.8,8,Admin Required,M,32
+100-59-6068,Patient_1223,31-Oct-22,African American,None,Admitted,23.2,5.7,No Admin,F,54
+100-79-4920,Patient_1224,1-Nov-22,Declined to Identify,Physiotherapy,Admitted,43.8,8.4,Admin Required,M,24
+100-60-7900,Patient_1225,1-Nov-22,White,Gastroenterology,Not Admitted,43.6,4,Admin Required,F,50
+100-28-2449,Patient_1226,2-Nov-22,African American,Cardiology,Not Admitted,47.4,4.4,No Admin,M,12
+100-44-6017,Patient_1227,2-Nov-22,African American,Neurology,Not Admitted,34.8,7.8,No Admin,F,34
+100-78-8999,Patient_1228,3-Nov-22,Pacific Islander,Cardiology,Admitted,38,6.9,Admin Required,M,25
+100-46-3096,Patient_1229,4-Nov-22,Two or More Races,Cardiology,Not Admitted,33.2,4.4,Admin Required,M,59
+100-30-9895,Patient_1230,4-Nov-22,Two or More Races,None,Admitted,52.3,9.3,No Admin,F,59
+100-14-4331,Patient_1231,5-Nov-22,White,Neurology,Admitted,25.2,4.9,Admin Required,M,41
+100-48-6105,Patient_1232,5-Nov-22,Two or More Races,General Practice,Admitted,58.5,5.9,No Admin,M,32
+100-44-3839,Patient_1233,6-Nov-22,African American,General Practice,Not Admitted,45.4,4.4,Admin Required,F,9
+100-66-1685,Patient_1234,6-Nov-22,Two or More Races,Cardiology,Admitted,55.5,5.7,Admin Required,M,17
+100-69-8531,Patient_1235,7-Nov-22,Asian,None,Not Admitted,37,6.4,No Admin,M,32
+100-69-8736,Patient_1236,7-Nov-22,Two or More Races,Neurology,Not Admitted,33.3,5.1,No Admin,M,74
+100-40-2619,Patient_1237,8-Nov-22,African American,General Practice,Not Admitted,56,8.4,No Admin,M,4
+100-33-7868,Patient_1238,8-Nov-22,Pacific Islander,Physiotherapy,Not Admitted,24,5.8,Admin Required,M,77
+100-39-2431,Patient_1239,9-Nov-22,White,Orthopedics,Not Admitted,24.7,8.1,No Admin,M,9
+100-39-5998,Patient_1240,10-Nov-22,Declined to Identify,Orthopedics,Admitted,32,4.4,No Admin,M,78
+100-44-2974,Patient_1241,10-Nov-22,Two or More Races,General Practice,Admitted,58.4,5.6,No Admin,M,37
+100-23-1631,Patient_1242,2-Jan-22,Native American,Neurology,Admitted,45.3,3.1,No Admin,M,22
+100-19-3014,Patient_1243,1-Jan-22,Native American,Gastroenterology,Admitted,42.2,8.3,Admin Required,F,30
+100-98-1204,Patient_1244,1-Jan-22,African American,General Practice,Admitted,48.2,7.4,Admin Required,M,52
+100-79-6675,Patient_1245,1-Jan-22,Declined to Identify,Gastroenterology,Not Admitted,36.7,8.7,No Admin,M,60
+100-82-6347,Patient_1246,1-Jan-22,Declined to Identify,Gastroenterology,Not Admitted,50.3,6.2,No Admin,M,48
+100-65-3643,Patient_1247,1-Jan-22,Asian,Neurology,Admitted,35.7,8.6,Admin Required,F,52
+100-91-3297,Patient_1248,1-Jan-22,Declined to Identify,Gastroenterology,Admitted,53.1,7.5,Admin Required,F,7
+100-66-1689,Patient_1249,1-Jan-22,Native American,Physiotherapy,Admitted,30.7,3,No Admin,F,5
+100-42-1671,Patient_1250,15-Nov-22,Pacific Islander,Neurology,Not Admitted,31.1,4.8,Admin Required,M,15
+100-84-2171,Patient_1251,16-Nov-22,African American,General Practice,Not Admitted,40.9,6.5,No Admin,F,8
+100-97-7342,Patient_1252,16-Nov-22,African American,Cardiology,Not Admitted,37.2,7.3,Admin Required,M,67
+100-30-2449,Patient_1253,17-Nov-22,Two or More Races,Physiotherapy,Admitted,45.9,3.5,No Admin,M,15
+100-35-3539,Patient_1254,17-Nov-22,Two or More Races,None,Admitted,34.6,7.9,Admin Required,M,6
+100-23-6432,Patient_1255,18-Nov-22,Two or More Races,Orthopedics,Admitted,29.2,6.8,Admin Required,F,4
+100-46-3361,Patient_1256,18-Nov-22,Native American,General Practice,Admitted,38.8,6.7,Admin Required,M,31
+100-30-4670,Patient_1257,19-Nov-22,Native American,General Practice,Not Admitted,42.4,5,No Admin,F,37
+100-46-2938,Patient_1258,19-Nov-22,Native American,General Practice,Admitted,25.7,7.2,No Admin,M,40
+100-98-7588,Patient_1259,20-Nov-22,Native American,Physiotherapy,Admitted,42.3,3.2,No Admin,M,53
+100-50-7304,Patient_1260,21-Nov-22,Native American,None,Admitted,32.8,3.5,Admin Required,F,23
+100-59-8875,Patient_1261,21-Nov-22,Native American,Cardiology,Not Admitted,35.7,8.1,No Admin,F,49
+100-80-1597,Patient_1262,22-Nov-22,Pacific Islander,Neurology,Not Admitted,31.2,5.3,No Admin,F,4
+100-42-1572,Patient_1263,22-Nov-22,Native American,None,Admitted,57.3,5.4,No Admin,M,43
+100-37-8097,Patient_1264,23-Nov-22,Declined to Identify,Physiotherapy,Not Admitted,47.3,4.5,No Admin,F,30
+100-52-7566,Patient_1265,23-Nov-22,Declined to Identify,General Practice,Not Admitted,30.5,6.1,Admin Required,M,56
+100-95-5624,Patient_1266,24-Nov-22,Asian,Orthopedics,Not Admitted,45.8,3.4,No Admin,F,9
+100-79-2517,Patient_1267,24-Nov-22,Pacific Islander,General Practice,Not Admitted,53.9,5.1,No Admin,M,80
+100-79-4648,Patient_1268,25-Nov-22,Two or More Races,Neurology,Not Admitted,36.1,6.7,No Admin,F,1
+100-83-2537,Patient_1269,25-Nov-22,White,Gastroenterology,Admitted,53.2,6.3,No Admin,F,49
+100-31-4137,Patient_1270,26-Nov-22,Native American,Orthopedics,Admitted,26.2,10,Admin Required,F,52
+100-83-1097,Patient_1271,27-Nov-22,Asian,General Practice,Admitted,52.9,5.7,No Admin,M,74
+100-25-4750,Patient_1272,27-Nov-22,White,Cardiology,Not Admitted,41.6,5.7,Admin Required,M,67
+100-95-9535,Patient_1273,28-Nov-22,Declined to Identify,Orthopedics,Not Admitted,28.9,6.5,Admin Required,F,14
+100-49-6413,Patient_1274,28-Nov-22,Asian,Gastroenterology,Not Admitted,36.3,4.3,No Admin,F,67
+100-69-5666,Patient_1275,29-Nov-22,Asian,None,Not Admitted,59.5,9.1,Admin Required,F,71
+100-19-1610,Patient_1276,29-Nov-22,African American,Physiotherapy,Admitted,51.3,7,Admin Required,M,78
+100-73-2854,Patient_1277,30-Nov-22,Declined to Identify,General Practice,Admitted,43,4.3,No Admin,F,25
+100-58-6055,Patient_1278,30-Nov-22,Declined to Identify,Neurology,Admitted,24.6,8.6,Admin Required,M,78
+100-41-3324,Patient_1279,1-Dec-22,Pacific Islander,None,Admitted,36.7,3.2,Admin Required,M,53
+100-29-6774,Patient_1280,1-Dec-22,Asian,General Practice,Admitted,30.5,9.9,Admin Required,M,42
+100-94-2749,Patient_1281,1-Jan-22,Native American,None,Admitted,22.8,9.1,Admin Required,M,64
+100-23-8548,Patient_1282,3-Dec-22,Declined to Identify,Neurology,Not Admitted,41.7,7.1,Admin Required,F,44
+100-49-3105,Patient_1283,1-Jan-22,Asian,General Practice,Not Admitted,55.6,3.8,Admin Required,M,23
+100-37-8193,Patient_1284,1-Jan-22,Pacific Islander,Gastroenterology,Admitted,47,4.5,Admin Required,F,12
+100-72-3113,Patient_1285,1-Jan-22,Native American,Gastroenterology,Not Admitted,30,5,Admin Required,M,6
+100-34-6879,Patient_1286,1-Jan-22,Pacific Islander,Neurology,Admitted,42.9,4.7,Admin Required,M,19
+100-12-8264,Patient_1287,1-Jan-22,African American,Orthopedics,Admitted,57.7,6.5,No Admin,F,44
+100-51-3274,Patient_1288,1-Jan-22,Native American,Neurology,Not Admitted,48.9,9.6,No Admin,F,28
+100-15-7744,Patient_1289,1-Jan-22,Asian,Orthopedics,Admitted,47.6,6.1,No Admin,F,46
+100-59-6546,Patient_1290,1-Jan-22,Declined to Identify,General Practice,Admitted,58.7,7.6,Admin Required,F,36
+100-28-7852,Patient_1291,1-Jan-22,Declined to Identify,Orthopedics,Admitted,52,7.8,No Admin,F,47
+100-60-3551,Patient_1292,1-Jan-22,Asian,General Practice,Not Admitted,25.5,9.1,No Admin,F,43
+100-21-1007,Patient_1293,1-Jan-22,Asian,General Practice,Not Admitted,33.9,3.2,Admin Required,F,39
+100-33-3555,Patient_1294,1-Jan-22,Asian,Cardiology,Not Admitted,58.6,5.8,Admin Required,M,35
+100-50-9676,Patient_1295,10-Dec-22,Two or More Races,Physiotherapy,Not Admitted,39.6,8.5,Admin Required,M,64
+100-94-8239,Patient_1296,10-Dec-22,Native American,General Practice,Admitted,24.5,8.7,No Admin,M,70
+100-64-6000,Patient_1297,11-Dec-22,Declined to Identify,Orthopedics,Not Admitted,38.3,9.5,Admin Required,M,78
+100-56-9078,Patient_1298,11-Dec-22,Native American,Physiotherapy,Not Admitted,47.9,7.9,No Admin,M,21
+100-57-3285,Patient_1299,9-Jul-21,Pacific Islander,Physiotherapy,Not Admitted,59.9,4.7,Admin Required,M,65
+100-91-7971,Patient_1300,9-Jul-21,Declined to Identify,General Practice,Admitted,33,6.5,Admin Required,M,7
+100-93-4525,Patient_1301,9-Jul-21,Two or More Races,Neurology,Not Admitted,40.6,3.2,No Admin,M,15
+100-21-3822,Patient_1302,9-Jul-21,Asian,Neurology,Not Admitted,55.2,7.5,No Admin,F,64
+100-89-7530,Patient_1303,9-Jul-21,African American,Gastroenterology,Admitted,34.2,6.9,Admin Required,M,36
+100-12-1282,Patient_1304,9-Jul-21,Asian,Physiotherapy,Admitted,24.4,7.7,No Admin,M,3
+100-49-7629,Patient_1305,9-Jul-21,Asian,General Practice,Admitted,58,9.5,Admin Required,M,74
+100-42-4200,Patient_1306,9-Jul-21,Two or More Races,Cardiology,Admitted,39.5,7.8,No Admin,M,20
+100-17-1612,Patient_1307,9-Jul-21,Native American,Neurology,Not Admitted,40.1,5.2,No Admin,F,53
+100-41-1687,Patient_1308,9-Jul-21,Declined to Identify,Cardiology,Admitted,44.8,4.4,No Admin,F,46
+100-13-8133,Patient_1309,9-Jul-21,Asian,General Practice,Not Admitted,20.1,9,Admin Required,M,29
+100-79-7509,Patient_1310,18-Dec-22,Declined to Identify,General Practice,Not Admitted,57.2,4.4,Admin Required,M,26
+100-28-3591,Patient_1311,18-Dec-22,White,Physiotherapy,Not Admitted,34.5,4.1,No Admin,F,39
+100-18-8183,Patient_1312,19-Dec-22,Pacific Islander,Cardiology,Not Admitted,35.9,4.4,Admin Required,F,14
+100-10-9766,Patient_1313,20-Dec-22,Native American,Gastroenterology,Not Admitted,27,6.6,No Admin,M,63
+100-30-1669,Patient_1314,20-Dec-22,Declined to Identify,Physiotherapy,Admitted,35.1,3.9,Admin Required,F,35
+100-22-8329,Patient_1315,21-Dec-22,African American,None,Not Admitted,52.2,9.6,Admin Required,M,44
+100-13-1923,Patient_1316,21-Dec-22,Pacific Islander,Cardiology,Not Admitted,52,9.8,No Admin,F,30
+100-68-9438,Patient_1317,22-Dec-22,African American,Neurology,Not Admitted,57.4,9.8,Admin Required,F,47
+100-36-9004,Patient_1318,22-Dec-22,Asian,Neurology,Admitted,36.1,3.3,No Admin,F,36
+100-34-7274,Patient_1319,23-Dec-22,Pacific Islander,Neurology,Not Admitted,48.3,9.6,No Admin,M,54
+100-77-4864,Patient_1320,23-Dec-22,Declined to Identify,Orthopedics,Not Admitted,40.3,10,No Admin,F,79
+100-29-8833,Patient_1321,24-Dec-22,Pacific Islander,General Practice,Admitted,52.2,9.6,Admin Required,F,14
+100-14-1226,Patient_1322,24-Dec-22,Asian,Physiotherapy,Not Admitted,48.5,7.7,No Admin,M,56
+100-70-1264,Patient_1323,25-Dec-22,Two or More Races,Neurology,Not Admitted,34.7,7.9,No Admin,M,9
+100-59-1645,Patient_1324,9-Jul-21,Native American,None,Admitted,33.5,3.9,Admin Required,F,72
+100-92-8544,Patient_1325,9-Jul-21,African American,Neurology,Not Admitted,30.1,9.1,Admin Required,M,77
+100-20-6569,Patient_1326,9-Jul-21,Asian,Gastroenterology,Not Admitted,43.1,3.4,Admin Required,M,74
+100-56-3504,Patient_1327,9-Jul-21,Two or More Races,General Practice,Not Admitted,58.6,5.2,No Admin,M,14
+100-94-1587,Patient_1328,9-Jul-21,Pacific Islander,Cardiology,Not Admitted,28,9.9,No Admin,M,61
+100-39-5079,Patient_1329,9-Jul-21,Pacific Islander,General Practice,Not Admitted,23.8,6,No Admin,M,33
+100-30-7299,Patient_1330,9-Jul-21,Asian,Cardiology,Admitted,24.8,3.9,No Admin,F,76
+100-71-2715,Patient_1331,9-Jul-21,Declined to Identify,Cardiology,Admitted,51.3,9.8,Admin Required,M,29
+100-43-7450,Patient_1332,9-Jul-21,Pacific Islander,Physiotherapy,Admitted,34,9.9,Admin Required,M,3
+100-56-6433,Patient_1333,9-Jul-21,Declined to Identify,Orthopedics,Not Admitted,29,4.3,Admin Required,F,78
+100-84-8096,Patient_1334,9-Jul-21,Declined to Identify,Cardiology,Not Admitted,34.1,9.1,Admin Required,M,21
+100-32-7416,Patient_1335,1-Jan-23,Native American,Cardiology,Not Admitted,45.8,5.7,No Admin,M,75
+100-78-7763,Patient_1336,1-Jan-23,Declined to Identify,Physiotherapy,Admitted,41.9,5.7,No Admin,M,53
+100-20-8950,Patient_1337,2-Jan-23,White,Neurology,Not Admitted,49.7,4.8,No Admin,F,65
+100-44-9915,Patient_1338,2-Jan-23,Native American,Gastroenterology,Not Admitted,33.6,3.3,Admin Required,F,14
+100-25-7049,Patient_1339,3-Jan-23,Two or More Races,None,Not Admitted,38.1,4.9,No Admin,M,68
+100-75-5578,Patient_1340,3-Jan-23,Two or More Races,Physiotherapy,Admitted,24.1,3.4,No Admin,F,9
+100-49-1155,Patient_1341,4-Jan-23,Pacific Islander,Orthopedics,Admitted,22.9,9.5,Admin Required,M,58
+100-56-2958,Patient_1342,4-Jan-23,Pacific Islander,Physiotherapy,Not Admitted,38.5,7.6,No Admin,F,38
+100-79-7344,Patient_1343,5-Jan-23,Declined to Identify,General Practice,Not Admitted,32.1,9.2,Admin Required,M,28
+100-29-7144,Patient_1344,5-Jan-23,Native American,Neurology,Not Admitted,44.5,8,No Admin,M,32
+100-81-4830,Patient_1345,6-Jan-23,Native American,Neurology,Admitted,21.7,3.9,No Admin,F,48
+100-96-9831,Patient_1346,7-Jan-23,White,Cardiology,Admitted,24.9,9.6,No Admin,F,62
+100-72-7659,Patient_1347,7-Jan-23,Declined to Identify,Neurology,Admitted,54.6,9.3,Admin Required,F,9
+100-67-7040,Patient_1348,8-Jan-23,White,Neurology,Not Admitted,42.7,5.4,Admin Required,F,22
+100-56-6925,Patient_1349,8-Jan-23,Declined to Identify,Neurology,Admitted,48.5,3.8,Admin Required,M,17
+100-24-8358,Patient_1350,9-Jan-23,African American,Neurology,Not Admitted,53.7,7.9,No Admin,M,75
+100-30-7370,Patient_1351,9-Jan-23,African American,None,Not Admitted,38.6,8.1,No Admin,F,13
+100-66-1948,Patient_1352,10-Jan-23,Asian,Orthopedics,Admitted,50.4,9.3,Admin Required,M,13
+100-55-9179,Patient_1353,10-Jan-23,Declined to Identify,Cardiology,Not Admitted,41,3.4,No Admin,F,57
+100-23-7115,Patient_1354,11-Jan-23,Native American,Neurology,Admitted,28.9,4,Admin Required,M,18
+100-85-8568,Patient_1355,12-Jan-23,Pacific Islander,Cardiology,Not Admitted,33.5,7.2,Admin Required,F,23
+100-48-1392,Patient_1356,12-Jan-23,Two or More Races,Orthopedics,Not Admitted,39.6,7.3,No Admin,M,79
+100-86-8374,Patient_1357,13-Jan-23,Asian,Gastroenterology,Admitted,32.7,3.2,No Admin,M,66
+100-91-2138,Patient_1358,13-Jan-23,Pacific Islander,Neurology,Not Admitted,33.4,5.8,Admin Required,M,65
+100-15-8418,Patient_1359,14-Jan-23,African American,Cardiology,Not Admitted,33.5,7.1,Admin Required,M,65
+100-32-4674,Patient_1360,14-Jan-23,Declined to Identify,Physiotherapy,Not Admitted,24.9,8.2,Admin Required,M,56
+100-55-3597,Patient_1361,15-Jan-23,Asian,Cardiology,Not Admitted,23.4,5.2,Admin Required,M,43
+100-23-3659,Patient_1362,15-Jan-23,Declined to Identify,Neurology,Not Admitted,21.9,6.4,No Admin,M,18
+100-81-6661,Patient_1363,16-Jan-23,African American,General Practice,Not Admitted,24.4,8.7,No Admin,F,62
+100-87-6626,Patient_1364,16-Jan-23,Asian,None,Not Admitted,33.7,9.7,Admin Required,M,17
+100-93-9472,Patient_1365,17-Jan-23,African American,Physiotherapy,Not Admitted,43.8,4.6,Admin Required,F,71
+100-49-7999,Patient_1366,18-Jan-23,White,Physiotherapy,Admitted,27.5,4.8,No Admin,M,72
+100-23-5249,Patient_1367,18-Jan-23,African American,General Practice,Admitted,55.5,9.6,No Admin,M,58
+100-96-5757,Patient_1368,19-Jan-23,Native American,Neurology,Not Admitted,52.3,5.8,No Admin,M,18
+100-57-5088,Patient_1369,19-Jan-23,Native American,None,Not Admitted,40.8,8,Admin Required,M,42
+100-92-8789,Patient_1370,20-Jan-23,Declined to Identify,Physiotherapy,Admitted,49,7.3,No Admin,F,51
+100-60-3946,Patient_1371,20-Jan-23,Two or More Races,None,Not Admitted,34.7,5,Admin Required,M,54
+100-51-6394,Patient_1372,21-Jan-23,African American,Physiotherapy,Admitted,21.5,7.6,No Admin,F,9
+100-82-6075,Patient_1373,21-Jan-23,Pacific Islander,Neurology,Admitted,56.2,7.6,No Admin,F,54
+100-54-8230,Patient_1374,22-Jan-23,Native American,Gastroenterology,Admitted,25.1,7.1,Admin Required,M,13
+100-82-2531,Patient_1375,22-Jan-23,Two or More Races,Physiotherapy,Not Admitted,57.9,3.7,Admin Required,F,52
+100-28-3990,Patient_1376,23-Jan-23,White,Gastroenterology,Not Admitted,42.9,10,Admin Required,M,19
+100-23-1933,Patient_1377,24-Jan-23,Asian,Physiotherapy,Not Admitted,32.2,5.8,Admin Required,M,13
+100-62-3723,Patient_1378,24-Jan-23,Asian,Orthopedics,Admitted,39.8,7.5,Admin Required,M,64
+100-49-1285,Patient_1379,25-Jan-23,Native American,Neurology,Admitted,40.1,9.2,No Admin,F,53
+100-18-7816,Patient_1380,25-Jan-23,Two or More Races,General Practice,Admitted,20.9,6,Admin Required,M,2
+100-61-2762,Patient_1381,26-Jan-23,Native American,Gastroenterology,Not Admitted,34.2,8.4,No Admin,M,14
+100-68-1040,Patient_1382,26-Jan-23,Asian,General Practice,Admitted,49.6,9.8,No Admin,M,68
+100-77-9259,Patient_1383,27-Jan-23,African American,Neurology,Admitted,40.4,5.5,No Admin,M,6
+100-17-8804,Patient_1384,27-Jan-23,Two or More Races,Cardiology,Not Admitted,29.8,5.8,Admin Required,M,11
+100-95-4198,Patient_1385,28-Jan-23,Declined to Identify,General Practice,Admitted,33.4,9.3,Admin Required,F,56
+100-64-8183,Patient_1386,28-Jan-23,African American,Neurology,Admitted,54.5,4.1,Admin Required,M,37
+100-71-3479,Patient_1387,29-Jan-23,African American,General Practice,Not Admitted,41,3.2,Admin Required,M,69
+100-39-6154,Patient_1388,30-Jan-23,African American,Gastroenterology,Not Admitted,41.1,9.4,No Admin,M,30
+100-20-2492,Patient_1389,30-Jan-23,Declined to Identify,Orthopedics,Admitted,58.5,8.8,Admin Required,F,15
+100-30-2348,Patient_1390,31-Jan-23,White,General Practice,Not Admitted,32.8,9.8,Admin Required,M,23
+100-57-8851,Patient_1391,31-Jan-23,Pacific Islander,Gastroenterology,Admitted,39.2,3.4,Admin Required,M,34
+100-42-8156,Patient_1392,1-Feb-23,Native American,Physiotherapy,Not Admitted,52.5,4.1,No Admin,M,64
+100-82-4516,Patient_1393,1-Feb-23,Asian,Neurology,Admitted,50.4,3.7,Admin Required,M,50
+100-18-5577,Patient_1394,2-Feb-23,Native American,None,Not Admitted,30.6,7.8,Admin Required,F,62
+100-97-8468,Patient_1395,2-Feb-23,Two or More Races,Cardiology,Admitted,26,7.2,Admin Required,F,51
+100-96-2447,Patient_1396,3-Feb-23,White,None,Not Admitted,48,5.5,No Admin,M,36
+100-85-7581,Patient_1397,3-Feb-23,Two or More Races,Neurology,Not Admitted,30.3,3.4,No Admin,M,24
+100-85-7317,Patient_1398,4-Feb-23,Native American,Orthopedics,Not Admitted,56.9,7.5,Admin Required,M,42
+100-56-1526,Patient_1399,5-Feb-23,Asian,General Practice,Not Admitted,25.2,7,No Admin,F,15
+100-28-7748,Patient_1400,5-Feb-23,Declined to Identify,Orthopedics,Not Admitted,32.7,3.8,Admin Required,M,67
+100-31-8986,Patient_1401,6-Feb-23,Native American,None,Not Admitted,22.2,9.4,Admin Required,F,40
+100-47-4740,Patient_1402,6-Feb-23,African American,Cardiology,Not Admitted,48.1,4.4,Admin Required,M,40
+100-60-2846,Patient_1403,7-Feb-23,Native American,Gastroenterology,Admitted,55.7,8.2,Admin Required,F,5
+100-80-1771,Patient_1404,7-Feb-23,African American,Cardiology,Admitted,45.4,9.2,No Admin,M,0
+100-31-9770,Patient_1405,8-Feb-23,Declined to Identify,Neurology,Not Admitted,57.5,7.1,Admin Required,M,16
+100-95-1193,Patient_1406,8-Feb-23,Native American,Neurology,Not Admitted,25.1,4.7,No Admin,M,25
+100-97-2185,Patient_1407,9-Feb-23,White,Orthopedics,Admitted,23.5,5.2,Admin Required,M,0
+100-64-5005,Patient_1408,10-Feb-23,White,Gastroenterology,Admitted,53.5,9.2,No Admin,M,68
+100-15-3261,Patient_1409,10-Feb-23,Two or More Races,Orthopedics,Not Admitted,54.2,5.1,No Admin,F,63
+100-34-7716,Patient_1410,11-Feb-23,Declined to Identify,General Practice,Admitted,53.2,8.2,No Admin,M,38
+100-21-9921,Patient_1411,11-Feb-23,White,Physiotherapy,Admitted,52,9.9,No Admin,M,68
+100-36-8815,Patient_1412,12-Feb-23,Native American,Gastroenterology,Not Admitted,34.5,10,No Admin,F,17
+100-92-4451,Patient_1413,12-Feb-23,Declined to Identify,Physiotherapy,Not Admitted,28.7,6.7,No Admin,M,55
+100-74-3800,Patient_1414,13-Feb-23,Asian,Cardiology,Not Admitted,57.2,8.8,Admin Required,M,46
+100-49-9333,Patient_1415,13-Feb-23,African American,General Practice,Admitted,32.3,9.9,Admin Required,F,60
+100-44-2455,Patient_1416,14-Feb-23,Native American,Physiotherapy,Not Admitted,35.9,5.6,Admin Required,F,17
+100-93-6808,Patient_1417,14-Feb-23,African American,None,Not Admitted,48,4.8,Admin Required,M,52
+100-22-5796,Patient_1418,15-Feb-23,African American,Cardiology,Admitted,31.7,3.8,Admin Required,M,59
+100-58-2325,Patient_1419,16-Feb-23,Declined to Identify,Physiotherapy,Not Admitted,52.8,4,Admin Required,F,9
+100-71-2159,Patient_1420,16-Feb-23,Declined to Identify,General Practice,Admitted,22.8,9,No Admin,M,55
+100-52-5987,Patient_1421,17-Feb-23,Two or More Races,Physiotherapy,Admitted,51.6,7.1,Admin Required,M,23
+100-48-1340,Patient_1422,17-Feb-23,African American,Neurology,Admitted,44.1,9.1,No Admin,F,58
+100-58-1703,Patient_1423,18-Feb-23,Two or More Races,Orthopedics,Admitted,42.9,8.5,Admin Required,F,56
+100-71-6482,Patient_1424,18-Feb-23,African American,None,Admitted,38.3,7.7,No Admin,M,43
+100-63-7376,Patient_1425,19-Feb-23,Two or More Races,Neurology,Admitted,31.1,7.3,Admin Required,M,25
+100-18-6463,Patient_1426,19-Feb-23,Two or More Races,Neurology,Not Admitted,38.6,3.3,No Admin,M,14
+100-46-5912,Patient_1427,20-Feb-23,Asian,General Practice,Not Admitted,38,9.1,Admin Required,M,22
+100-50-1855,Patient_1428,20-Feb-23,Two or More Races,Orthopedics,Not Admitted,43.4,5.9,Admin Required,F,26
+100-30-3866,Patient_1429,21-Feb-23,Declined to Identify,Orthopedics,Admitted,31.3,6.9,No Admin,M,15
+100-68-1182,Patient_1430,22-Feb-23,Two or More Races,Gastroenterology,Not Admitted,23.1,3.2,Admin Required,M,43
+100-50-6670,Patient_1431,22-Feb-23,African American,Cardiology,Admitted,25.8,9.6,Admin Required,F,69
+100-22-6823,Patient_1432,23-Feb-23,Two or More Races,None,Not Admitted,48,9.3,Admin Required,M,76
+100-20-2517,Patient_1433,23-Feb-23,White,Cardiology,Admitted,20.9,6.8,No Admin,F,58
+100-28-6002,Patient_1434,24-Feb-23,Pacific Islander,General Practice,Not Admitted,54.3,7,Admin Required,M,24
+100-86-4629,Patient_1435,24-Feb-23,African American,None,Admitted,47.8,7.9,No Admin,F,20
+100-54-9210,Patient_1436,25-Feb-23,White,Gastroenterology,Not Admitted,50.7,4.9,Admin Required,F,64
+100-85-7132,Patient_1437,25-Feb-23,African American,Physiotherapy,Admitted,53.4,4.6,Admin Required,M,18
+100-21-7588,Patient_1438,26-Feb-23,Declined to Identify,Neurology,Not Admitted,24.9,7.7,No Admin,F,31
+100-42-7246,Patient_1439,26-Feb-23,Pacific Islander,None,Admitted,52.9,3.7,Admin Required,M,67
+100-78-5615,Patient_1440,27-Feb-23,Pacific Islander,Cardiology,Not Admitted,40.2,6.2,No Admin,F,21
+100-34-9365,Patient_1441,28-Feb-23,Declined to Identify,Neurology,Not Admitted,55.4,6.4,Admin Required,F,8
+100-96-4741,Patient_1442,28-Feb-23,Pacific Islander,General Practice,Not Admitted,55.5,5.7,Admin Required,F,51
+100-56-1726,Patient_1443,1-Mar-23,Declined to Identify,Cardiology,Admitted,21,4.3,No Admin,F,52
+100-58-6806,Patient_1444,1-Mar-23,White,Physiotherapy,Admitted,35.3,5.5,No Admin,F,67
+100-93-7993,Patient_1445,2-Mar-23,Asian,General Practice,Admitted,41.1,5.4,No Admin,M,45
+100-27-5033,Patient_1446,2-Mar-23,African American,Physiotherapy,Admitted,47.1,6.5,No Admin,F,60
+100-77-1989,Patient_1447,3-Mar-23,Declined to Identify,Physiotherapy,Admitted,31.4,7.7,Admin Required,F,23
+100-42-9611,Patient_1448,3-Mar-23,African American,Neurology,Not Admitted,30.1,9.8,Admin Required,M,17
+100-91-2774,Patient_1449,4-Mar-23,White,General Practice,Admitted,35.3,4,Admin Required,F,10
+100-37-1935,Patient_1450,4-Mar-23,Asian,General Practice,Not Admitted,40,9.1,No Admin,M,62
+100-93-4808,Patient_1451,5-Mar-23,White,None,Not Admitted,58,5,No Admin,F,13
+100-85-8922,Patient_1452,6-Mar-23,Pacific Islander,Cardiology,Admitted,50.5,7.1,Admin Required,F,62
+100-24-6889,Patient_1453,6-Mar-23,African American,General Practice,Not Admitted,37.2,6.8,Admin Required,M,28
+100-72-4868,Patient_1454,7-Mar-23,Native American,None,Admitted,22.2,6.9,Admin Required,M,1
+100-83-3497,Patient_1455,7-Mar-23,Asian,Orthopedics,Admitted,26.7,8.1,No Admin,F,40
+100-60-5658,Patient_1456,8-Mar-23,Pacific Islander,Orthopedics,Admitted,38.2,5.7,No Admin,F,46
+100-82-8544,Patient_1457,8-Mar-23,Asian,Orthopedics,Not Admitted,52.6,5.2,Admin Required,F,66
+100-48-1770,Patient_1458,9-Mar-23,Pacific Islander,Gastroenterology,Admitted,35.2,9,Admin Required,F,74
+100-93-2628,Patient_1459,9-Mar-23,White,General Practice,Admitted,41.5,4.5,Admin Required,M,41
+100-47-1386,Patient_1460,10-Mar-23,Declined to Identify,Gastroenterology,Admitted,55.7,4.3,No Admin,F,70
+100-25-7439,Patient_1461,11-Mar-23,African American,Cardiology,Not Admitted,56.6,3.1,No Admin,M,74
+100-11-5008,Patient_1462,11-Mar-23,Two or More Races,General Practice,Admitted,28.6,4.5,Admin Required,F,39
+100-21-3466,Patient_1463,12-Mar-23,Two or More Races,None,Not Admitted,21.7,6.6,No Admin,M,16
+100-74-8980,Patient_1464,12-Mar-23,White,Gastroenterology,Not Admitted,32.2,6.8,Admin Required,M,28
+100-88-6476,Patient_1465,13-Mar-23,African American,Gastroenterology,Admitted,47.8,4.8,Admin Required,M,4
+100-94-5669,Patient_1466,13-Mar-23,African American,Cardiology,Not Admitted,58,3.5,No Admin,F,69
+100-58-5318,Patient_1467,14-Mar-23,White,Gastroenterology,Not Admitted,23.1,8.2,Admin Required,M,61
+100-34-8446,Patient_1468,14-Mar-23,African American,Physiotherapy,Admitted,21.1,8.3,No Admin,M,53
+100-33-6624,Patient_1469,15-Mar-23,Declined to Identify,None,Admitted,55.4,10,Admin Required,M,58
+100-47-2819,Patient_1470,15-Mar-23,White,Orthopedics,Admitted,49.9,9.3,Admin Required,M,15
+100-30-2130,Patient_1471,16-Mar-23,Declined to Identify,None,Not Admitted,59.7,9.5,No Admin,M,27
+100-27-7563,Patient_1472,17-Mar-23,African American,Physiotherapy,Admitted,35.9,8.6,Admin Required,M,31
+100-54-9566,Patient_1473,17-Mar-23,White,Cardiology,Not Admitted,36.6,7.3,Admin Required,F,22
+100-82-5020,Patient_1474,18-Mar-23,African American,Cardiology,Not Admitted,26.9,3.9,No Admin,M,18
+100-39-4259,Patient_1475,18-Mar-23,White,General Practice,Not Admitted,24.6,7.4,Admin Required,M,24
+100-41-2474,Patient_1476,19-Mar-23,African American,None,Not Admitted,43.1,3.4,Admin Required,F,59
+100-76-4243,Patient_1477,19-Mar-23,Declined to Identify,Cardiology,Not Admitted,34.6,9.2,No Admin,M,59
+100-88-6160,Patient_1478,20-Mar-23,Native American,Gastroenterology,Admitted,23.2,6.4,Admin Required,M,7
+100-72-3070,Patient_1479,20-Mar-23,Declined to Identify,Cardiology,Admitted,55.5,7.9,Admin Required,M,30
+100-84-2141,Patient_1480,21-Mar-23,African American,Cardiology,Not Admitted,27.9,3.4,No Admin,F,53
+100-42-4361,Patient_1481,21-Mar-23,White,Cardiology,Not Admitted,49.9,6.7,Admin Required,F,0
+100-65-8835,Patient_1482,22-Mar-23,Two or More Races,Cardiology,Admitted,31.3,5.1,No Admin,M,30
+100-46-1006,Patient_1483,23-Mar-23,Declined to Identify,Orthopedics,Admitted,52.5,5,Admin Required,M,54
+100-77-7564,Patient_1484,23-Mar-23,Declined to Identify,Orthopedics,Not Admitted,24.7,5.7,No Admin,M,35
+100-65-5928,Patient_1485,24-Mar-23,Pacific Islander,General Practice,Not Admitted,50.2,3,Admin Required,M,70
+100-74-3606,Patient_1486,24-Mar-23,Two or More Races,Cardiology,Admitted,23.9,6.3,Admin Required,M,25
+100-29-6906,Patient_1487,25-Mar-23,African American,None,Admitted,37.9,6.4,No Admin,F,4
+100-38-4273,Patient_1488,25-Mar-23,Native American,Physiotherapy,Not Admitted,49.4,9,No Admin,F,33
+100-69-1913,Patient_1489,26-Mar-23,White,General Practice,Admitted,26.9,6.1,No Admin,F,69
+100-44-6546,Patient_1490,26-Mar-23,Pacific Islander,None,Admitted,31.4,5.5,Admin Required,F,34
+100-20-2829,Patient_1491,27-Mar-23,African American,Cardiology,Not Admitted,54.6,10,No Admin,M,27
+100-73-7468,Patient_1492,27-Mar-23,Asian,Neurology,Not Admitted,55.4,7,Admin Required,M,58
+100-17-1929,Patient_1493,28-Mar-23,Native American,Cardiology,Not Admitted,21.8,6.3,No Admin,M,51
+100-57-4699,Patient_1494,29-Mar-23,Declined to Identify,Orthopedics,Admitted,26.7,6.5,No Admin,M,65
+100-65-2054,Patient_1495,29-Mar-23,Asian,Physiotherapy,Not Admitted,24.7,8.7,Admin Required,M,15
+100-13-6744,Patient_1496,30-Mar-23,Declined to Identify,Gastroenterology,Admitted,27.2,5.4,No Admin,M,19
+100-59-7980,Patient_1497,30-Mar-23,Declined to Identify,Physiotherapy,Not Admitted,58.8,5.7,Admin Required,M,51
+100-39-4415,Patient_1498,31-Mar-23,Asian,Gastroenterology,Not Admitted,42.1,8.3,Admin Required,F,70
+100-68-7218,Patient_1499,31-Mar-23,Native American,Physiotherapy,Admitted,38.7,3.5,No Admin,M,63
+100-54-8939,Patient_1500,1-Apr-23,Asian,Orthopedics,Admitted,59.4,9.1,Admin Required,F,47
+100-35-8597,Patient_1501,1-Apr-23,African American,Gastroenterology,Not Admitted,42.3,6,No Admin,F,42
+100-73-3309,Patient_1502,2-Apr-23,Pacific Islander,None,Not Admitted,46.4,7.1,Admin Required,M,64
+100-68-7268,Patient_1503,3-Apr-23,Pacific Islander,Gastroenterology,Admitted,33.3,8.3,No Admin,F,39
+100-24-5340,Patient_1504,3-Apr-23,Asian,General Practice,Not Admitted,35.3,4.9,Admin Required,F,54
+100-39-5009,Patient_1505,4-Apr-23,African American,None,Admitted,43.8,9.2,No Admin,M,17
+100-46-7313,Patient_1506,4-Apr-23,Pacific Islander,General Practice,Admitted,22.8,9.9,Admin Required,M,38
+100-44-7789,Patient_1507,5-Apr-23,African American,Cardiology,Not Admitted,30.2,6.5,Admin Required,F,7
+100-77-1785,Patient_1508,5-Apr-23,African American,Physiotherapy,Admitted,27.9,9.6,No Admin,F,67
+100-82-3416,Patient_1509,6-Apr-23,Declined to Identify,None,Admitted,20.6,3,Admin Required,M,60
+100-38-5154,Patient_1510,6-Apr-23,Pacific Islander,Physiotherapy,Admitted,41.5,9.3,Admin Required,F,70
+100-56-6619,Patient_1511,7-Apr-23,Pacific Islander,Cardiology,Not Admitted,42.4,5.2,No Admin,M,14
+100-26-4807,Patient_1512,7-Apr-23,Declined to Identify,Neurology,Admitted,35.4,5.2,No Admin,M,18
+100-31-4236,Patient_1513,8-Apr-23,Asian,Physiotherapy,Not Admitted,30.7,4.6,Admin Required,M,14
+100-58-2932,Patient_1514,9-Apr-23,Declined to Identify,Cardiology,Not Admitted,46.1,5.2,Admin Required,F,60
+100-43-9556,Patient_1515,9-Apr-23,Pacific Islander,Physiotherapy,Not Admitted,25.4,4.5,No Admin,M,43
+100-95-5916,Patient_1516,10-Apr-23,Pacific Islander,Cardiology,Admitted,40.7,9.3,Admin Required,M,28
+100-96-1946,Patient_1517,10-Apr-23,Native American,General Practice,Admitted,50.7,9.3,No Admin,F,71
+100-12-2439,Patient_1518,11-Apr-23,Asian,Cardiology,Not Admitted,26.6,3.7,No Admin,F,22
+100-60-5857,Patient_1519,11-Apr-23,Declined to Identify,Gastroenterology,Not Admitted,50.1,4,No Admin,F,80
+100-94-1382,Patient_1520,12-Apr-23,White,Neurology,Admitted,50.4,9,Admin Required,M,65
+100-30-9491,Patient_1521,12-Apr-23,White,Physiotherapy,Not Admitted,22.4,5.8,No Admin,M,49
+100-20-1358,Patient_1522,13-Apr-23,Asian,Cardiology,Not Admitted,20.8,4.2,Admin Required,F,72
+100-77-4456,Patient_1523,13-Apr-23,Declined to Identify,Cardiology,Admitted,59,6.6,No Admin,F,53
+100-72-7626,Patient_1524,14-Apr-23,Declined to Identify,Physiotherapy,Not Admitted,27.7,5.9,Admin Required,M,58
+100-22-7652,Patient_1525,15-Apr-23,African American,Neurology,Admitted,52.9,4.5,No Admin,M,68
+100-26-4170,Patient_1526,15-Apr-23,Pacific Islander,Neurology,Admitted,42.5,8,No Admin,M,69
+100-91-3151,Patient_1527,16-Apr-23,Two or More Races,Cardiology,Not Admitted,30.6,7.4,Admin Required,F,44
+100-95-7905,Patient_1528,16-Apr-23,Native American,None,Admitted,25.2,3.7,Admin Required,F,46
+100-28-3567,Patient_1529,17-Apr-23,Asian,General Practice,Admitted,39.9,9.5,Admin Required,F,58
+100-37-9848,Patient_1530,17-Apr-23,Two or More Races,Neurology,Admitted,36.3,6.9,Admin Required,F,27
+100-45-4730,Patient_1531,18-Apr-23,Two or More Races,Neurology,Not Admitted,48,4.8,Admin Required,M,36
+100-73-4162,Patient_1532,18-Apr-23,Asian,Orthopedics,Not Admitted,56.2,4.4,Admin Required,F,47
+100-20-2708,Patient_1533,19-Apr-23,Declined to Identify,Gastroenterology,Not Admitted,52.2,4,No Admin,F,34
+100-56-4211,Patient_1534,19-Apr-23,Asian,Neurology,Admitted,31,6,No Admin,M,34
+100-30-7538,Patient_1535,20-Apr-23,Two or More Races,General Practice,Admitted,55.2,3.9,Admin Required,M,4
+100-14-2207,Patient_1536,21-Apr-23,Pacific Islander,Gastroenterology,Not Admitted,53.3,5.9,No Admin,M,20
+100-29-2960,Patient_1537,21-Apr-23,Native American,Gastroenterology,Not Admitted,57.2,4,No Admin,M,75
+100-55-1882,Patient_1538,22-Apr-23,Native American,Physiotherapy,Admitted,38.3,7.6,Admin Required,M,64
+100-28-5761,Patient_1539,22-Apr-23,Pacific Islander,Physiotherapy,Not Admitted,50.7,8.5,Admin Required,M,37
+100-57-6867,Patient_1540,23-Apr-23,Pacific Islander,Physiotherapy,Not Admitted,43.7,6.8,No Admin,M,67
+100-61-8166,Patient_1541,23-Apr-23,Declined to Identify,Physiotherapy,Not Admitted,32.4,7.8,No Admin,F,61
+100-64-8929,Patient_1542,24-Apr-23,White,Orthopedics,Not Admitted,59.8,9.6,No Admin,F,25
+100-84-9125,Patient_1543,24-Apr-23,Asian,Neurology,Not Admitted,21.5,7.5,No Admin,M,29
+100-97-3454,Patient_1544,25-Apr-23,Native American,Physiotherapy,Admitted,26.5,5.5,Admin Required,M,9
+100-24-2946,Patient_1545,25-Apr-23,Pacific Islander,Cardiology,Not Admitted,55.7,6.1,No Admin,M,75
+100-84-3808,Patient_1546,26-Apr-23,Asian,None,Not Admitted,22.4,9,Admin Required,M,62
+100-90-7068,Patient_1547,27-Apr-23,Native American,Physiotherapy,Admitted,55.5,3.9,Admin Required,F,50
+100-87-4802,Patient_1548,27-Apr-23,Pacific Islander,Neurology,Admitted,48.6,5.3,Admin Required,M,76
+100-91-5699,Patient_1549,28-Apr-23,Native American,Physiotherapy,Admitted,21.5,7,Admin Required,M,79
+100-60-6806,Patient_1550,28-Apr-23,Declined to Identify,Orthopedics,Admitted,37.2,7.7,No Admin,M,24
+100-13-1364,Patient_1551,29-Apr-23,White,General Practice,Not Admitted,50.2,8.3,No Admin,F,39
+100-44-4119,Patient_1552,29-Apr-23,White,General Practice,Not Admitted,43.3,5.2,No Admin,F,54
+100-82-2863,Patient_1553,30-Apr-23,Pacific Islander,Neurology,Not Admitted,57.4,4,Admin Required,M,57
+100-54-9016,Patient_1554,30-Apr-23,Native American,Cardiology,Not Admitted,54.7,9.7,No Admin,F,16
+100-90-4935,Patient_1555,1-May-23,Declined to Identify,General Practice,Admitted,33.3,3.5,No Admin,F,34
+100-81-8742,Patient_1556,2-May-23,African American,General Practice,Admitted,23.4,3.7,Admin Required,M,34
+100-47-6442,Patient_1557,2-May-23,Asian,None,Not Admitted,57.8,6.5,No Admin,F,20
+100-68-7980,Patient_1558,3-May-23,Asian,Neurology,Not Admitted,40.7,8.7,No Admin,M,31
+100-22-8661,Patient_1559,3-May-23,Two or More Races,Cardiology,Not Admitted,23,8.4,Admin Required,M,74
+100-70-9182,Patient_1560,4-May-23,Declined to Identify,Neurology,Not Admitted,52.7,9.6,No Admin,M,66
+100-89-2137,Patient_1561,4-May-23,Native American,General Practice,Admitted,54.7,4,No Admin,M,15
+100-31-4420,Patient_1562,5-May-23,Two or More Races,General Practice,Not Admitted,45.6,5.6,No Admin,M,20
+100-95-5778,Patient_1563,5-May-23,Pacific Islander,General Practice,Admitted,37.9,5,No Admin,M,41
+100-76-4637,Patient_1564,6-May-23,Native American,Gastroenterology,Admitted,46.5,9,Admin Required,M,32
+100-19-6929,Patient_1565,6-May-23,Two or More Races,Orthopedics,Admitted,48.3,6.4,No Admin,M,38
+100-73-1276,Patient_1566,7-May-23,White,Physiotherapy,Admitted,55.7,3.2,No Admin,F,7
+100-89-2227,Patient_1567,8-May-23,Asian,Orthopedics,Not Admitted,58.2,8,Admin Required,M,43
+100-75-4735,Patient_1568,8-May-23,Native American,Neurology,Not Admitted,40.6,5.7,Admin Required,F,47
+100-44-1695,Patient_1569,9-May-23,Two or More Races,None,Not Admitted,51.9,6.7,No Admin,F,68
+100-39-5152,Patient_1570,9-May-23,White,Physiotherapy,Not Admitted,58.6,9.3,Admin Required,M,15
+100-56-8537,Patient_1571,10-May-23,Declined to Identify,None,Admitted,26,4.8,No Admin,M,65
+100-17-3841,Patient_1572,10-May-23,Two or More Races,Cardiology,Admitted,20.7,4.7,No Admin,F,47
+100-80-9733,Patient_1573,11-May-23,Pacific Islander,Gastroenterology,Admitted,54.8,4.8,Admin Required,M,69
+100-16-2088,Patient_1574,11-May-23,Pacific Islander,Neurology,Not Admitted,27.8,5.4,Admin Required,M,76
+100-45-1024,Patient_1575,12-May-23,Pacific Islander,Gastroenterology,Admitted,21.7,3.8,Admin Required,F,68
+100-46-7144,Patient_1576,12-May-23,Native American,Neurology,Admitted,26.4,7.9,No Admin,M,6
+100-24-6668,Patient_1577,13-May-23,Asian,None,Admitted,35.4,4.5,No Admin,F,70
+100-22-9068,Patient_1578,14-May-23,Two or More Races,None,Admitted,28.8,9.5,Admin Required,M,13
+100-69-8295,Patient_1579,14-May-23,Declined to Identify,None,Not Admitted,32.2,4.5,Admin Required,M,64
+100-82-9448,Patient_1580,15-May-23,Two or More Races,Neurology,Admitted,59,4.8,No Admin,F,65
+100-45-4175,Patient_1581,15-May-23,Asian,General Practice,Admitted,48.2,5.1,No Admin,M,41
+100-32-5897,Patient_1582,16-May-23,White,None,Not Admitted,48.5,8.4,Admin Required,M,19
+100-55-8427,Patient_1583,16-May-23,Asian,Gastroenterology,Not Admitted,23.8,6,No Admin,M,71
+100-39-3014,Patient_1584,17-May-23,Pacific Islander,Cardiology,Not Admitted,49.3,8.7,Admin Required,M,43
+100-84-4426,Patient_1585,17-May-23,Native American,Physiotherapy,Admitted,49.6,8.5,No Admin,M,43
+100-81-8938,Patient_1586,18-May-23,White,Neurology,Admitted,46.4,9.5,Admin Required,F,64
+100-23-1187,Patient_1587,18-May-23,Native American,Gastroenterology,Admitted,29.1,8.3,Admin Required,F,56
+100-86-6409,Patient_1588,19-May-23,Pacific Islander,Orthopedics,Admitted,36.9,3.4,No Admin,M,40
+100-54-3130,Patient_1589,20-May-23,African American,Cardiology,Not Admitted,53.9,8.9,No Admin,M,69
+100-25-6185,Patient_1590,20-May-23,Asian,Orthopedics,Admitted,46.8,9.6,Admin Required,F,33
+100-49-6776,Patient_1591,21-May-23,Asian,Physiotherapy,Admitted,49.3,10,No Admin,M,48
+100-43-8913,Patient_1592,21-May-23,Declined to Identify,General Practice,Not Admitted,43.5,3.9,No Admin,F,37
+100-25-8355,Patient_1593,22-May-23,Two or More Races,None,Not Admitted,38,7.3,Admin Required,F,72
+100-75-2497,Patient_1594,22-May-23,White,Neurology,Not Admitted,50.4,4.4,No Admin,F,25
+100-22-3555,Patient_1595,23-May-23,Native American,Gastroenterology,Admitted,22.7,4.8,No Admin,M,58
+100-43-3951,Patient_1596,23-May-23,White,None,Admitted,46.9,8.2,No Admin,M,77
+100-96-5727,Patient_1597,24-May-23,Declined to Identify,Gastroenterology,Admitted,59.9,9.8,Admin Required,F,6
+100-64-4701,Patient_1598,24-May-23,Declined to Identify,Neurology,Admitted,51.2,7.2,No Admin,M,19
+100-62-3368,Patient_1599,25-May-23,Native American,Orthopedics,Admitted,31.6,9,No Admin,F,13
+100-26-6789,Patient_1600,26-May-23,Two or More Races,None,Not Admitted,31.1,3.1,No Admin,M,24
+100-62-3828,Patient_1601,26-May-23,Native American,Physiotherapy,Not Admitted,46.7,3.3,Admin Required,F,46
+100-30-8570,Patient_1602,27-May-23,Native American,General Practice,Admitted,55.8,7.2,No Admin,M,12
+100-62-8480,Patient_1603,27-May-23,Pacific Islander,Physiotherapy,Admitted,43.1,5.7,Admin Required,M,21
+100-34-1182,Patient_1604,28-May-23,Two or More Races,General Practice,Admitted,41.1,9.2,No Admin,M,25
+100-32-7687,Patient_1605,28-May-23,Asian,Cardiology,Admitted,26.4,5.1,No Admin,F,18
+100-71-8241,Patient_1606,29-May-23,Pacific Islander,Gastroenterology,Admitted,48.6,6,Admin Required,F,31
+100-19-8651,Patient_1607,29-May-23,African American,None,Not Admitted,48.1,6.7,Admin Required,M,72
+100-81-2589,Patient_1608,30-May-23,Two or More Races,None,Not Admitted,58.7,4.9,No Admin,M,70
+100-61-9851,Patient_1609,31-May-23,Declined to Identify,Cardiology,Not Admitted,32,9.4,No Admin,M,32
+100-41-7555,Patient_1610,31-May-23,Pacific Islander,General Practice,Admitted,50.3,6.3,Admin Required,M,46
+100-62-7846,Patient_1611,1-Jun-23,Two or More Races,Orthopedics,Admitted,37.4,6,No Admin,M,44
+100-13-2228,Patient_1612,1-Jun-23,White,Neurology,Not Admitted,42.3,8.9,No Admin,F,63
+100-68-6590,Patient_1613,2-Jun-23,Native American,Physiotherapy,Not Admitted,52.7,5.2,No Admin,F,67
+100-17-6585,Patient_1614,2-Jun-23,African American,Cardiology,Admitted,28.9,8.7,No Admin,F,77
+100-21-7046,Patient_1615,3-Jun-23,Asian,Gastroenterology,Not Admitted,33.7,3.9,Admin Required,M,20
+100-87-5945,Patient_1616,3-Jun-23,Native American,Cardiology,Not Admitted,50.9,4.3,No Admin,M,48
+100-84-8016,Patient_1617,4-Jun-23,White,Physiotherapy,Admitted,42.8,9.7,Admin Required,M,38
+100-85-8758,Patient_1618,4-Jun-23,White,Physiotherapy,Not Admitted,23.7,8.9,Admin Required,F,71
+100-66-6086,Patient_1619,5-Jun-23,African American,Gastroenterology,Not Admitted,37.2,5.7,Admin Required,M,1
+100-35-2809,Patient_1620,6-Jun-23,Asian,Gastroenterology,Not Admitted,43.5,7.5,No Admin,M,16
+100-95-7352,Patient_1621,6-Jun-23,Declined to Identify,None,Admitted,56.4,9.6,No Admin,M,35
+100-96-7056,Patient_1622,7-Jun-23,Pacific Islander,Physiotherapy,Not Admitted,27.5,4.5,Admin Required,F,62
+100-15-7468,Patient_1623,7-Jun-23,Asian,Neurology,Not Admitted,52.2,3.4,No Admin,M,51
+100-53-6951,Patient_1624,8-Jun-23,Two or More Races,Neurology,Not Admitted,25.2,6.8,No Admin,F,44
+100-38-9859,Patient_1625,8-Jun-23,White,General Practice,Admitted,29.7,4,No Admin,M,19
+100-20-5728,Patient_1626,9-Jun-23,Two or More Races,Cardiology,Admitted,29.7,4.3,No Admin,M,57
+100-74-6738,Patient_1627,9-Jun-23,Declined to Identify,Gastroenterology,Not Admitted,55.1,9.2,Admin Required,F,75
+100-28-5232,Patient_1628,10-Jun-23,Two or More Races,None,Admitted,28,3.1,Admin Required,F,16
+100-36-6793,Patient_1629,10-Jun-23,Asian,Neurology,Not Admitted,51.5,8.7,No Admin,M,22
+100-53-6571,Patient_1630,11-Jun-23,Two or More Races,Orthopedics,Admitted,38.5,6.6,Admin Required,M,78
+100-91-3224,Patient_1631,12-Jun-23,Declined to Identify,None,Admitted,60,6.9,Admin Required,F,47
+100-79-7091,Patient_1632,12-Jun-23,Declined to Identify,None,Not Admitted,53.6,7.7,No Admin,M,29
+100-60-9662,Patient_1633,13-Jun-23,Declined to Identify,Neurology,Not Admitted,49.6,6,No Admin,M,75
+100-38-8094,Patient_1634,13-Jun-23,Asian,Orthopedics,Not Admitted,54.8,3.8,No Admin,F,13
+100-19-7318,Patient_1635,14-Jun-23,Declined to Identify,General Practice,Admitted,45.4,3.7,Admin Required,M,21
+100-32-4796,Patient_1636,14-Jun-23,White,Neurology,Not Admitted,53.7,8.3,Admin Required,F,73
+100-30-1234,Patient_1637,15-Jun-23,Native American,Orthopedics,Admitted,30.4,4.5,No Admin,F,71
+100-22-4607,Patient_1638,15-Jun-23,Declined to Identify,None,Admitted,23.9,3.2,Admin Required,M,42
+100-20-6904,Patient_1639,16-Jun-23,Two or More Races,Orthopedics,Not Admitted,44.6,9.9,Admin Required,F,37
+100-77-5888,Patient_1640,16-Jun-23,Pacific Islander,None,Admitted,37.4,9.9,Admin Required,M,8
+100-82-8122,Patient_1641,17-Jun-23,Two or More Races,Cardiology,Not Admitted,37.1,5.6,No Admin,M,55
+100-92-2316,Patient_1642,18-Jun-23,Pacific Islander,Neurology,Admitted,41.1,3.2,Admin Required,M,33
+100-51-2124,Patient_1643,18-Jun-23,Two or More Races,Gastroenterology,Not Admitted,34.5,8.1,Admin Required,F,80
+100-57-3587,Patient_1644,19-Jun-23,Asian,Neurology,Admitted,45,8.8,Admin Required,F,14
+100-50-2378,Patient_1645,19-Jun-23,Two or More Races,Cardiology,Admitted,21.2,3.9,Admin Required,M,76
+100-56-2519,Patient_1646,20-Jun-23,Asian,Physiotherapy,Not Admitted,58.8,3.9,Admin Required,M,39
+100-27-8935,Patient_1647,20-Jun-23,Asian,Physiotherapy,Admitted,57,8.8,Admin Required,M,26
+100-87-9418,Patient_1648,21-Jun-23,Declined to Identify,Physiotherapy,Not Admitted,57.4,9.5,No Admin,M,49
+100-80-5072,Patient_1649,21-Jun-23,White,Neurology,Admitted,34.6,8.5,Admin Required,F,38
+100-22-3257,Patient_1650,22-Jun-23,Pacific Islander,General Practice,Admitted,41.3,4.4,Admin Required,M,34
+100-22-5424,Patient_1651,23-Jun-23,Declined to Identify,Neurology,Admitted,58.2,5.9,Admin Required,M,49
+100-47-4893,Patient_1652,23-Jun-23,Declined to Identify,Cardiology,Not Admitted,56.1,7.2,Admin Required,M,23
+100-65-3005,Patient_1653,24-Jun-23,Native American,Cardiology,Not Admitted,51.6,4.1,Admin Required,F,9
+100-96-2772,Patient_1654,24-Jun-23,Asian,Gastroenterology,Not Admitted,36.3,4.5,Admin Required,M,35
+100-43-4976,Patient_1655,25-Jun-23,Asian,Orthopedics,Not Admitted,42.6,5,Admin Required,F,51
+100-97-9967,Patient_1656,25-Jun-23,Pacific Islander,Neurology,Not Admitted,51.7,6.6,No Admin,M,14
+100-16-8170,Patient_1657,26-Jun-23,Two or More Races,Neurology,Admitted,30.9,6.6,Admin Required,F,68
+100-37-7469,Patient_1658,26-Jun-23,Two or More Races,None,Admitted,45.1,8.7,No Admin,M,26
+100-53-4220,Patient_1659,27-Jun-23,Declined to Identify,Cardiology,Not Admitted,53.1,8.3,Admin Required,M,76
+100-37-2461,Patient_1660,27-Jun-23,African American,None,Admitted,48.3,9.4,Admin Required,M,24
+100-74-9547,Patient_1661,28-Jun-23,African American,None,Admitted,39.2,8.8,No Admin,M,36
+100-30-1234,Patient_1662,29-Jun-23,Two or More Races,Neurology,Admitted,43.4,4.8,Admin Required,F,58
+100-22-8480,Patient_1663,29-Jun-23,African American,General Practice,Admitted,59.5,5.3,Admin Required,M,69
+100-58-5213,Patient_1664,30-Jun-23,Native American,Orthopedics,Not Admitted,44.1,6.5,No Admin,M,74
+100-63-2673,Patient_1665,30-Jun-23,Two or More Races,Orthopedics,Admitted,51.4,3.1,Admin Required,M,48
+100-62-8982,Patient_1666,1-Jul-23,Asian,Cardiology,Not Admitted,49.1,9.3,Admin Required,M,60
+100-62-4748,Patient_1667,1-Jul-23,Declined to Identify,Gastroenterology,Not Admitted,48.1,3.3,Admin Required,F,32
+100-33-4841,Patient_1668,2-Jul-23,White,Cardiology,Admitted,48.7,5.3,No Admin,M,36
+100-95-9016,Patient_1669,2-Jul-23,Declined to Identify,General Practice,Not Admitted,38.2,7,No Admin,F,43
+100-23-1674,Patient_1670,3-Jul-23,Two or More Races,General Practice,Admitted,39,6.6,Admin Required,M,19
+100-34-9578,Patient_1671,3-Jul-23,Native American,Orthopedics,Admitted,38.7,7.6,Admin Required,F,41
+100-26-4253,Patient_1672,4-Jul-23,Two or More Races,Physiotherapy,Admitted,21.3,6.7,No Admin,F,32
+100-33-9931,Patient_1673,5-Jul-23,Declined to Identify,None,Not Admitted,29.6,4.6,Admin Required,F,6
+100-69-4923,Patient_1674,5-Jul-23,Native American,None,Not Admitted,26.2,4.4,Admin Required,F,47
+100-37-3745,Patient_1675,6-Jul-23,Native American,Orthopedics,Not Admitted,55.5,9.4,No Admin,M,80
+100-85-4866,Patient_1676,6-Jul-23,Native American,Cardiology,Admitted,31,4.8,Admin Required,F,13
+100-62-6818,Patient_1677,7-Jul-23,Pacific Islander,General Practice,Admitted,25.5,5,No Admin,F,45
+100-56-3792,Patient_1678,7-Jul-23,Two or More Races,Cardiology,Admitted,24.8,5.9,No Admin,M,49
+100-43-5063,Patient_1679,8-Jul-23,African American,Gastroenterology,Not Admitted,48,4,No Admin,M,28
+100-34-9224,Patient_1680,8-Jul-23,African American,Physiotherapy,Admitted,20.2,6.6,Admin Required,M,23
+100-64-5025,Patient_1681,9-Jul-23,Two or More Races,Orthopedics,Admitted,38.9,7.7,Admin Required,M,34
+100-16-3803,Patient_1682,9-Jul-23,Two or More Races,None,Not Admitted,24.8,8.5,Admin Required,F,70
+100-66-4709,Patient_1683,10-Jul-23,Pacific Islander,Neurology,Not Admitted,54,8,Admin Required,F,38
+100-21-1719,Patient_1684,11-Jul-23,African American,Cardiology,Not Admitted,58.3,4,Admin Required,F,68
+100-52-7516,Patient_1685,11-Jul-23,Two or More Races,General Practice,Admitted,58.4,6.2,Admin Required,M,78
+100-86-4718,Patient_1686,12-Jul-23,Two or More Races,Neurology,Admitted,37.7,3.3,Admin Required,M,42
+100-60-5552,Patient_1687,12-Jul-23,Pacific Islander,Gastroenterology,Admitted,45.8,3.1,Admin Required,F,12
+100-41-5426,Patient_1688,13-Jul-23,Pacific Islander,Orthopedics,Not Admitted,44,6.1,Admin Required,F,59
+100-17-9835,Patient_1689,13-Jul-23,Declined to Identify,Cardiology,Not Admitted,34,4.8,No Admin,M,39
+100-76-9680,Patient_1690,14-Jul-23,Pacific Islander,None,Not Admitted,37.8,7.8,No Admin,F,49
+100-38-6345,Patient_1691,14-Jul-23,White,Cardiology,Not Admitted,22.6,8.1,Admin Required,M,47
+100-37-4276,Patient_1692,15-Jul-23,African American,Physiotherapy,Admitted,51.8,9.3,No Admin,M,52
+100-88-6243,Patient_1693,15-Jul-23,Declined to Identify,Neurology,Admitted,29.6,8.3,No Admin,M,45
+100-96-9707,Patient_1694,16-Jul-23,White,Physiotherapy,Admitted,38.4,3.3,Admin Required,M,54
+100-18-1630,Patient_1695,17-Jul-23,Two or More Races,Gastroenterology,Admitted,39.2,5.6,Admin Required,F,57
+100-14-7683,Patient_1696,17-Jul-23,Two or More Races,None,Admitted,42.4,4.9,Admin Required,M,62
+100-31-1232,Patient_1697,18-Jul-23,Declined to Identify,Neurology,Admitted,52.7,5.7,Admin Required,M,40
+100-26-6690,Patient_1698,18-Jul-23,Pacific Islander,Gastroenterology,Admitted,47.7,4.1,Admin Required,M,68
+100-80-1025,Patient_1699,19-Jul-23,Native American,Physiotherapy,Admitted,46.5,3.7,No Admin,M,49
+100-34-8468,Patient_1700,19-Jul-23,Native American,Physiotherapy,Not Admitted,41.1,6.6,Admin Required,M,28
+100-92-7410,Patient_1701,20-Jul-23,Two or More Races,Neurology,Not Admitted,23.8,8,No Admin,M,52
+100-86-4764,Patient_1702,20-Jul-23,Native American,None,Admitted,36.1,7.9,Admin Required,F,14
+100-81-6102,Patient_1703,21-Jul-23,Asian,Physiotherapy,Not Admitted,58.3,6.2,Admin Required,F,53
+100-37-2994,Patient_1704,22-Jul-23,Declined to Identify,Orthopedics,Admitted,59.8,6.7,Admin Required,F,18
+100-74-2072,Patient_1705,22-Jul-23,White,Gastroenterology,Admitted,49.2,6.6,No Admin,M,47
+100-56-7707,Patient_1706,23-Jul-23,Declined to Identify,Neurology,Not Admitted,29.1,7.8,Admin Required,M,35
+100-97-8605,Patient_1707,23-Jul-23,African American,General Practice,Admitted,24.1,3.3,Admin Required,F,9
+100-69-3606,Patient_1708,24-Jul-23,Pacific Islander,General Practice,Admitted,36.6,8,No Admin,F,60
+100-40-5781,Patient_1709,24-Jul-23,Pacific Islander,None,Admitted,54.3,7.1,Admin Required,M,47
+100-35-8763,Patient_1710,25-Jul-23,Declined to Identify,Orthopedics,Admitted,48.9,4.4,Admin Required,F,4
+100-61-3295,Patient_1711,25-Jul-23,Two or More Races,Physiotherapy,Admitted,55.4,3.3,Admin Required,F,25
+100-63-2696,Patient_1712,26-Jul-23,Two or More Races,General Practice,Admitted,44.6,3.8,No Admin,F,17
+100-59-2946,Patient_1713,26-Jul-23,Asian,None,Admitted,25.2,6.7,Admin Required,F,69
+100-24-3783,Patient_1714,27-Jul-23,Asian,Gastroenterology,Not Admitted,24.6,8.3,Admin Required,M,24
+100-70-6241,Patient_1715,28-Jul-23,Pacific Islander,Orthopedics,Not Admitted,21.9,5.3,Admin Required,M,32
+100-30-8557,Patient_1716,28-Jul-23,Asian,Orthopedics,Admitted,42.7,5.7,Admin Required,M,33
+100-47-3645,Patient_1717,29-Jul-23,White,Cardiology,Not Admitted,29.7,9.5,No Admin,M,54
+100-71-7353,Patient_1718,29-Jul-23,Asian,None,Admitted,49.4,4.5,No Admin,F,61
+100-87-2932,Patient_1719,30-Jul-23,White,None,Admitted,47.4,3.7,Admin Required,F,65
+100-12-6085,Patient_1720,30-Jul-23,Asian,Cardiology,Admitted,32.7,5.4,Admin Required,M,61
+100-15-2116,Patient_1721,31-Jul-23,Pacific Islander,Physiotherapy,Admitted,27.1,8.2,Admin Required,M,43
+100-17-1492,Patient_1722,31-Jul-23,Pacific Islander,None,Not Admitted,24.1,7.4,No Admin,F,70
+100-42-8888,Patient_1723,1-Aug-23,White,Cardiology,Not Admitted,49.5,5.9,Admin Required,F,73
+100-84-5958,Patient_1724,1-Aug-23,Declined to Identify,Physiotherapy,Not Admitted,38,9.8,Admin Required,F,56
+100-37-3743,Patient_1725,2-Aug-23,Pacific Islander,Physiotherapy,Not Admitted,32.9,8.1,No Admin,M,37
+100-73-8866,Patient_1726,3-Aug-23,Declined to Identify,Neurology,Admitted,54.3,3.4,Admin Required,F,31
+100-71-8160,Patient_1727,3-Aug-23,Two or More Races,Orthopedics,Not Admitted,43.7,8.2,No Admin,M,52
+100-85-6258,Patient_1728,4-Aug-23,White,Gastroenterology,Admitted,40.7,3.2,Admin Required,F,20
+100-98-8186,Patient_1729,4-Aug-23,Native American,Orthopedics,Admitted,49.7,7.6,Admin Required,M,6
+100-96-1619,Patient_1730,5-Aug-23,Pacific Islander,Orthopedics,Not Admitted,52.6,4.5,Admin Required,F,16
+100-38-4642,Patient_1731,5-Aug-23,African American,Neurology,Admitted,47.4,7.9,Admin Required,M,39
+100-26-9436,Patient_1732,6-Aug-23,Two or More Races,Physiotherapy,Not Admitted,37.6,5.2,Admin Required,F,57
+100-89-7593,Patient_1733,6-Aug-23,Declined to Identify,Physiotherapy,Not Admitted,35.2,9.1,Admin Required,F,34
+100-43-6366,Patient_1734,7-Aug-23,Pacific Islander,None,Not Admitted,50.9,5.4,No Admin,M,28
+100-17-4212,Patient_1735,7-Aug-23,White,Neurology,Not Admitted,40.7,7.3,Admin Required,M,65
+100-17-4423,Patient_1736,8-Aug-23,Native American,None,Not Admitted,48.2,5,No Admin,M,69
+100-74-8594,Patient_1737,9-Aug-23,Asian,Neurology,Admitted,55.6,9.4,No Admin,M,71
+100-48-4667,Patient_1738,9-Aug-23,Native American,None,Not Admitted,56.6,8.5,No Admin,F,13
+100-97-6973,Patient_1739,10-Aug-23,African American,General Practice,Not Admitted,31.1,4.7,No Admin,M,70
+100-95-3468,Patient_1740,10-Aug-23,Declined to Identify,Cardiology,Admitted,27.5,9.6,Admin Required,F,68
+100-83-4619,Patient_1741,11-Aug-23,Two or More Races,Orthopedics,Not Admitted,30.5,5.5,Admin Required,F,60
+100-37-5009,Patient_1742,11-Aug-23,Native American,Orthopedics,Not Admitted,50.1,7.6,Admin Required,M,22
+100-52-9148,Patient_1743,12-Aug-23,White,Gastroenterology,Admitted,34.8,8.2,Admin Required,M,71
+100-97-3217,Patient_1744,12-Aug-23,African American,Cardiology,Admitted,26.9,3.2,Admin Required,M,11
+100-75-4638,Patient_1745,13-Aug-23,White,Physiotherapy,Not Admitted,23.9,9.7,Admin Required,M,23
+100-81-6722,Patient_1746,13-Aug-23,Pacific Islander,Gastroenterology,Admitted,33.1,5.4,No Admin,M,13
+100-31-5444,Patient_1747,14-Aug-23,Asian,General Practice,Not Admitted,25.4,4.3,No Admin,F,60
+100-76-4947,Patient_1748,15-Aug-23,Two or More Races,Gastroenterology,Admitted,26.3,9,Admin Required,M,73
+100-22-2196,Patient_1749,15-Aug-23,White,Orthopedics,Not Admitted,47.4,7.9,Admin Required,M,17
+100-19-3787,Patient_1750,16-Aug-23,Declined to Identify,Physiotherapy,Not Admitted,20.8,3.6,Admin Required,M,33
+100-18-8927,Patient_1751,16-Aug-23,Pacific Islander,General Practice,Not Admitted,24.7,3.8,Admin Required,M,6
+100-36-7689,Patient_1752,17-Aug-23,Pacific Islander,Orthopedics,Admitted,53.8,8,Admin Required,M,47
+100-10-4743,Patient_1753,17-Aug-23,Two or More Races,Cardiology,Not Admitted,53.8,3.5,No Admin,M,37
+100-98-5422,Patient_1754,18-Aug-23,Pacific Islander,None,Admitted,33.2,9.4,Admin Required,F,67
+100-76-3451,Patient_1755,18-Aug-23,Declined to Identify,Neurology,Not Admitted,23.5,8.2,Admin Required,M,58
+100-44-8778,Patient_1756,19-Aug-23,White,General Practice,Not Admitted,48.2,5.3,Admin Required,F,20
+100-87-5369,Patient_1757,20-Aug-23,Two or More Races,Physiotherapy,Not Admitted,34.4,5.5,No Admin,F,78
+100-54-9307,Patient_1758,20-Aug-23,Pacific Islander,Gastroenterology,Not Admitted,21.8,6.5,No Admin,F,79
+100-93-1692,Patient_1759,21-Aug-23,Pacific Islander,Cardiology,Not Admitted,26.3,5.5,No Admin,F,27
+100-91-4008,Patient_1760,21-Aug-23,Declined to Identify,Gastroenterology,Admitted,25.5,8.5,Admin Required,F,13
+100-10-9345,Patient_1761,22-Aug-23,Asian,General Practice,Admitted,43.6,9.8,Admin Required,F,56
+100-29-4699,Patient_1762,22-Aug-23,Asian,Cardiology,Admitted,55.9,7.1,Admin Required,M,13
+100-96-4786,Patient_1763,23-Aug-23,Native American,Physiotherapy,Not Admitted,51.7,6.1,Admin Required,M,53
+100-50-5200,Patient_1764,23-Aug-23,Pacific Islander,General Practice,Not Admitted,41.9,4.6,No Admin,F,17
+100-14-2913,Patient_1765,24-Aug-23,White,Physiotherapy,Admitted,36.9,7.6,Admin Required,F,48
+100-74-6520,Patient_1766,24-Aug-23,Two or More Races,Gastroenterology,Not Admitted,44.7,7.8,Admin Required,M,40
+100-31-2772,Patient_1767,25-Aug-23,Pacific Islander,Orthopedics,Not Admitted,37.8,7.8,No Admin,F,38
+100-50-3780,Patient_1768,26-Aug-23,African American,Cardiology,Not Admitted,29.8,3.2,Admin Required,F,45
+100-77-8423,Patient_1769,26-Aug-23,Two or More Races,None,Admitted,47.2,9.3,No Admin,F,53
+100-20-3871,Patient_1770,27-Aug-23,Native American,Orthopedics,Admitted,54.9,5.4,Admin Required,F,16
+100-60-1660,Patient_1771,27-Aug-23,Asian,None,Admitted,34.9,8.2,Admin Required,M,54
+100-85-2132,Patient_1772,28-Aug-23,Pacific Islander,Gastroenterology,Admitted,53.7,8.3,Admin Required,F,36
+100-69-8470,Patient_1773,28-Aug-23,Declined to Identify,Cardiology,Admitted,37.2,7.6,No Admin,M,39
+100-80-7297,Patient_1774,29-Aug-23,African American,Orthopedics,Not Admitted,36.1,5.8,Admin Required,F,63
+100-49-8812,Patient_1775,29-Aug-23,Pacific Islander,Orthopedics,Not Admitted,21.1,7.3,Admin Required,M,7
+100-30-5557,Patient_1776,30-Aug-23,Native American,General Practice,Not Admitted,47.8,3.3,Admin Required,M,42
+100-13-9275,Patient_1777,30-Aug-23,White,Neurology,Not Admitted,52.3,8.3,No Admin,F,21
+100-24-4180,Patient_1778,31-Aug-23,African American,Gastroenterology,Admitted,46.5,3.7,No Admin,F,20
+100-17-7696,Patient_1779,1-Sep-23,Native American,Physiotherapy,Admitted,26.1,5.8,Admin Required,F,12
+100-28-1614,Patient_1780,1-Sep-23,Pacific Islander,Gastroenterology,Not Admitted,24.1,3.7,Admin Required,M,18
+100-55-5570,Patient_1781,2-Sep-23,White,Physiotherapy,Admitted,42.9,8.9,No Admin,F,1
+100-77-1270,Patient_1782,2-Sep-23,African American,Cardiology,Not Admitted,36.1,6.9,No Admin,M,19
+100-46-4607,Patient_1783,3-Sep-23,White,Physiotherapy,Not Admitted,37.2,7.8,No Admin,F,80
+100-33-4075,Patient_1784,3-Sep-23,White,None,Not Admitted,58.7,7.8,Admin Required,F,49
+100-76-1289,Patient_1785,4-Sep-23,African American,Physiotherapy,Not Admitted,49,8.9,Admin Required,F,43
+100-66-7614,Patient_1786,4-Sep-23,African American,Physiotherapy,Admitted,36.5,3.9,No Admin,F,38
+100-62-8415,Patient_1787,5-Sep-23,White,General Practice,Not Admitted,20.8,7.6,Admin Required,F,33
+100-32-1580,Patient_1788,5-Sep-23,Native American,Orthopedics,Admitted,21.4,7,Admin Required,F,33
+100-62-8997,Patient_1789,6-Sep-23,Asian,Gastroenterology,Not Admitted,47.4,3.2,Admin Required,M,77
+100-50-1824,Patient_1790,7-Sep-23,African American,Gastroenterology,Not Admitted,53.5,4.4,Admin Required,F,37
+100-69-6445,Patient_1791,7-Sep-23,Pacific Islander,Cardiology,Not Admitted,48.3,4.9,No Admin,M,24
+100-66-7534,Patient_1792,8-Sep-23,Two or More Races,Cardiology,Not Admitted,36.2,3.5,No Admin,M,62
+100-47-4156,Patient_1793,8-Sep-23,Declined to Identify,Physiotherapy,Admitted,21.2,5.5,Admin Required,M,31
+100-70-5307,Patient_1794,9-Sep-23,White,Neurology,Not Admitted,58.7,3.2,No Admin,M,78
+100-12-9575,Patient_1795,9-Sep-23,White,Gastroenterology,Admitted,59.5,6.9,No Admin,F,38
+100-60-9533,Patient_1796,10-Sep-23,Declined to Identify,Cardiology,Not Admitted,42,4.5,No Admin,F,34
+100-56-4109,Patient_1797,10-Sep-23,Asian,Physiotherapy,Not Admitted,22.8,5,No Admin,M,18
+100-45-4240,Patient_1798,11-Sep-23,Declined to Identify,Cardiology,Not Admitted,41.6,9.4,No Admin,M,57
+100-78-7028,Patient_1799,11-Sep-23,African American,None,Admitted,55.7,6.5,No Admin,M,36
+100-96-2849,Patient_1800,12-Sep-23,Declined to Identify,None,Not Admitted,47.2,4.9,Admin Required,F,72
+100-59-3749,Patient_1801,13-Sep-23,White,Cardiology,Not Admitted,48.8,7.2,No Admin,M,11
+100-34-1205,Patient_1802,13-Sep-23,Declined to Identify,None,Not Admitted,23.4,4.4,Admin Required,M,34
+100-66-5591,Patient_1803,14-Sep-23,Two or More Races,Cardiology,Not Admitted,24.3,3.5,Admin Required,F,38
+100-56-4811,Patient_1804,14-Sep-23,Pacific Islander,Physiotherapy,Not Admitted,25.1,3.1,Admin Required,M,23
+100-48-6141,Patient_1805,15-Sep-23,African American,General Practice,Admitted,56.2,9.7,Admin Required,F,52
+100-94-9501,Patient_1806,15-Sep-23,Declined to Identify,Neurology,Admitted,41,8.1,No Admin,F,36
+100-30-2991,Patient_1807,16-Sep-23,White,Physiotherapy,Not Admitted,51.7,8.6,Admin Required,F,57
+100-25-4273,Patient_1808,16-Sep-23,Native American,General Practice,Not Admitted,24.6,9.9,No Admin,M,17
+100-41-5538,Patient_1809,17-Sep-23,Pacific Islander,General Practice,Admitted,57.1,9.5,No Admin,M,47
+100-43-9712,Patient_1810,18-Sep-23,African American,Gastroenterology,Not Admitted,52.8,8.2,No Admin,M,54
+100-90-4722,Patient_1811,18-Sep-23,White,Physiotherapy,Admitted,29,7.9,Admin Required,M,58
+100-19-3832,Patient_1812,19-Sep-23,Asian,Physiotherapy,Not Admitted,55,5.4,Admin Required,F,36
+100-77-6679,Patient_1813,19-Sep-23,Two or More Races,Cardiology,Not Admitted,30.5,3.7,Admin Required,F,64
+100-61-1152,Patient_1814,20-Sep-23,Asian,General Practice,Admitted,28.2,7,Admin Required,F,38
+100-30-3800,Patient_1815,20-Sep-23,Two or More Races,General Practice,Not Admitted,30.6,7,No Admin,M,34
+100-74-6310,Patient_1816,21-Sep-23,Declined to Identify,General Practice,Admitted,56.4,9.7,No Admin,F,27
+100-98-3610,Patient_1817,21-Sep-23,African American,Cardiology,Admitted,56.6,6.1,Admin Required,M,63
+100-45-2104,Patient_1818,22-Sep-23,Declined to Identify,Gastroenterology,Admitted,33.2,7.8,No Admin,F,48
+100-97-8361,Patient_1819,22-Sep-23,Two or More Races,Physiotherapy,Not Admitted,48.2,7,Admin Required,F,25
+100-24-8263,Patient_1820,23-Sep-23,Two or More Races,General Practice,Admitted,47,4.2,Admin Required,F,75
+100-48-2914,Patient_1821,24-Sep-23,Two or More Races,None,Admitted,52.3,7.1,No Admin,F,22
+100-79-4072,Patient_1822,24-Sep-23,Pacific Islander,Physiotherapy,Not Admitted,31.9,6.8,Admin Required,M,22
+100-32-1166,Patient_1823,25-Sep-23,White,Cardiology,Not Admitted,40.4,6.5,No Admin,M,63
+100-66-4664,Patient_1824,25-Sep-23,African American,Gastroenterology,Not Admitted,46.7,6.6,No Admin,M,13
+100-43-1680,Patient_1825,26-Sep-23,Declined to Identify,None,Not Admitted,21.1,4.1,No Admin,M,45
+100-82-6260,Patient_1826,26-Sep-23,Declined to Identify,Cardiology,Not Admitted,35.1,6.2,Admin Required,M,13
+100-79-5357,Patient_1827,27-Sep-23,Asian,Orthopedics,Not Admitted,47.8,7.2,Admin Required,M,15
+100-93-3292,Patient_1828,27-Sep-23,Two or More Races,Physiotherapy,Admitted,30.1,6.4,Admin Required,M,43
+100-12-4408,Patient_1829,28-Sep-23,Native American,Orthopedics,Not Admitted,58.3,6.4,No Admin,M,19
+100-72-9752,Patient_1830,28-Sep-23,Two or More Races,Cardiology,Admitted,21.2,3.5,Admin Required,F,66
+100-85-2903,Patient_1831,29-Sep-23,Two or More Races,Cardiology,Not Admitted,58.3,4.3,Admin Required,F,45
+100-56-3230,Patient_1832,30-Sep-23,Native American,Cardiology,Admitted,28.7,5.2,No Admin,M,57
+100-73-5160,Patient_1833,30-Sep-23,Declined to Identify,General Practice,Admitted,22,5.9,No Admin,F,73
+100-90-8106,Patient_1834,1-Oct-23,Asian,Gastroenterology,Not Admitted,31.7,7.2,No Admin,M,58
+100-24-4171,Patient_1835,1-Oct-23,White,General Practice,Not Admitted,51.5,9,No Admin,M,39
+100-41-2151,Patient_1836,2-Oct-23,Native American,Gastroenterology,Admitted,50.1,4.1,Admin Required,M,27
+100-77-7033,Patient_1837,2-Oct-23,Pacific Islander,Neurology,Not Admitted,28.4,3.1,Admin Required,M,74
+100-92-9234,Patient_1838,3-Oct-23,African American,General Practice,Not Admitted,27.9,6.1,Admin Required,F,55
+100-44-3535,Patient_1839,3-Oct-23,Native American,Orthopedics,Admitted,45.7,6,Admin Required,M,54
+100-87-2293,Patient_1840,4-Oct-23,White,Gastroenterology,Admitted,38.3,6.9,No Admin,F,19
+100-43-5796,Patient_1841,4-Oct-23,Declined to Identify,General Practice,Admitted,51.7,8.8,Admin Required,M,45
+100-13-7871,Patient_1842,5-Oct-23,Pacific Islander,Physiotherapy,Not Admitted,21,8.6,No Admin,M,0
+100-68-3972,Patient_1843,6-Oct-23,Pacific Islander,Cardiology,Not Admitted,44.4,3.7,Admin Required,M,16
+100-92-5997,Patient_1844,6-Oct-23,Pacific Islander,Gastroenterology,Not Admitted,49.2,9.5,Admin Required,F,13
+100-58-6287,Patient_1845,7-Oct-23,Two or More Races,Gastroenterology,Not Admitted,59.7,3.8,No Admin,F,63
+100-92-3240,Patient_1846,7-Oct-23,African American,General Practice,Admitted,47.2,7.4,Admin Required,M,41
+100-78-7426,Patient_1847,8-Oct-23,Declined to Identify,Neurology,Not Admitted,29.3,7.7,No Admin,M,5
+100-89-1389,Patient_1848,8-Oct-23,Declined to Identify,General Practice,Admitted,24.3,7.8,No Admin,M,1
+100-22-2855,Patient_1849,9-Oct-23,Pacific Islander,Orthopedics,Not Admitted,45.6,4.9,No Admin,M,32
+100-71-9850,Patient_1850,9-Oct-23,Declined to Identify,Orthopedics,Not Admitted,40.9,5.3,Admin Required,M,19
+100-85-4663,Patient_1851,10-Oct-23,African American,Gastroenterology,Admitted,56,6.8,No Admin,F,63
+100-52-2481,Patient_1852,11-Oct-23,African American,Gastroenterology,Not Admitted,49.1,4.4,Admin Required,M,20
+100-98-4731,Patient_1853,11-Oct-23,Asian,General Practice,Not Admitted,40.4,3.1,No Admin,M,58
+100-77-4093,Patient_1854,12-Oct-23,Native American,Orthopedics,Admitted,36.1,6.9,Admin Required,F,18
+100-66-5068,Patient_1855,12-Oct-23,Native American,Orthopedics,Not Admitted,36.2,6.3,Admin Required,F,28
+100-81-4277,Patient_1856,13-Oct-23,Asian,Neurology,Admitted,29.1,7.6,No Admin,M,72
+100-65-9566,Patient_1857,13-Oct-23,White,Physiotherapy,Admitted,20.7,4,Admin Required,M,24
+100-76-8951,Patient_1858,14-Oct-23,Native American,Neurology,Admitted,43,8.9,No Admin,F,78
+100-92-5595,Patient_1859,14-Oct-23,African American,None,Admitted,28.5,4,Admin Required,F,75
+100-89-8291,Patient_1860,15-Oct-23,African American,Cardiology,Not Admitted,28.3,9.2,No Admin,F,41
+100-21-4197,Patient_1861,15-Oct-23,Native American,Neurology,Not Admitted,25,6.1,No Admin,F,19
+100-62-1139,Patient_1862,16-Oct-23,African American,General Practice,Not Admitted,27.6,6.8,Admin Required,M,40
+100-26-3949,Patient_1863,17-Oct-23,Asian,Physiotherapy,Admitted,21.3,9.3,No Admin,M,38
+100-14-7043,Patient_1864,17-Oct-23,Pacific Islander,General Practice,Not Admitted,47,5.1,No Admin,M,20
+100-87-8236,Patient_1865,18-Oct-23,Pacific Islander,Cardiology,Not Admitted,36.1,4.3,No Admin,M,4
+100-68-4104,Patient_1866,18-Oct-23,Declined to Identify,None,Not Admitted,42.5,6.1,Admin Required,F,20
+100-71-1049,Patient_1867,19-Oct-23,Pacific Islander,Physiotherapy,Not Admitted,45.5,4.7,No Admin,M,34
+100-28-5821,Patient_1868,19-Oct-23,Two or More Races,Gastroenterology,Admitted,58.9,6.7,Admin Required,M,24
+100-78-9058,Patient_1869,20-Oct-23,Asian,Orthopedics,Admitted,22.7,4.9,Admin Required,M,46
+100-75-3606,Patient_1870,20-Oct-23,African American,Neurology,Not Admitted,36.7,9.1,Admin Required,F,76
+100-48-9643,Patient_1871,21-Oct-23,Native American,General Practice,Admitted,29.8,7.3,No Admin,M,15
+100-42-4765,Patient_1872,21-Oct-23,Pacific Islander,None,Not Admitted,39.1,3,No Admin,M,9
+100-16-7358,Patient_1873,22-Oct-23,Asian,Orthopedics,Not Admitted,56.8,8.6,Admin Required,F,40
+100-28-9319,Patient_1874,23-Oct-23,Pacific Islander,Neurology,Not Admitted,49,5.3,No Admin,F,58
+100-63-8644,Patient_1875,23-Oct-23,White,Orthopedics,Admitted,46.5,5.2,No Admin,M,70
+100-29-8196,Patient_1876,24-Oct-23,African American,Neurology,Not Admitted,37.6,5.7,Admin Required,M,17
+100-33-7481,Patient_1877,24-Oct-23,White,Gastroenterology,Admitted,46.8,7.4,No Admin,M,6
+100-72-3761,Patient_1878,25-Oct-23,African American,Physiotherapy,Admitted,21.3,6.1,Admin Required,F,37
+100-66-7361,Patient_1879,25-Oct-23,Asian,Orthopedics,Not Admitted,43.4,7.4,Admin Required,F,21
+100-71-6788,Patient_1880,26-Oct-23,Declined to Identify,Orthopedics,Admitted,42.2,4,Admin Required,M,0
+100-83-7160,Patient_1881,26-Oct-23,Pacific Islander,Orthopedics,Admitted,33.9,9.8,No Admin,M,63
+100-75-1517,Patient_1882,27-Oct-23,Pacific Islander,Physiotherapy,Not Admitted,28.1,8.1,No Admin,F,53
+100-67-2988,Patient_1883,27-Oct-23,Two or More Races,None,Admitted,52.3,4.8,Admin Required,F,39
+100-91-4802,Patient_1884,28-Oct-23,Native American,Neurology,Admitted,22.2,8.1,Admin Required,M,16
+100-58-8162,Patient_1885,29-Oct-23,White,Gastroenterology,Not Admitted,22.8,7,Admin Required,F,65
+100-12-7241,Patient_1886,29-Oct-23,Pacific Islander,Orthopedics,Not Admitted,37.6,3.8,No Admin,M,0
+100-98-9399,Patient_1887,30-Oct-23,Asian,Cardiology,Admitted,30.1,4.2,No Admin,F,30
+100-11-6755,Patient_1888,30-Oct-23,Declined to Identify,Physiotherapy,Not Admitted,49.8,3.3,No Admin,M,15
+100-33-7309,Patient_1889,31-Oct-23,Native American,None,Not Admitted,45.4,8.7,No Admin,M,64
+100-31-9345,Patient_1890,31-Oct-23,Asian,Neurology,Admitted,50.9,6.9,No Admin,F,65
+100-52-2518,Patient_1891,1-Nov-23,White,Physiotherapy,Admitted,33,5.2,No Admin,M,44
+100-29-3600,Patient_1892,1-Nov-23,Two or More Races,Gastroenterology,Not Admitted,49.6,3.9,Admin Required,M,24
+100-63-3195,Patient_1893,2-Nov-23,Pacific Islander,Gastroenterology,Admitted,54.5,6.4,No Admin,M,38
+100-28-4554,Patient_1894,2-Nov-23,Asian,Neurology,Not Admitted,33.8,6.7,Admin Required,M,61
+100-75-3849,Patient_1895,3-Nov-23,Native American,Orthopedics,Not Admitted,33.6,7.9,Admin Required,M,40
+100-31-2742,Patient_1896,4-Nov-23,African American,Gastroenterology,Admitted,56,9.8,Admin Required,F,55
+100-36-4849,Patient_1897,4-Nov-23,Declined to Identify,None,Admitted,22,6,Admin Required,F,78
+100-82-8519,Patient_1898,5-Nov-23,Native American,Physiotherapy,Not Admitted,34,5.8,No Admin,M,56
+100-57-5195,Patient_1899,5-Nov-23,Asian,None,Not Admitted,24.7,5.6,No Admin,F,17
+100-68-3555,Patient_1900,6-Nov-23,Declined to Identify,Orthopedics,Not Admitted,21.2,8.8,Admin Required,M,69
+100-11-8619,Patient_1901,6-Nov-23,Pacific Islander,None,Not Admitted,24.5,4.1,No Admin,M,63
+100-74-3642,Patient_1902,7-Nov-23,African American,None,Admitted,37.2,5.4,Admin Required,M,5
+100-35-7409,Patient_1903,7-Nov-23,Two or More Races,General Practice,Not Admitted,47.5,8.1,No Admin,M,62
+100-62-5757,Patient_1904,8-Nov-23,Native American,None,Admitted,31.6,3.1,Admin Required,F,20
+100-60-9751,Patient_1905,9-Nov-23,Two or More Races,Neurology,Admitted,54,5,No Admin,M,15
+100-30-2271,Patient_1906,9-Nov-23,African American,Physiotherapy,Not Admitted,37.5,7.5,No Admin,M,33
+100-31-9801,Patient_1907,10-Nov-23,Declined to Identify,General Practice,Admitted,58.7,4.3,No Admin,F,68
+100-39-5120,Patient_1908,10-Nov-23,Pacific Islander,Physiotherapy,Admitted,58.2,5.1,No Admin,F,73
+100-37-5396,Patient_1909,11-Nov-23,Asian,Physiotherapy,Not Admitted,50.9,6.4,No Admin,M,20
+100-77-1816,Patient_1910,11-Nov-23,African American,Orthopedics,Admitted,57.3,6,Admin Required,F,63
+100-18-8331,Patient_1911,12-Nov-23,White,Orthopedics,Admitted,48.3,3.7,No Admin,M,46
+100-92-2920,Patient_1912,12-Nov-23,Declined to Identify,General Practice,Not Admitted,55.8,9.6,Admin Required,M,22
+100-19-3093,Patient_1913,13-Nov-23,Two or More Races,Gastroenterology,Not Admitted,29.5,3.3,Admin Required,M,49
+100-41-8967,Patient_1914,13-Nov-23,Native American,Cardiology,Not Admitted,33.8,8.2,Admin Required,M,18
+100-15-9367,Patient_1915,14-Nov-23,African American,Orthopedics,Not Admitted,50.1,3.5,No Admin,F,70
+100-47-5937,Patient_1916,15-Nov-23,Two or More Races,Cardiology,Not Admitted,37,6.3,Admin Required,M,63
+100-36-3101,Patient_1917,15-Nov-23,Declined to Identify,Orthopedics,Not Admitted,53.5,4.2,Admin Required,M,2
+100-59-4490,Patient_1918,16-Nov-23,Two or More Races,Orthopedics,Not Admitted,55.1,4,No Admin,F,50
+100-94-8294,Patient_1919,16-Nov-23,African American,Physiotherapy,Admitted,32,3.9,No Admin,M,22
+100-34-4676,Patient_1920,17-Nov-23,Declined to Identify,General Practice,Admitted,52.9,6.2,Admin Required,M,3
+100-82-9089,Patient_1921,17-Nov-23,White,Physiotherapy,Not Admitted,26.2,6.6,No Admin,F,4
+100-28-1859,Patient_1922,18-Nov-23,African American,Neurology,Admitted,33.4,3.9,Admin Required,M,55
+100-26-5138,Patient_1923,18-Nov-23,Asian,Physiotherapy,Admitted,40.7,9.9,No Admin,F,21
+100-50-5017,Patient_1924,19-Nov-23,Pacific Islander,Cardiology,Not Admitted,29.1,4.8,No Admin,M,61
+100-93-9560,Patient_1925,19-Nov-23,African American,Cardiology,Admitted,43.2,6.2,Admin Required,F,75
+100-32-2134,Patient_1926,20-Nov-23,Declined to Identify,Neurology,Not Admitted,43.1,4.5,No Admin,M,24
+100-61-6166,Patient_1927,21-Nov-23,Native American,None,Admitted,28.3,6.5,Admin Required,M,0
+100-72-7136,Patient_1928,21-Nov-23,Pacific Islander,None,Not Admitted,51.8,8.3,Admin Required,M,32
+100-78-3346,Patient_1929,22-Nov-23,African American,Neurology,Admitted,45.3,6.6,No Admin,M,34
+100-57-5897,Patient_1930,22-Nov-23,White,Neurology,Admitted,32.7,5,Admin Required,M,21
+100-49-9252,Patient_1931,23-Nov-23,Native American,Physiotherapy,Admitted,29.3,4.7,No Admin,F,70
+100-59-4901,Patient_1932,23-Nov-23,White,Neurology,Not Admitted,55.2,8.3,Admin Required,M,8
+100-67-2184,Patient_1933,24-Nov-23,Asian,General Practice,Admitted,53.4,3.8,Admin Required,F,4
+100-84-2551,Patient_1934,24-Nov-23,Native American,None,Admitted,29.2,5.6,No Admin,F,14
+100-91-2629,Patient_1935,25-Nov-23,Two or More Races,None,Not Admitted,21.4,4.1,Admin Required,F,9
+100-57-2526,Patient_1936,25-Nov-23,Native American,Gastroenterology,Not Admitted,52.2,4.8,Admin Required,M,53
+100-19-2361,Patient_1937,26-Nov-23,Pacific Islander,Neurology,Admitted,44.6,4.1,Admin Required,M,32
+100-47-5370,Patient_1938,27-Nov-23,Native American,Orthopedics,Admitted,24,9.2,No Admin,F,19
+100-45-8610,Patient_1939,27-Nov-23,Declined to Identify,Orthopedics,Admitted,43.5,8.1,Admin Required,F,60
+100-72-2993,Patient_1940,28-Nov-23,Declined to Identify,Neurology,Admitted,38.1,6.9,Admin Required,F,59
+100-74-2014,Patient_1941,28-Nov-23,Two or More Races,General Practice,Not Admitted,51,4.6,Admin Required,M,63
+100-17-1690,Patient_1942,29-Nov-23,Native American,Orthopedics,Admitted,28.4,6.6,Admin Required,M,36
+100-90-8240,Patient_1943,29-Nov-23,White,Gastroenterology,Admitted,38.1,6.6,Admin Required,M,59
+100-15-8786,Patient_1944,30-Nov-23,White,Cardiology,Not Admitted,26.2,7.1,No Admin,M,44
+100-98-1294,Patient_1945,30-Nov-23,African American,Neurology,Admitted,58.3,3.4,No Admin,M,23
+100-69-3912,Patient_1946,1-Dec-23,Asian,General Practice,Admitted,51.1,9.8,Admin Required,F,73
+100-63-5744,Patient_1947,1-Dec-23,Pacific Islander,General Practice,Admitted,49.5,6.3,Admin Required,F,41
+100-91-4258,Patient_1948,2-Dec-23,Asian,Physiotherapy,Not Admitted,47.6,9.5,No Admin,F,27
+100-94-3817,Patient_1949,3-Dec-23,Native American,General Practice,Not Admitted,36.9,3.1,Admin Required,M,33
+100-70-4641,Patient_1950,3-Dec-23,Asian,Orthopedics,Admitted,56.9,4.7,Admin Required,M,31
+100-69-9933,Patient_1951,4-Dec-23,African American,Cardiology,Admitted,22.9,3.7,No Admin,F,48
+100-49-6738,Patient_1952,4-Dec-23,Asian,Orthopedics,Not Admitted,52.1,8.4,No Admin,F,79
+100-46-8697,Patient_1953,5-Dec-23,Two or More Races,Neurology,Admitted,28.6,5.2,Admin Required,M,56
+100-72-8829,Patient_1954,5-Dec-23,African American,Cardiology,Admitted,33,8.9,Admin Required,F,72
+100-20-8352,Patient_1955,6-Dec-23,Two or More Races,Neurology,Not Admitted,40.8,8.8,Admin Required,F,66
+100-86-7915,Patient_1956,6-Dec-23,Native American,General Practice,Not Admitted,51.3,7.7,Admin Required,M,20
+100-95-9326,Patient_1957,7-Dec-23,African American,Gastroenterology,Not Admitted,53.5,7.7,No Admin,M,20
+100-70-5970,Patient_1958,8-Dec-23,Native American,None,Admitted,43.3,7.9,No Admin,M,16
+100-63-9003,Patient_1959,8-Dec-23,Native American,Cardiology,Admitted,36.1,7.7,No Admin,M,3
+100-88-8296,Patient_1960,9-Dec-23,Asian,Physiotherapy,Admitted,57.9,5.7,Admin Required,M,53
+100-64-4074,Patient_1961,9-Dec-23,Two or More Races,None,Admitted,29.9,7.8,Admin Required,F,58
+100-87-9312,Patient_1962,10-Dec-23,Native American,General Practice,Not Admitted,52.1,9.3,Admin Required,M,18
+100-10-2637,Patient_1963,10-Dec-23,Two or More Races,General Practice,Admitted,44.5,5.3,No Admin,M,32
+100-47-6103,Patient_1964,11-Dec-23,Two or More Races,None,Admitted,35.1,9.6,No Admin,M,45
+100-38-1644,Patient_1965,11-Dec-23,African American,Physiotherapy,Not Admitted,20.1,3.1,Admin Required,M,71
+100-83-3068,Patient_1966,12-Dec-23,Declined to Identify,Cardiology,Not Admitted,37.9,5.4,Admin Required,F,51
+100-80-3668,Patient_1967,12-Dec-23,Asian,Cardiology,Admitted,31.1,3.9,No Admin,M,26
+100-56-1802,Patient_1968,13-Dec-23,Native American,None,Not Admitted,24.2,3.9,Admin Required,F,18
+100-77-1195,Patient_1969,14-Dec-23,Two or More Races,Neurology,Not Admitted,23,8.7,Admin Required,F,42
+100-21-3330,Patient_1970,14-Dec-23,Pacific Islander,Orthopedics,Admitted,33.9,9.4,Admin Required,M,66
+100-65-5841,Patient_1971,15-Dec-23,Declined to Identify,Gastroenterology,Admitted,44.6,8.4,Admin Required,M,42
+100-32-9468,Patient_1972,15-Dec-23,Native American,Neurology,Admitted,53.5,9.8,No Admin,M,51
+100-70-4927,Patient_1973,16-Dec-23,Pacific Islander,Cardiology,Admitted,27.3,4.5,No Admin,M,3
+100-34-3591,Patient_1974,16-Dec-23,Asian,Orthopedics,Not Admitted,37,4,No Admin,M,73
+100-64-7121,Patient_1975,17-Dec-23,Asian,Gastroenterology,Not Admitted,35.7,6.6,No Admin,M,22
+100-58-3854,Patient_1976,17-Dec-23,Two or More Races,Gastroenterology,Admitted,40.5,8.8,No Admin,M,48
+100-89-8024,Patient_1977,18-Dec-23,Two or More Races,Gastroenterology,Admitted,52.4,3.3,Admin Required,F,65
+100-94-7972,Patient_1978,18-Dec-23,Native American,General Practice,Not Admitted,42.1,10,Admin Required,M,24
+100-18-2029,Patient_1979,19-Dec-23,African American,Gastroenterology,Admitted,53.9,7.2,Admin Required,M,55
+100-44-8206,Patient_1980,20-Dec-23,Declined to Identify,Physiotherapy,Admitted,40.7,9.9,Admin Required,F,17
+100-31-3472,Patient_1981,20-Dec-23,Native American,None,Admitted,44.2,5.6,No Admin,F,67
+100-14-1086,Patient_1982,21-Dec-23,Declined to Identify,Cardiology,Admitted,37.5,6.2,No Admin,M,44
+100-90-7219,Patient_1983,21-Dec-23,Two or More Races,Physiotherapy,Not Admitted,52.9,8.3,No Admin,M,63
+100-96-9143,Patient_1984,22-Dec-23,Asian,None,Admitted,57,8.5,Admin Required,M,56
+100-76-7968,Patient_1985,22-Dec-23,Two or More Races,Neurology,Not Admitted,45.6,4.6,Admin Required,F,44
+100-95-2700,Patient_1986,23-Dec-23,Asian,Neurology,Admitted,52.8,9.5,Admin Required,M,63
+100-96-3700,Patient_1987,23-Dec-23,Native American,None,Admitted,22.4,9.1,No Admin,M,18
+100-41-2647,Patient_1988,24-Dec-23,Asian,Physiotherapy,Not Admitted,56.2,3.1,Admin Required,F,64
+100-32-6164,Patient_1989,24-Dec-23,Two or More Races,None,Admitted,27.6,3.9,Admin Required,M,23
+100-26-4687,Patient_1990,25-Dec-23,White,Gastroenterology,Not Admitted,30.3,6.5,Admin Required,F,27
+100-94-5545,Patient_1991,26-Dec-23,Declined to Identify,General Practice,Admitted,22.1,6.2,No Admin,M,47
+100-15-5757,Patient_1992,26-Dec-23,Pacific Islander,Cardiology,Admitted,58.6,8,No Admin,M,50
+100-42-9912,Patient_1993,27-Dec-23,Asian,Neurology,Admitted,54.1,3.6,No Admin,M,18
+100-41-8081,Patient_1994,27-Dec-23,Asian,Cardiology,Admitted,56.5,7.5,No Admin,M,32
+100-87-5729,Patient_1995,28-Dec-23,White,General Practice,Admitted,53.9,7.3,Admin Required,M,23
+100-19-9306,Patient_1996,28-Dec-23,Native American,Gastroenterology,Not Admitted,39.2,4.6,Admin Required,F,61
+100-45-8178,Patient_1997,29-Dec-23,Native American,Gastroenterology,Not Admitted,57,6.8,Admin Required,M,34
+100-87-3294,Patient_1998,29-Dec-23,Native American,Neurology,Admitted,58.8,4.6,No Admin,F,67
+100-56-1146,Patient_1999,30-Dec-23,Pacific Islander,Neurology,Admitted,40.1,4,No Admin,F,41
+100-24-4453,Patient_2000,31-Dec-23,African American,Gastroenterology,Not Admitted,27,7,Admin Required,M,38
